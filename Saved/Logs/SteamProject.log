@@ -411,3 +411,64 @@ LogInit: Object subsystem initialized
 [2018.07.12-17.44.46:830][144]LogSavePackage: Save=152.30ms
 [2018.07.12-17.44.46:830][144]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ThirdPersonExampleMap_BuiltDataA50B74FB45A0D907CDD5BB80B4A65939.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
 [2018.07.12-17.44.46:831][144]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.07.12-17.47.14:411][636]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021657139b98, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/Blueprints/Characters/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.12-17.47.14:411][636]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021657139b98, Size=4
+[2018.07.12-17.47.14:411][636]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021657139b98, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_15:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.12-17.47.14:416][636]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216571389d8, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/Blueprints/Characters/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.12-17.47.14:428][636]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216372716c0, Size=296, Default__ThirdPersonCharacter_C Function /Game/Blueprints/Characters/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.12-17.47.14:438][636]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000216571389d8, Size=4
+[2018.07.12-17.47.14:438][636]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216571389d8, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_18:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.12-17.47.14:447][636]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000216372716c0, Size=296
+[2018.07.12-17.47.14:448][636]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216372716c0, Size=296, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_20:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.12-17.47.14:458][636]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216599e3ec0, Size=296, Default__ThirdPersonCharacter_C Function /Game/Blueprints/Characters/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.12-17.47.25:558][950]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000216599e3ec0, Size=296
+[2018.07.12-17.47.25:559][950]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021659b825c0, Size=296, Default__0_Base_C Function /Engine/Transient.REINST_0_Base_C_24:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.12-17.47.25:569][950]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021636b8ad40, Size=296, Default__0_Base_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.12-17.47.25:677][950]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000216372716c0, Size=296
+[2018.07.12-17.47.25:677][950]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000216571389d8, Size=4
+[2018.07.12-17.47.25:677][950]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021657139b98, Size=4
+[2018.07.12-17.47.25:677][950]LogMetaData: Removing '/Game/Blueprints/Characters/0_Base.SKEL_0_Base_C' ref from Metadata '/Game/Blueprints/Characters/ThirdPersonCharacter.PackageMetaData'
+[2018.07.12-17.47.25:677][950]LogMetaData: Removing '/Game/Blueprints/Characters/0_Base.0_Base_C' ref from Metadata '/Game/Blueprints/Characters/ThirdPersonCharacter.PackageMetaData'
+[2018.07.12-17.47.25:720][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/0_Base" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/0_Base.uasset" SILENT=true
+[2018.07.12-17.47.25:777][950]LogSavePackage: Save=54.55ms
+[2018.07.12-17.47.25:777][950]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/0_BaseE5B8A8924654C200758701B2C3683A90.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/0_Base.uasset'
+[2018.07.12-17.47.25:779][950]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/0_Base.uasset
+[2018.07.12-17.47.25:841][950]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021659b825c0, Size=296
+[2018.07.12-17.47.37:888][299]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.07.12-17.47.38:320][299]LogUObjectGlobals: Created PersistentFrame Addr=0x000002165a1a0880, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.12-17.47.38:321][299]LogUObjectGlobals: Created PersistentFrame Addr=0x000002165a1a0878, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.12-17.47.39:535][299]LogSlate: Took 0.013249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.12-17.47.40:212][300]LogSlate: Took 0.022117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.12-17.47.46:547][786]LogSlate: Window '0_Base' being destroyed
+[2018.07.12-17.48.16:697][ 14]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2018.07.12-17.48.27:561][211]LogSkeletalMesh: Building Skeletal Mesh sk_CharM_Base...
+[2018.07.12-17.48.27:564][211]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/sk_CharM_Base.sk_CharM_Base
+[2018.07.12-17.48.28:246][211]LogTexture: Display: Building textures: T_CharM_Base_N (BC5, 1024X1024)
+[2018.07.12-17.48.28:246][211]LogTexture: Display: Building textures: T_CharM_Base_D (DXT1, 1024X1024)
+[2018.07.12-17.48.28:246][211]LogTexture: Display: Building textures: T_CharM_Base_M (AutoDXT, 1024X1024)
+[2018.07.12-17.48.28:246][211]LogMaterial: Missing cached shader map for material M_CharM_Base, compiling. 
+[2018.07.12-17.48.28:344][211]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.07.12-17.48.28:344][211]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.07.12-17.48.28:344][211]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.07.12-17.48.28:346][211]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Mannequin_Skeleton, removing AnimBP from actor.
+[2018.07.12-17.48.28:346][211]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Mannequin_Skeleton, removing AnimBP from actor.
+[2018.07.12-17.48.28:347][211]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Mannequin_Skeleton, removing AnimBP from actor.
+[2018.07.12-17.48.28:347][211]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Mannequin_Skeleton, removing AnimBP from actor.
+[2018.07.12-17.48.31:425][349]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.12-17.48.31:749][350]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.12-17.48.32:348][351]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.12-17.48.52:374][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-17.48.52:491][579]BlueprintLog: New page: Compile 0_Base
+[2018.07.12-17.48.52:508][579]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021636b8ad40, Size=296
+[2018.07.12-17.48.52:508][579]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021680c59080, Size=296, Default__0_Base_C Function /Engine/Transient.REINST_0_Base_C_40:ExecuteUbergraph_0_Base
+[2018.07.12-17.48.52:515][579]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021636b8ac00, Size=296, Default__0_Base_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.12-17.48.55:029][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/0_Base" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/0_Base.uasset" SILENT=true
+[2018.07.12-17.48.55:077][831]LogSavePackage: Save=39.93ms
+[2018.07.12-17.48.55:077][831]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/0_Base16712D2C4869B24B9D3DA487D5FF22C5.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/0_Base.uasset'
+[2018.07.12-17.48.55:082][831]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/0_Base.uasset
+[2018.07.12-17.49.19:171][751]LogSavePackage: Save=113.50ms
+[2018.07.12-17.49.19:171][751]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ThirdPersonExampleMap7527A7AB417C733BD0115F94E0B75E48.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.07.12-17.49.19:174][751]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.07.12-17.49.19:299][751]LogSavePackage: Save=102.04ms
+[2018.07.12-17.49.19:299][751]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ThirdPersonExampleMap_BuiltDataB8FA06CA4958AB24DBF96C98C1B59026.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.07.12-17.49.19:301][751]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
