@@ -617,3 +617,28 @@ LogInit: Object subsystem initialized
 [2018.07.14-21.43.10:869][ 99]LogSavePackage: Save=6.76ms
 [2018.07.14-21.43.10:869][ 99]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/MainMenu4D74F915456A895E144C33B835159DDA.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap'
 [2018.07.14-21.43.10:870][ 99]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap
+[2018.07.14-21.44.50:604][681]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.SteamProject
+[2018.07.14-21.44.50:604][681]LogTemp: CWD: E:\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.07.14-21.44.50:604][681]LogTemp: Initial Dir: E:\UE_4.19
+[2018.07.14-21.44.50:604][681]LogTemp: Env CWD: E:\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.07.14-21.44.50:604][681]LogTemp: BranchPath = MAX-PC/E/UE_4.19/Engine/Binaries --- GameBranchPath = MAX-PC/E/UE_4.19/Engine/Binaries
+[2018.07.14-21.44.50:604][681]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\maxsa\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.07.14-21.44.50:604][681]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.07.14-21.44.55:010][149]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e1c9f8a180, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.14-21.44.55:055][149]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e1c9f8a180, Size=64
+[2018.07.14-21.44.55:055][149]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e1c9f8a240, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.14-21.44.55:094][149]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e1a2742340, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.14-21.44.55:311][149]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e1d98e9f80, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.14-21.44.55:318][149]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e1d98e9f80, Size=296
+[2018.07.14-21.44.55:318][149]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e1d98e9f80, Size=296, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_97:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.14-21.44.55:325][149]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e1d98e87c0, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.14-21.44.55:447][149]LogSkeletalMesh: Skeletal Mesh found in DDC [67.082687ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.07.14-21.45.45:457][720]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.14-21.46.05:251][206]LogSlate: Window 'Project Settings' being destroyed
+[2018.07.14-21.46.05:254][206]LogSlate: Window 'Project Settings' being destroyed
+[2018.07.14-21.46.06:596][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.14-21.46.06:608][361]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e1c9f8a240, Size=64
+[2018.07.14-21.46.06:608][361]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e1d98e9f80, Size=296
+[2018.07.14-21.46.06:616][361]LogSavePackage: Save=6.33ms
+[2018.07.14-21.46.06:616][361]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/MainMenuB0C8A99F4D15507E87286EBD075E0C0F.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap'
+[2018.07.14-21.46.06:617][361]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap
