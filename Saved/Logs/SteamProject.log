@@ -526,3 +526,94 @@ LogInit: Object subsystem initialized
 [2018.07.14-21.37.15:604][193]LogSavePackage: Save=7.82ms
 [2018.07.14-21.37.15:604][193]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/MainMenu3136DAE84BC42BA3CAD908AE05A5EBC0.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap'
 [2018.07.14-21.37.15:605][193]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap
+[2018.07.14-21.37.27:776][897]LogSlate: Window 'New Level' being destroyed
+[2018.07.14-21.38.30:783][133]LogSlate: Window 'New Level' being destroyed
+[2018.07.14-21.38.58:216][458]LogAIModule: Creating AISystem for world Lobby
+[2018.07.14-21.38.58:251][458]Cmd: MAP LOAD FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/Lobby.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.14-21.38.58:251][458]LightingResults: New page: Lighting Build
+[2018.07.14-21.38.58:252][458]LoadErrors: New page: Loading map: Lobby.umap
+[2018.07.14-21.38.58:252][458]MapCheck: New page: Map Check
+[2018.07.14-21.38.58:252][458]LightingResults: New page: Lighting Build
+[2018.07.14-21.38.58:387][458]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.14-21.38.58:417][458]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.14-21.38.58:460][458]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 42.889ms to complete.
+[2018.07.14-21.38.58:461][458]LogFileHelpers: Loading map 'Lobby' took 0.211
+[2018.07.14-21.38.58:465][458]LoadErrors: Error: /Game/Maps/Lobby : Failed import for MapBuildDataRegistry /Game/Maps/Lobby_BuiltData.Lobby_BuiltData Referenced by export Level /Game/Maps/Lobby.Lobby:PersistentLevel
+[2018.07.14-21.38.59:393][565]LogAIModule: Creating AISystem for world MainMenu
+[2018.07.14-21.38.59:404][565]Cmd: MAP LOAD FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.14-21.38.59:404][565]LightingResults: New page: Lighting Build
+[2018.07.14-21.38.59:405][565]LoadErrors: New page: Loading map: MainMenu.umap
+[2018.07.14-21.38.59:406][565]MapCheck: New page: Map Check
+[2018.07.14-21.38.59:406][565]LightingResults: New page: Lighting Build
+[2018.07.14-21.38.59:551][565]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.14-21.38.59:581][565]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.14-21.38.59:624][565]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 42.416ms to complete.
+[2018.07.14-21.38.59:625][565]LogFileHelpers: Loading map 'MainMenu' took 0.221
+[2018.07.14-21.40.12:832][801]LogMetaData: Removing '/Game/UI/AllLevels/ChatText.SKEL_ChatText_C' ref from Metadata '/Game/UI/AllLevels/NewWidgetBlueprint.PackageMetaData'
+[2018.07.14-21.40.12:832][801]LogMetaData: Removing '/Game/UI/AllLevels/ChatText.ChatText_C' ref from Metadata '/Game/UI/AllLevels/NewWidgetBlueprint.PackageMetaData'
+[2018.07.14-21.40.12:832][801]LogMetaData: Removing '/Game/UI/AllLevels/ChatText.ChatText:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/AllLevels/NewWidgetBlueprint.PackageMetaData'
+[2018.07.14-21.40.12:832][801]LogMetaData: Removing '/Game/UI/AllLevels/ChatText.ChatText:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/AllLevels/NewWidgetBlueprint.PackageMetaData'
+[2018.07.14-21.40.12:832][801]LogMetaData: Removing '/Game/UI/AllLevels/ChatText.ChatText:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/AllLevels/NewWidgetBlueprint.PackageMetaData'
+[2018.07.14-21.40.12:868][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/ChatText" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/AllLevels/ChatText.uasset" SILENT=true
+[2018.07.14-21.40.12:888][801]LogSavePackage: Save=17.56ms
+[2018.07.14-21.40.12:888][801]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ChatTextE62EB2E042E07FAAA21984836F03BE0F.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/AllLevels/ChatText.uasset'
+[2018.07.14-21.40.12:890][801]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/AllLevels/ChatText.uasset
+[2018.07.14-21.40.55:121][678]LogSlate: Window 'Save Content' being destroyed
+[2018.07.14-21.40.55:141][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/ChatWindow" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/AllLevels/ChatWindow.uasset" SILENT=true
+[2018.07.14-21.40.55:154][678]LogSavePackage: Save=8.41ms
+[2018.07.14-21.40.55:154][678]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ChatWindow592774E548710AA444DDB095FB556E81.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/AllLevels/ChatWindow.uasset'
+[2018.07.14-21.40.55:157][678]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/AllLevels/ChatWindow.uasset
+[2018.07.14-21.40.55:161][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/GameplayChat" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/AllLevels/GameplayChat.uasset" SILENT=true
+[2018.07.14-21.40.55:171][678]LogSavePackage: Save=8.11ms
+[2018.07.14-21.40.55:171][678]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/GameplayChatE6F89A0D419F1E517FBC2B990D4AC286.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/AllLevels/GameplayChat.uasset'
+[2018.07.14-21.40.55:174][678]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/AllLevels/GameplayChat.uasset
+[2018.07.14-21.40.55:179][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/LoadingScreen" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/AllLevels/LoadingScreen.uasset" SILENT=true
+[2018.07.14-21.40.55:189][678]LogSavePackage: Save=7.96ms
+[2018.07.14-21.40.55:189][678]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/LoadingScreen9BB1C0FF448607EEE6DF90B52BB05528.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/AllLevels/LoadingScreen.uasset'
+[2018.07.14-21.40.55:192][678]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/AllLevels/LoadingScreen.uasset
+[2018.07.14-21.41.53:336][493]LogSlate: Window 'Save Content' being destroyed
+[2018.07.14-21.41.53:356][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/CharacterSelect" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/CharacterSelect.uasset" SILENT=true
+[2018.07.14-21.41.53:367][493]LogSavePackage: Save=9.36ms
+[2018.07.14-21.41.53:367][493]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/CharacterSelect034221A84CE044B116133C99F1F36ABA.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/CharacterSelect.uasset'
+[2018.07.14-21.41.53:370][493]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/CharacterSelect.uasset
+[2018.07.14-21.41.53:372][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/ConnectedPlayer" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/ConnectedPlayer.uasset" SILENT=true
+[2018.07.14-21.41.53:383][493]LogSavePackage: Save=7.91ms
+[2018.07.14-21.41.53:383][493]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ConnectedPlayerD31610D04BDDF79EE0464A98025162CF.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/ConnectedPlayer.uasset'
+[2018.07.14-21.41.53:386][493]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/ConnectedPlayer.uasset
+[2018.07.14-21.41.53:390][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/GameSettings" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/GameSettings.uasset" SILENT=true
+[2018.07.14-21.41.53:401][493]LogSavePackage: Save=8.51ms
+[2018.07.14-21.41.53:401][493]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/GameSettings688E1A13410F78C75250BFBA8485975E.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/GameSettings.uasset'
+[2018.07.14-21.41.53:403][493]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/GameSettings.uasset
+[2018.07.14-21.41.53:406][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.07.14-21.41.53:416][493]LogSavePackage: Save=8.52ms
+[2018.07.14-21.41.53:416][493]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/LobbyMenu48735C1049C497ABDB831FB77FDAB553.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.07.14-21.41.53:419][493]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/LobbyMenu.uasset
+[2018.07.14-21.41.53:423][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/PlayerButton" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/PlayerButton.uasset" SILENT=true
+[2018.07.14-21.41.53:434][493]LogSavePackage: Save=7.93ms
+[2018.07.14-21.41.53:434][493]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/PlayerButtonA289ED28413C13B398BDAE993DD89D18.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/PlayerButton.uasset'
+[2018.07.14-21.41.53:437][493]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/PlayerButton.uasset
+[2018.07.14-21.42.51:512][269]LogSlate: Window 'Save Content' being destroyed
+[2018.07.14-21.42.51:532][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/ErrorDialog" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/ErrorDialog.uasset" SILENT=true
+[2018.07.14-21.42.51:543][269]LogSavePackage: Save=9.73ms
+[2018.07.14-21.42.51:543][269]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ErrorDialog5993FA6E4871E0DD3536DC8D6B9E3CC5.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/ErrorDialog.uasset'
+[2018.07.14-21.42.51:546][269]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/ErrorDialog.uasset
+[2018.07.14-21.42.51:549][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/HostMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/HostMenu.uasset" SILENT=true
+[2018.07.14-21.42.51:560][269]LogSavePackage: Save=8.22ms
+[2018.07.14-21.42.51:560][269]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/HostMenu4EA181F64C237F9DF35D8DB023A4D071.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/HostMenu.uasset'
+[2018.07.14-21.42.51:562][269]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/HostMenu.uasset
+[2018.07.14-21.42.51:565][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/MainMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/MainMenu.uasset" SILENT=true
+[2018.07.14-21.42.51:574][269]LogSavePackage: Save=8.21ms
+[2018.07.14-21.42.51:574][269]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/MainMenuC59AB9A0482F4AB3A61419A4E801C6DD.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/MainMenu.uasset'
+[2018.07.14-21.42.51:578][269]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/MainMenu.uasset
+[2018.07.14-21.42.51:581][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionsMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset" SILENT=true
+[2018.07.14-21.42.51:592][269]LogSavePackage: Save=8.85ms
+[2018.07.14-21.42.51:592][269]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/OptionsMenu909DC6754A255D4719B3A38900ACF758.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset'
+[2018.07.14-21.42.51:595][269]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset
+[2018.07.14-21.42.51:597][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/ServerMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/ServerMenu.uasset" SILENT=true
+[2018.07.14-21.42.51:607][269]LogSavePackage: Save=8.72ms
+[2018.07.14-21.42.51:607][269]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ServerMenu4C770B1A4882B687B1F15DBA1C4200E9.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/ServerMenu.uasset'
+[2018.07.14-21.42.51:610][269]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/ServerMenu.uasset
+[2018.07.14-21.43.10:845][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.14-21.43.10:869][ 99]LogSavePackage: Save=6.76ms
+[2018.07.14-21.43.10:869][ 99]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/MainMenu4D74F915456A895E144C33B835159DDA.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap'
+[2018.07.14-21.43.10:870][ 99]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap
