@@ -412,3 +412,40 @@ LogInit: Object subsystem initialized
 [2018.07.16-02.16.34:145][971]LogSavePackage: Save=13.99ms
 [2018.07.16-02.16.34:145][971]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/UE4_Mannequin_Skeleton4F996F7547C7B321DC83C88C1F50AC3E.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
 [2018.07.16-02.16.34:161][971]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset
+[2018.07.16-02.17.54:764][412]LogTexture: Display: Building textures: T_CharM_Barbarous_MetalMask (DXT1, 2048X2048)
+[2018.07.16-02.17.54:764][412]LogTexture: Display: Building textures: T_CharM_Barbarous_N (BC5, 2048X2048)
+[2018.07.16-02.17.54:764][412]LogTexture: Display: Building textures: T_CharM_Barbarous_D (DXT1, 2048X2048)
+[2018.07.16-02.17.54:764][412]LogMaterial: Missing cached shader map for material M_Char_Barbrous, compiling. 
+[2018.07.16-02.17.54:863][412]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.07.16-02.17.54:863][412]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.07.16-02.17.54:863][412]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.07.16-02.17.54:865][412]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Barbarous...
+[2018.07.16-02.17.54:880][412]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Barbarous.SK_CharM_Barbarous
+[2018.07.16-02.17.58:482][412]LogTexture: Display: Building textures: T_CharM_Warrior_JewelMask (AutoDXT, 2048X2048)
+[2018.07.16-02.17.58:482][412]LogTexture: Display: Building textures: T_CharM_Warrior_N (BC5, 2048X2048)
+[2018.07.16-02.17.58:482][412]LogTexture: Display: Building textures: T_CharM_WarriorB_D (DXT1, 2048X2048)
+[2018.07.16-02.17.58:482][412]LogTexture: Display: Building textures: T_CharM_WarriorB_Mask (AutoDXT, 2048X2048)
+[2018.07.16-02.17.58:482][412]LogMaterial: Missing cached shader map for material M_Char_Warrior_B, compiling. 
+[2018.07.16-02.17.58:499][412]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Warrior...
+[2018.07.16-02.17.58:522][412]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Warrior.SK_CharM_Warrior
+[2018.07.16-02.17.58:525][412]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.07.16-02.18.00:340][412]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.07.16-02.18.00:340][412]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.07.16-02.18.00:918][413]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.07.16-02.18.02:206][416]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.07.16-02.18.02:506][417]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.07.16-02.18.03:407][418]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.07.16-02.18.03:913][419]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.16-02.18.05:381][420]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.16-02.18.05:543][421]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.16-02.18.10:622][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.16-02.18.37:045][ 87]LogSlate: Window 'SK_Mannequin_Skeleton*' being destroyed
+[2018.07.16-02.18.43:829][890]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016544312a80, Size=64
+[2018.07.16-02.18.43:832][890]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001654a87bec0, Size=296
+[2018.07.16-02.18.47:025][890]LogSlate: Window 'Save Content' being destroyed
+[2018.07.16-02.18.47:071][890]LogSavePackage: Save=8.35ms
+[2018.07.16-02.18.47:071][890]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/SK_Mannequin_SkeletonF801472C46311B09062ED1A7620E966B.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset'
+[2018.07.16-02.18.47:074][890]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset
+[2018.07.16-02.18.50:622][306]LogSavePackage: Save=8.07ms
+[2018.07.16-02.18.50:622][306]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/SK_Mannequin_SkeletonD366B2F94CF19436240269B0CB59AE58.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset'
+[2018.07.16-02.18.50:624][306]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset
