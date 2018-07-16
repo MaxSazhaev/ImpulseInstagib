@@ -449,3 +449,362 @@ LogInit: Object subsystem initialized
 [2018.07.16-02.18.50:622][306]LogSavePackage: Save=8.07ms
 [2018.07.16-02.18.50:622][306]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/SK_Mannequin_SkeletonD366B2F94CF19436240269B0CB59AE58.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset'
 [2018.07.16-02.18.50:624][306]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset
+[2018.07.16-02.19.51:383][126]LogSlate: Took 0.018592 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.16-02.19.51:407][126]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.07.16-02.20.11:137][249]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165762e6968, Size=4, Default__SKEL_ThirdPerson_AnimBP_C Function /Game/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.16-02.20.11:138][249]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000165762e6968, Size=4
+[2018.07.16-02.20.11:138][249]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165762e6968, Size=4, Default__SKEL_ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_SKEL_ThirdPerson_AnimBP_C_1:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.16-02.20.11:146][249]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165762e4250, Size=4, Default__SKEL_ThirdPerson_AnimBP_C Function /Game/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.16-02.20.11:156][249]LogUObjectGlobals: Created PersistentFrame Addr=0x000001657719bc90, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.16-02.20.11:174][249]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000165762e4250, Size=4
+[2018.07.16-02.20.11:174][249]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165762e4250, Size=4, Default__SKEL_ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_SKEL_ThirdPerson_AnimBP_C_2:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.16-02.20.11:182][249]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001657719bc90, Size=72
+[2018.07.16-02.20.11:182][249]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016576efcb30, Size=72, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_3:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.16-02.20.11:192][249]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016576901210, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.16-02.20.11:226][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPerson_Jump.ThirdPerson_Jump
+[2018.07.16-02.20.11:230][249]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPerson_Jump) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.16-02.20.11:239][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPerson_Jump.ThirdPerson_Jump
+[2018.07.16-02.20.11:239][249]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_0) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.16-02.20.11:252][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPerson_Jump.ThirdPerson_Jump
+[2018.07.16-02.20.11:253][249]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_1) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.16-02.20.11:266][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2018.07.16-02.20.11:267][249]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonJump_Loop) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.16-02.20.11:285][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2018.07.16-02.20.11:285][249]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_2) using current/default (AnimCompress_RemoveLinearKeys_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.16-02.20.11:307][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2018.07.16-02.20.11:308][249]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_3) using current/default (AnimCompress_RemoveLinearKeys_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.16-02.20.11:333][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2018.07.16-02.20.11:333][249]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonJump_Start) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.16-02.20.11:347][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2018.07.16-02.20.11:348][249]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_4) using current/default (AnimCompress_RemoveLinearKeys_7) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.16-02.20.11:366][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2018.07.16-02.20.11:366][249]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_5) using current/default (AnimCompress_RemoveLinearKeys_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.16-02.20.11:387][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonIdle.ThirdPersonIdle
+[2018.07.16-02.20.11:388][249]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonIdle) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.16-02.20.11:481][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonWalk.ThirdPersonWalk
+[2018.07.16-02.20.11:481][249]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonWalk) using current/default (AnimCompress_RemoveLinearKeys_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.16-02.20.11:515][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonRun.ThirdPersonRun
+[2018.07.16-02.20.11:515][249]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonRun) using current/default (AnimCompress_RemoveLinearKeys_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.16-02.20.11:533][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonIdle.ThirdPersonIdle
+[2018.07.16-02.20.11:533][249]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_6) using current/default (AnimCompress_RemoveLinearKeys_10) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.16-02.20.11:622][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonWalk.ThirdPersonWalk
+[2018.07.16-02.20.11:623][249]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_7) using current/default (AnimCompress_RemoveLinearKeys_11) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.16-02.20.11:653][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonRun.ThirdPersonRun
+[2018.07.16-02.20.11:653][249]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_8) using current/default (AnimCompress_RemoveLinearKeys_12) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.16-02.20.11:683][249]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165762e6ae0, Size=4, Default__SKEL_ThirdPerson_AnimBP_C Function /Game/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.16-02.20.11:692][249]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000165762e6ae0, Size=4
+[2018.07.16-02.20.11:692][249]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016576e04fe8, Size=4, SKEL_ThirdPerson_AnimBP_C_0 Function /Engine/Transient.REINST_SKEL_ThirdPerson_AnimBP_C_5:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.16-02.20.11:700][249]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016576901210, Size=72
+[2018.07.16-02.20.11:700][249]LogUObjectGlobals: Created PersistentFrame Addr=0x000001654a01ca40, Size=72, ThirdPerson_AnimBP_C_1 Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_6:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.16-02.20.11:710][249]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165674cd3f0, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.16-02.20.11:721][249]LogSlate: Window 'Select Skeleton' being destroyed
+[2018.07.16-02.20.11:843][250]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Mannequin_Skeleton, removing AnimBP from actor.
+[2018.07.16-02.20.48:319][400]LogMetaData: Removing '/Game/InfinityBladeWarriors/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C' ref from Metadata '/Game/ThirdPerson_AnimBP.PackageMetaData'
+[2018.07.16-02.20.48:319][400]LogMetaData: Removing '/Game/InfinityBladeWarriors/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP' ref from Metadata '/Game/ThirdPerson_AnimBP.PackageMetaData'
+[2018.07.16-02.20.48:319][400]LogMetaData: Removing '/Game/InfinityBladeWarriors/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/ThirdPerson_AnimBP.PackageMetaData'
+[2018.07.16-02.20.48:320][400]LogMetaData: Removing '/Game/InfinityBladeWarriors/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:IsInAir?' ref from Metadata '/Game/ThirdPerson_AnimBP.PackageMetaData'
+[2018.07.16-02.20.48:320][400]LogMetaData: Removing '/Game/InfinityBladeWarriors/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:Speed' ref from Metadata '/Game/ThirdPerson_AnimBP.PackageMetaData'
+[2018.07.16-02.20.48:320][400]LogMetaData: Removing '/Game/InfinityBladeWarriors/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:IsInAir?' ref from Metadata '/Game/ThirdPerson_AnimBP.PackageMetaData'
+[2018.07.16-02.20.48:320][400]LogMetaData: Removing '/Game/InfinityBladeWarriors/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:Speed' ref from Metadata '/Game/ThirdPerson_AnimBP.PackageMetaData'
+[2018.07.16-02.20.48:320][400]LogMetaData: Removing '/Game/InfinityBladeWarriors/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/ThirdPerson_AnimBP.PackageMetaData'
+[2018.07.16-02.20.48:320][400]LogMetaData: Removing '/Game/InfinityBladeWarriors/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C' ref from Metadata '/Game/ThirdPerson_AnimBP.PackageMetaData'
+[2018.07.16-02.20.48:380][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfinityBladeWarriors/ThirdPersonWalk" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/ThirdPersonWalk.uasset" SILENT=true
+[2018.07.16-02.20.48:408][400]LogSavePackage: Save=26.57ms
+[2018.07.16-02.20.48:408][400]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ThirdPersonWalkF161CA96451AF0C3AC9D09A21F266CD6.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/ThirdPersonWalk.uasset'
+[2018.07.16-02.20.48:410][400]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/ThirdPersonWalk.uasset
+[2018.07.16-02.20.48:427][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfinityBladeWarriors/ThirdPerson_AnimBP" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/ThirdPerson_AnimBP.uasset" SILENT=true
+[2018.07.16-02.20.48:482][400]LogSavePackage: Save=53.00ms
+[2018.07.16-02.20.48:482][400]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ThirdPerson_AnimBP4989B2B44B46396B52B2919F4295D111.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/ThirdPerson_AnimBP.uasset'
+[2018.07.16-02.20.48:485][400]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/ThirdPerson_AnimBP.uasset
+[2018.07.16-02.20.48:520][400]LogSavePackage: Save=16.47ms
+[2018.07.16-02.20.48:520][400]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ThirdPerson_IdleRun_2D7AB092E140E2A6D5FD19899172E3F6CC.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/ThirdPerson_IdleRun_2D.uasset'
+[2018.07.16-02.20.48:522][400]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/ThirdPerson_IdleRun_2D.uasset
+[2018.07.16-02.20.48:540][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfinityBladeWarriors/ThirdPerson_Jump" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/ThirdPerson_Jump.uasset" SILENT=true
+[2018.07.16-02.20.48:558][400]LogSavePackage: Save=15.75ms
+[2018.07.16-02.20.48:558][400]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ThirdPerson_Jump1B12F9B84C6830E043155F9B55DE5C84.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/ThirdPerson_Jump.uasset'
+[2018.07.16-02.20.48:560][400]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/ThirdPerson_Jump.uasset
+[2018.07.16-02.20.48:575][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfinityBladeWarriors/ThirdPersonIdle" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/ThirdPersonIdle.uasset" SILENT=true
+[2018.07.16-02.20.48:594][400]LogSavePackage: Save=16.54ms
+[2018.07.16-02.20.48:594][400]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ThirdPersonIdle42CA740C452C971972D396B326EF3415.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/ThirdPersonIdle.uasset'
+[2018.07.16-02.20.48:597][400]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/ThirdPersonIdle.uasset
+[2018.07.16-02.20.48:633][400]LogSavePackage: Save=17.94ms
+[2018.07.16-02.20.48:633][400]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ThirdPersonJump_LoopA03554804DA6E230FB3575B03E27C645.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/ThirdPersonJump_Loop.uasset'
+[2018.07.16-02.20.48:635][400]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/ThirdPersonJump_Loop.uasset
+[2018.07.16-02.20.48:667][400]LogSavePackage: Save=14.61ms
+[2018.07.16-02.20.48:667][400]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ThirdPersonJump_StartAED602234404D2815816BFB646B84978.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/ThirdPersonJump_Start.uasset'
+[2018.07.16-02.20.48:669][400]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/ThirdPersonJump_Start.uasset
+[2018.07.16-02.20.48:685][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfinityBladeWarriors/ThirdPersonRun" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/ThirdPersonRun.uasset" SILENT=true
+[2018.07.16-02.20.48:702][400]LogSavePackage: Save=14.62ms
+[2018.07.16-02.20.48:702][400]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ThirdPersonRunECE8AC364F058CD4F30183957B585C82.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/ThirdPersonRun.uasset'
+[2018.07.16-02.20.48:704][400]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/ThirdPersonRun.uasset
+[2018.07.16-02.20.48:979][400]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016576efcb30, Size=72
+[2018.07.16-02.20.48:979][400]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000165762e4250, Size=4
+[2018.07.16-02.20.48:979][400]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000165762e6968, Size=4
+[2018.07.16-02.20.48:981][400]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001654a01ca40, Size=72
+[2018.07.16-02.20.48:981][400]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016576e04fe8, Size=4
+[2018.07.16-02.20.54:976][ 61]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C' ref from Metadata '/Game/InfinityBladeWarriors/ThirdPerson_AnimBP.PackageMetaData'
+[2018.07.16-02.20.54:976][ 61]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:Speed' ref from Metadata '/Game/InfinityBladeWarriors/ThirdPerson_AnimBP.PackageMetaData'
+[2018.07.16-02.20.54:976][ 61]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:IsInAir?' ref from Metadata '/Game/InfinityBladeWarriors/ThirdPerson_AnimBP.PackageMetaData'
+[2018.07.16-02.20.54:976][ 61]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP' ref from Metadata '/Game/InfinityBladeWarriors/ThirdPerson_AnimBP.PackageMetaData'
+[2018.07.16-02.20.54:977][ 61]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/InfinityBladeWarriors/ThirdPerson_AnimBP.PackageMetaData'
+[2018.07.16-02.20.54:977][ 61]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C' ref from Metadata '/Game/InfinityBladeWarriors/ThirdPerson_AnimBP.PackageMetaData'
+[2018.07.16-02.20.54:977][ 61]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/InfinityBladeWarriors/ThirdPerson_AnimBP.PackageMetaData'
+[2018.07.16-02.20.54:977][ 61]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:Speed' ref from Metadata '/Game/InfinityBladeWarriors/ThirdPerson_AnimBP.PackageMetaData'
+[2018.07.16-02.20.54:977][ 61]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:IsInAir?' ref from Metadata '/Game/InfinityBladeWarriors/ThirdPerson_AnimBP.PackageMetaData'
+[2018.07.16-02.20.55:052][ 61]LogSavePackage: Save=17.78ms
+[2018.07.16-02.20.55:052][ 61]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ThirdPersonWalkA1F863674E5AD2653607B1B5B7C432B4.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/Animations/ThirdPersonWalk.uasset'
+[2018.07.16-02.20.55:054][ 61]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/Animations/ThirdPersonWalk.uasset
+[2018.07.16-02.20.55:121][ 61]LogSavePackage: Save=50.84ms
+[2018.07.16-02.20.55:121][ 61]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ThirdPerson_AnimBP753C3F69430C1802D0AD43A92D3CB3FF.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.uasset'
+[2018.07.16-02.20.55:124][ 61]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.uasset
+[2018.07.16-02.20.55:154][ 61]LogSavePackage: Save=13.87ms
+[2018.07.16-02.20.55:154][ 61]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ThirdPerson_IdleRun_2DDD8C81CE4C3428456DDDB3AC0E878977.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/Animations/ThirdPerson_IdleRun_2D.uasset'
+[2018.07.16-02.20.55:156][ 61]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/Animations/ThirdPerson_IdleRun_2D.uasset
+[2018.07.16-02.20.55:189][ 61]LogSavePackage: Save=16.02ms
+[2018.07.16-02.20.55:189][ 61]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ThirdPerson_Jump01EDE3824A9C9441D2717AA2B22088F5.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/Animations/ThirdPerson_Jump.uasset'
+[2018.07.16-02.20.55:191][ 61]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/Animations/ThirdPerson_Jump.uasset
+[2018.07.16-02.20.55:224][ 61]LogSavePackage: Save=15.99ms
+[2018.07.16-02.20.55:224][ 61]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ThirdPersonIdle40B16E91473A138EF9F3CCA677684C32.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/Animations/ThirdPersonIdle.uasset'
+[2018.07.16-02.20.55:226][ 61]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/Animations/ThirdPersonIdle.uasset
+[2018.07.16-02.20.55:260][ 61]LogSavePackage: Save=18.24ms
+[2018.07.16-02.20.55:260][ 61]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ThirdPersonJump_Loop73F56A57495B05CCC2744A95E27383FD.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/Animations/ThirdPersonJump_Loop.uasset'
+[2018.07.16-02.20.55:263][ 61]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/Animations/ThirdPersonJump_Loop.uasset
+[2018.07.16-02.20.55:294][ 61]LogSavePackage: Save=14.83ms
+[2018.07.16-02.20.55:294][ 61]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ThirdPersonJump_Start9890E828475338EE91DAB180C775197F.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/Animations/ThirdPersonJump_Start.uasset'
+[2018.07.16-02.20.55:297][ 61]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/Animations/ThirdPersonJump_Start.uasset
+[2018.07.16-02.20.55:328][ 61]LogSavePackage: Save=15.38ms
+[2018.07.16-02.20.55:329][ 61]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ThirdPersonRun69DA3EA348AC55B590651AB6CD9C6E89.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/Animations/ThirdPersonRun.uasset'
+[2018.07.16-02.20.55:332][ 61]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/Animations/ThirdPersonRun.uasset
+[2018.07.16-02.21.10:665][748]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000165674cd3f0, Size=72
+[2018.07.16-02.21.10:665][748]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016576902250, Size=72, Default__0_BaseAnimBP_C Function /Engine/Transient.REINST_0_BaseAnimBP_C_8:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.16-02.21.10:676][748]LogUObjectGlobals: Created PersistentFrame Addr=0x000001659c8836a0, Size=72, Default__0_BaseAnimBP_C Function /Game/InfinityBladeWarriors/Animations/0_BaseAnimBP.0_BaseAnimBP_C:ExecuteUbergraph_0_BaseAnimBP
+[2018.07.16-02.21.10:775][748]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/0_BaseAnimBP.0_BaseAnimBP_C' ref from Metadata '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.07.16-02.21.10:775][748]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/0_BaseAnimBP.SKEL_0_BaseAnimBP_C' ref from Metadata '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.07.16-02.21.10:869][748]LogSavePackage: Save=52.96ms
+[2018.07.16-02.21.10:869][748]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/0_BaseAnimBPF102542E4E65236B3EF0CC82F0795700.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/Animations/0_BaseAnimBP.uasset'
+[2018.07.16-02.21.10:871][748]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/InfinityBladeWarriors/Animations/0_BaseAnimBP.uasset
+[2018.07.16-02.21.10:941][748]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016576902250, Size=72
+[2018.07.16-02.21.32:070][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016577220f40, Size=296, Default__0_Base_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.21.32:077][  3]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016577220f40, Size=296
+[2018.07.16-02.21.32:077][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016577220f40, Size=296, Default__0_Base_C Function /Engine/Transient.REINST_0_Base_C_18:ExecuteUbergraph_0_Base
+[2018.07.16-02.21.32:084][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016577221940, Size=296, Default__0_Base_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.21.32:103][  3]LogSkeletalMesh: Skeletal Mesh found in DDC [4.595460ms] /Game/InfinityBladeWarriors/Character/CompleteCharacters/sk_CharM_Base.sk_CharM_Base
+[2018.07.16-02.21.32:855][  3]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 116 classes and 0 folders.
+[2018.07.16-02.21.33:396][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001653e7514b0, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.16-02.21.33:397][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001653e7514a8, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.16-02.21.34:621][  3]LogSlate: Took 0.017585 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.16-02.21.40:987][571]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2018.07.16-02.21.45:122][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.16-02.22.00:750][281]BlueprintLog: New page: Compile 0_Base
+[2018.07.16-02.22.00:768][281]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016577221940, Size=296
+[2018.07.16-02.22.00:768][281]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165869eca40, Size=296, 0_Base_C_34 Function /Engine/Transient.REINST_0_Base_C_34:ExecuteUbergraph_0_Base
+[2018.07.16-02.22.00:775][281]LogUObjectGlobals: Created PersistentFrame Addr=0x000001652248da80, Size=296, Default__0_Base_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.22.01:058][281]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016577220f40, Size=296
+[2018.07.16-02.22.02:452][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/0_Base" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/0_Base.uasset" SILENT=true
+[2018.07.16-02.22.02:502][441]LogSavePackage: Save=40.98ms
+[2018.07.16-02.22.02:502][441]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/0_Base2A270F8041E2C05229FB77BBF82FB987.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/0_Base.uasset'
+[2018.07.16-02.22.02:505][441]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/0_Base.uasset
+[2018.07.16-02.22.12:908][671]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165a6f00f40, Size=296, Default__Barbarous_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.22.12:910][671]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000165a6f00f40, Size=296
+[2018.07.16-02.22.12:910][671]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165a6f00f40, Size=296, Default__Barbarous_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.22.12:910][671]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165a6f011c0, Size=296, Default__Barbarous_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.22.27:867][475]LogSlate: Window 'Barbarous' being destroyed
+[2018.07.16-02.23.18:934][868]BlueprintLog: New page: Compile Barbarous
+[2018.07.16-02.23.18:939][868]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000165a6f011c0, Size=296
+[2018.07.16-02.23.18:939][868]LogUObjectGlobals: Created PersistentFrame Addr=0x000001651f376fc0, Size=296, Barbarous_C_35 Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.23.18:939][868]LogUObjectGlobals: Created PersistentFrame Addr=0x000001651f376480, Size=296, Default__Barbarous_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.23.19:207][868]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000165a6f00f40, Size=296
+[2018.07.16-02.23.20:414][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Barbarous" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/Barbarous.uasset" SILENT=true
+[2018.07.16-02.23.20:446][982]LogSavePackage: Save=21.06ms
+[2018.07.16-02.23.20:446][982]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/Barbarous1AD317E94F5D8F5B21F1A4B9F69FDB86.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/Barbarous.uasset'
+[2018.07.16-02.23.20:448][982]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/Barbarous.uasset
+[2018.07.16-02.23.40:717][322]LogSlate: Window 'Barbarous' being destroyed
+[2018.07.16-02.23.42:173][485]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016576a73100, Size=296, Default__Forge_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.23.42:175][485]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016576a73100, Size=296
+[2018.07.16-02.23.42:175][485]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016576a73100, Size=296, Default__Forge_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.23.42:175][485]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016576a72c00, Size=296, Default__Forge_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.23.52:165][ 63]LogTexture: Display: Building textures: CharM_Forge_MetalMask (AutoDXT, 2048X2048)
+[2018.07.16-02.23.52:165][ 63]LogTexture: Display: Building textures: CharM_Forge_D (DXT1, 2048X2048)
+[2018.07.16-02.23.52:165][ 63]LogTexture: Display: Building textures: CharM_Forge_N (BC5, 2048X2048)
+[2018.07.16-02.23.52:165][ 63]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Forge...
+[2018.07.16-02.23.52:169][ 63]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Forge.SK_CharM_Forge
+[2018.07.16-02.23.52:185][ 63]LogMaterial: Missing cached shader map for material M_Char_Forge, compiling. 
+[2018.07.16-02.23.52:203][ 63]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.07.16-02.23.52:203][ 63]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.07.16-02.23.52:203][ 63]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.07.16-02.23.54:009][ 81]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.16-02.23.54:344][ 82]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.16-02.23.54:873][ 83]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.16-02.23.56:375][114]LogSlate: Window 'Forge*' being destroyed
+[2018.07.16-02.24.00:839][435]BlueprintLog: New page: Compile Forge
+[2018.07.16-02.24.00:843][435]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016576a72c00, Size=296
+[2018.07.16-02.24.00:843][435]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165ac751440, Size=296, Forge_C_31 Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.24.00:843][435]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165ac751300, Size=296, Default__Forge_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.24.01:082][435]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016576a73100, Size=296
+[2018.07.16-02.24.01:770][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Forge" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/Forge.uasset" SILENT=true
+[2018.07.16-02.24.01:800][485]LogSavePackage: Save=20.30ms
+[2018.07.16-02.24.01:800][485]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/Forge040E2B0B408288E4D99C40AAA5CDD34E.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/Forge.uasset'
+[2018.07.16-02.24.01:802][485]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/Forge.uasset
+[2018.07.16-02.24.03:320][610]LogSlate: Window 'Forge' being destroyed
+[2018.07.16-02.24.04:743][764]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165a6bc6ac0, Size=296, Default__Frosty_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.24.04:746][764]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000165a6bc6ac0, Size=296
+[2018.07.16-02.24.04:746][764]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165a6bc6ac0, Size=296, Default__Frosty_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.24.04:746][764]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165a6bc7880, Size=296, Default__Frosty_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.24.14:064][155]LogTexture: Display: Building textures: T_Char_M_FrostGiant_N (BC5, 2048X2048)
+[2018.07.16-02.24.14:064][155]LogTexture: Display: Building textures: T_Char_M_FrostGiant_D (DXT1, 2048X2048)
+[2018.07.16-02.24.14:064][155]LogTexture: Display: Building textures: T_Char_M_FrostGiant_MaterialMask (AutoDXT, 2048X2048)
+[2018.07.16-02.24.14:064][155]LogTexture: Display: Building textures: T_Char_M_FrostGiant_Masks (AutoDXT, 2048X2048)
+[2018.07.16-02.24.14:064][155]LogMaterial: Missing cached shader map for material M_Char_FrostGiant, compiling. 
+[2018.07.16-02.24.14:079][155]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_FrostGiant...
+[2018.07.16-02.24.14:105][155]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.07.16-02.24.14:105][155]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.07.16-02.24.14:105][155]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.07.16-02.24.14:105][155]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_FrostGiant.SK_CharM_FrostGiant
+[2018.07.16-02.24.15:484][155]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.16-02.24.15:820][157]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.16-02.24.16:386][158]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.16-02.24.19:076][294]BlueprintLog: New page: Compile Frosty
+[2018.07.16-02.24.19:080][294]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000165a6bc7880, Size=296
+[2018.07.16-02.24.19:080][294]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016593d6dbc0, Size=296, Frosty_C_26 Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.24.19:080][294]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016593d6dd00, Size=296, Default__Frosty_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.24.19:355][294]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000165a6bc6ac0, Size=296
+[2018.07.16-02.24.20:216][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Frosty" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/Frosty.uasset" SILENT=true
+[2018.07.16-02.24.20:246][361]LogSavePackage: Save=20.96ms
+[2018.07.16-02.24.20:246][361]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/FrostyE2F3E75943031485748FC882984C2249.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/Frosty.uasset'
+[2018.07.16-02.24.20:248][361]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/Frosty.uasset
+[2018.07.16-02.24.21:210][448]LogSlate: Window 'Frosty' being destroyed
+[2018.07.16-02.24.22:386][578]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016544298cc0, Size=296, Default__Natural_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.24.22:387][578]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016544298cc0, Size=296
+[2018.07.16-02.24.22:387][578]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016544298cc0, Size=296, Default__Natural_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.24.22:388][578]LogUObjectGlobals: Created PersistentFrame Addr=0x000001654429ad40, Size=296, Default__Natural_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.24.26:520][918]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Natural...
+[2018.07.16-02.24.26:524][918]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Natural.SK_CharM_Natural
+[2018.07.16-02.24.26:803][918]LogTexture: Display: Building textures: T_CharM_Natural_Mask (AutoDXT, 2048X2048)
+[2018.07.16-02.24.26:803][918]LogTexture: Display: Building textures: T_CharM_Natural_D (DXT1, 2048X2048)
+[2018.07.16-02.24.26:803][918]LogTexture: Display: Building textures: T_CharM_Natural_N (AutoDXT, 2048X2048)
+[2018.07.16-02.24.29:351][918]LogMaterial: Missing cached shader map for material M_Char_Natural, compiling. 
+[2018.07.16-02.24.29:369][918]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.07.16-02.24.29:370][918]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.07.16-02.24.29:370][918]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.07.16-02.24.30:765][920]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.16-02.24.31:058][921]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.16-02.24.31:122][926]BlueprintLog: New page: Compile Natural
+[2018.07.16-02.24.31:126][926]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001654429ad40, Size=296
+[2018.07.16-02.24.31:126][926]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165a7a1ae80, Size=296, Natural_C_26 Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.24.31:127][926]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165a7a1b100, Size=296, Default__Natural_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.24.31:426][926]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016544298cc0, Size=296
+[2018.07.16-02.24.31:855][927]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.16-02.24.32:816][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Natural" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/Natural.uasset" SILENT=true
+[2018.07.16-02.24.32:848][928]LogSavePackage: Save=21.61ms
+[2018.07.16-02.24.32:849][928]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/Natural4CD23CBA4A9E2D07F99FA588E2D70D9E.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/Natural.uasset'
+[2018.07.16-02.24.32:851][928]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/Natural.uasset
+[2018.07.16-02.24.34:762][ 84]LogSlate: Window 'Natural' being destroyed
+[2018.07.16-02.24.37:614][415]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165a7a1bb00, Size=296, Default__Pit_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.24.37:616][415]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000165a7a1bb00, Size=296
+[2018.07.16-02.24.37:616][415]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165a7a1bb00, Size=296, Default__Pit_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.24.37:616][415]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165a7a1b9c0, Size=296, Default__Pit_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.24.42:608][756]LogTexture: Display: Building textures: T_CharM_Pit_N (BC5, 2048X2048)
+[2018.07.16-02.24.42:608][756]LogTexture: Display: Building textures: T_CharM_Pit_D (DXT1, 2048X2048)
+[2018.07.16-02.24.42:608][756]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Pit...
+[2018.07.16-02.24.42:612][756]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Pit.SK_CharM_Pit
+[2018.07.16-02.24.45:688][756]LogTexture: Display: Building textures: T_CharM_Pit_Mask (AutoDXT, 2048X2048)
+[2018.07.16-02.24.45:688][756]LogMaterial: Missing cached shader map for material M_Char_Pit, compiling. 
+[2018.07.16-02.24.45:713][756]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.07.16-02.24.45:714][756]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.07.16-02.24.45:714][756]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.07.16-02.24.47:057][756]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.16-02.24.47:331][758]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.16-02.24.48:884][759]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.16-02.24.50:131][860]BlueprintLog: New page: Compile Pit
+[2018.07.16-02.24.50:135][860]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000165a7a1b9c0, Size=296
+[2018.07.16-02.24.50:135][860]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165ad3c6e80, Size=296, Pit_C_26 Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.24.50:135][860]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165ad3c6ac0, Size=296, Default__Pit_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.24.50:409][860]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000165a7a1bb00, Size=296
+[2018.07.16-02.24.51:229][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Pit" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/Pit.uasset" SILENT=true
+[2018.07.16-02.24.51:258][924]LogSavePackage: Save=20.24ms
+[2018.07.16-02.24.51:259][924]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/Pit1E7FAB694A90B00E2CD2CAA25D4AEBB0.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/Pit.uasset'
+[2018.07.16-02.24.51:261][924]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/Pit.uasset
+[2018.07.16-02.24.54:123][182]LogSlate: Window 'Pit' being destroyed
+[2018.07.16-02.24.56:278][423]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016577c1ad40, Size=296, Default__Robo_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.24.56:281][423]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016577c1ad40, Size=296
+[2018.07.16-02.24.56:281][423]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016577c1ad40, Size=296, Default__Robo_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.24.56:281][423]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016577c1afc0, Size=296, Default__Robo_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.25.04:336][766]LogTexture: Display: Building textures: T_CharM_Robo_N (BC5, 2048X2048)
+[2018.07.16-02.25.04:336][766]LogTexture: Display: Building textures: T_CharM_Robo_D (AutoDXT, 2048X2048)
+[2018.07.16-02.25.04:336][766]LogTexture: Display: Building textures: T_CharM_Robo_Mask (AutoDXT, 2048X2048)
+[2018.07.16-02.25.04:336][766]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Robo...
+[2018.07.16-02.25.04:343][766]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Robo.SK_CharM_Robo
+[2018.07.16-02.25.04:345][766]LogMaterial: Missing cached shader map for material M_Char_Robo, compiling. 
+[2018.07.16-02.25.04:371][766]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.07.16-02.25.04:371][766]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.07.16-02.25.04:371][766]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.07.16-02.25.05:731][768]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.16-02.25.06:038][769]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.16-02.25.06:560][770]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.16-02.25.06:561][770]BlueprintLog: New page: Compile Robo
+[2018.07.16-02.25.06:565][770]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016577c1afc0, Size=296
+[2018.07.16-02.25.06:565][770]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165a7dba480, Size=296, Robo_C_26 Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.25.06:566][770]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165a7dba200, Size=296, Default__Robo_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.25.06:867][770]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016577c1ad40, Size=296
+[2018.07.16-02.25.08:903][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Robo" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/Robo.uasset" SILENT=true
+[2018.07.16-02.25.08:931][852]LogSavePackage: Save=19.38ms
+[2018.07.16-02.25.08:931][852]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/Robo6B69F6084A85E722C60115AF8D2195CB.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/Robo.uasset'
+[2018.07.16-02.25.08:934][852]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/Robo.uasset
+[2018.07.16-02.25.10:488][998]LogSlate: Window 'Robo' being destroyed
+[2018.07.16-02.25.11:766][140]LogUObjectGlobals: Created PersistentFrame Addr=0x000001659aadb380, Size=296, Default__Tusk_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.25.11:768][140]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001659aadb380, Size=296
+[2018.07.16-02.25.11:768][140]LogUObjectGlobals: Created PersistentFrame Addr=0x000001659aadb380, Size=296, Default__Tusk_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.25.11:768][140]LogUObjectGlobals: Created PersistentFrame Addr=0x000001659aad8540, Size=296, Default__Tusk_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.25.20:098][445]LogTexture: Display: Building textures: T_CharM_Tusk_E (DXT1, 1024X1024)
+[2018.07.16-02.25.20:098][445]LogTexture: Display: Building textures: T_CharM_Tusk_D (DXT1, 2048X2048)
+[2018.07.16-02.25.20:098][445]LogTexture: Display: Building textures: T_CharM_Tusk_Mask (AutoDXT, 2048X2048)
+[2018.07.16-02.25.20:098][445]LogTexture: Display: Building textures: T_CharM_Tusk_N (BC5, 1024X1024)
+[2018.07.16-02.25.20:098][445]LogMaterial: Missing cached shader map for material M_Char_Tusk, compiling. 
+[2018.07.16-02.25.20:137][445]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Tusk...
+[2018.07.16-02.25.20:140][445]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.07.16-02.25.20:140][445]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.07.16-02.25.20:140][445]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.07.16-02.25.20:140][445]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Tusk.SK_CharM_Tusk
+[2018.07.16-02.25.21:478][445]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.16-02.25.21:756][447]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.16-02.25.22:346][448]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.16-02.25.23:298][449]BlueprintLog: New page: Compile Tusk
+[2018.07.16-02.25.23:302][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001659aad8540, Size=296
+[2018.07.16-02.25.23:302][449]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165a7a23240, Size=296, Tusk_C_26 Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.25.23:303][449]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165a7a23ec0, Size=296, Default__Tusk_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.25.23:617][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001659aadb380, Size=296
+[2018.07.16-02.25.24:726][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Tusk" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/Tusk.uasset" SILENT=true
+[2018.07.16-02.25.24:756][527]LogSavePackage: Save=20.30ms
+[2018.07.16-02.25.24:756][527]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/Tusk9EDFE49644510A07E5BFF49C46282B9F.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/Tusk.uasset'
+[2018.07.16-02.25.24:759][527]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/Tusk.uasset
+[2018.07.16-02.25.26:316][665]LogSlate: Window 'Tusk' being destroyed
+[2018.07.16-02.25.27:779][829]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165a7a22c00, Size=296, Default__Warrior_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.25.27:781][829]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000165a7a22c00, Size=296
+[2018.07.16-02.25.27:781][829]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165a7a22c00, Size=296, Default__Warrior_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.25.27:781][829]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165a7a21bc0, Size=296, Default__Warrior_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.25.45:635][338]BlueprintLog: New page: Compile Warrior
+[2018.07.16-02.25.45:639][338]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000165a7a21bc0, Size=296
+[2018.07.16-02.25.45:639][338]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165e9ea0e00, Size=296, Warrior_C_26 Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.25.45:639][338]LogUObjectGlobals: Created PersistentFrame Addr=0x00000165e9ea1800, Size=296, Default__Warrior_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.16-02.25.45:919][338]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000165a7a22c00, Size=296
+[2018.07.16-02.25.46:671][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Warrior" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/Warrior.uasset" SILENT=true
+[2018.07.16-02.25.46:700][399]LogSavePackage: Save=20.19ms
+[2018.07.16-02.25.46:700][399]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/Warrior9F4F3CDE49BB98438632DF9DA193CB7F.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/Warrior.uasset'
+[2018.07.16-02.25.46:702][399]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/Characters/Warrior.uasset
+[2018.07.16-02.25.48:137][532]LogSlate: Window 'Warrior' being destroyed
+[2018.07.16-02.26.12:297][225]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.017
+[2018.07.16-02.26.12:311][225]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2018.07.16-02.26.12:311][225]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton]
+[2018.07.16-02.26.12:328][225]LogSavePackage: Save=8.41ms
+[2018.07.16-02.26.12:328][225]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/UE4_Mannequin_Skeleton_Auto1DE234A3E4B0C6A1AFD856E96D5C7FF07.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/Autosaves/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton_Auto1.uasset'
+[2018.07.16-02.26.12:329][225]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/Autosaves/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton_Auto1.uasset
+[2018.07.16-02.26.12:330][225]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton] ([1] browsable assets)...
+[2018.07.16-02.26.12:331][225]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton]
+[2018.07.16-02.26.12:347][225]LogSavePackage: Save=8.69ms
+[2018.07.16-02.26.12:347][225]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/SK_Mannequin_Skeleton_Auto10B886F8C47585BDDAFF56BA6395B532D.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/Autosaves/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton_Auto1.uasset'
+[2018.07.16-02.26.12:349][225]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/Autosaves/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton_Auto1.uasset
+[2018.07.16-02.26.12:349][225]LogFileHelpers: Auto-saving content packages took 0.051
+[2018.07.16-02.28.32:192][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.16-02.28.32:220][481]LogSavePackage: Save=6.86ms
+[2018.07.16-02.28.32:220][481]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/MainMenuB74C94FA409FE7E8289F66A8C860E364.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap'
+[2018.07.16-02.28.32:221][481]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap
