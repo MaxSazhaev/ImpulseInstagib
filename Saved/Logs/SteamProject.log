@@ -1,4 +1,4 @@
-﻿Log file open, 07/17/18 13:41:53
+﻿Log file open, 07/18/18 13:29:15
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,12 +7,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: SteamProject
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(-2068853340) SRandInit(-2068853340).
+LogInit: Display: RandInit(729035091) SRandInit(729035092).
 LogInit: Read version file with build ID '3944462'
 LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
 LogInit: Registered custom module enumerator with build ID '3944462'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 4.553386
+LogStats: Stats thread started at 3.944150
 LogD3D11RHI: Aftermath initialized
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
@@ -168,7 +168,7 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  3.743s to configure plugins.
+LogStreaming: Display: Took  3.665s to configure plugins.
 LogInit: Using libcurl 7.47.1
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2g
@@ -219,420 +219,218 @@ LogInit: Branch Name: ++UE4+Release-4.19
 LogInit: Command Line:  
 LogInit: Base Directory: E:/UE_4.19/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
-LogStreaming: Display: Took  0.003s to delete old logs.
+LogStreaming: Display: Took  0.002s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.07.17-17.41.59:125][  0]LogInit: Selected Device Profile: [Windows]
-[2018.07.17-17.41.59:125][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.07.17-17.41.59:271][  0]LogInit: Computer: MAX-PC
-[2018.07.17-17.41.59:271][  0]LogInit: User: maxsa
-[2018.07.17-17.41.59:271][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.07.17-17.41.59:271][  0]LogInit: High frequency timer resolution =3.420549 MHz
-[2018.07.17-17.41.59:275][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
-[2018.07.17-17.41.59:275][  0]LogMemory: Platform Memory Stats for Windows
-[2018.07.17-17.41.59:275][  0]LogMemory: Process Physical Memory: 272.63 MB used, 272.63 MB peak
-[2018.07.17-17.41.59:275][  0]LogMemory: Process Virtual Memory: 266.04 MB used, 266.04 MB peak
-[2018.07.17-17.41.59:275][  0]LogMemory: Physical Memory: 7400.81 MB used,  8934.05 MB free, 16334.86 MB total
-[2018.07.17-17.41.59:275][  0]LogMemory: Virtual Memory: 4780.11 MB used,  8934.05 MB free, 134217728.00 MB total
-[2018.07.17-17.42.00:260][  0]LogInit: Using OS detected language (en-US).
-[2018.07.17-17.42.00:260][  0]LogInit: Using OS detected locale (en-CA).
-[2018.07.17-17.42.00:591][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2018.07.17-17.42.01:619][  0]LogStreaming: Display: Took  1.361s to EndInitTextLocalization.
-[2018.07.17-17.42.01:661][  0]LogInit: Setting process to per monitor DPI aware
-[2018.07.17-17.42.02:487][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2018.07.17-17.42.02:487][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2018.07.17-17.42.05:388][  0]LogD3D11RHI: D3D11 adapters:
-[2018.07.17-17.42.05:489][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
-[2018.07.17-17.42.05:489][  0]LogD3D11RHI:       8088/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2018.07.17-17.42.05:492][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.07.17-17.42.05:492][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.07.17-17.42.05:492][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.07.17-17.42.05:524][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.07.17-17.42.05:524][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
-[2018.07.17-17.42.05:524][  0]LogWindows: EnumDisplayDevices:
-[2018.07.17-17.42.05:524][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
-[2018.07.17-17.42.05:524][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
-[2018.07.17-17.42.05:525][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
-[2018.07.17-17.42.05:525][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
-[2018.07.17-17.42.05:525][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.07.17-17.42.05:525][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
-[2018.07.17-17.42.05:525][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.07.17-17.42.05:525][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.07.17-17.42.05:525][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
-[2018.07.17-17.42.05:579][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
-[2018.07.17-17.42.05:579][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
-[2018.07.17-17.42.05:580][  0]LogD3D11RHI: Async texture creation enabled
-[2018.07.17-17.42.05:957][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2018.07.17-17.42.06:145][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Intermediate/Shaders/WorkingDirectory/704/).
-[2018.07.17-17.42.06:156][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/maxsa/AppData/Local/Temp/UnrealShaderWorkingDir/4D18E48248A875496A99E08FA873AD8D/'.
-[2018.07.17-17.42.07:319][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.07.17-17.42.07:353][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.07.17-17.42.07:381][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.07.17-17.42.07:400][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.07.17-17.42.07:436][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.07.17-17.42.07:449][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.07.17-17.42.07:462][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.07.17-17.42.07:475][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.07.17-17.42.07:481][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.07.17-17.42.07:493][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2018.07.17-17.42.07:505][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2018.07.17-17.42.07:517][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2018.07.17-17.42.07:529][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
-[2018.07.17-17.42.07:540][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2018.07.17-17.42.07:552][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2018.07.17-17.42.07:576][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2018.07.17-17.42.07:576][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2018.07.17-17.42.07:596][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.07.17-17.42.07:597][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.07.17-17.42.07:719][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.07.17-17.42.07:735][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.07.17-17.42.07:746][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.07.17-17.42.07:758][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.07.17-17.42.07:770][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.07.17-17.42.07:802][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.07.17-17.42.07:802][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.07.17-17.42.08:849][  0]LogXGEController: Cleaning working directory: C:/Users/maxsa/AppData/Local/Temp/UnrealXGEWorkingDir/
-[2018.07.17-17.42.08:850][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2018.07.17-17.42.08:866][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2018.07.17-17.42.08:866][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.07.17-17.42.12:246][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.07.17-17.42.12:567][  0]LogDerivedDataCache: Loaded boot cache 0.32s 74MB C:/Users/maxsa/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2018.07.17-17.42.12:568][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/maxsa/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
-[2018.07.17-17.42.12:568][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.07.17-17.42.12:568][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.07.17-17.42.12:568][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.07.17-17.42.12:568][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.07.17-17.42.12:663][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.07.17-17.42.12:676][  0]LogDerivedDataCache: Using Local data cache path C:/Users/maxsa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.07.17-17.42.12:676][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2018.07.17-17.42.12:676][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2018.07.17-17.42.12:748][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.07.17-17.42.12:813][  0]LogSlate: Using Freetype 2.6.0
-[2018.07.17-17.42.12:947][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.07.17-17.42.12:947][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.07.17-17.42.19:920][  0]LogAssetRegistry: FAssetRegistry took 0.0703 seconds to start up
-[2018.07.17-17.42.28:551][  0]LogInit: Selected Device Profile: [Windows]
-[2018.07.17-17.42.31:461][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.07.17-17.42.31:498][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.07.17-17.42.31:499][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.07.17-17.42.31:499][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.07.17-17.42.31:499][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.07.17-17.42.31:499][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.07.17-17.42.32:224][  0]LogNetVersion: SteamProject , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2850268364)
-[2018.07.17-17.42.39:206][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.147593 seconds
-[2018.07.17-17.42.39:239][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
-[2018.07.17-17.42.39:239][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
-[2018.07.17-17.42.39:239][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.07.17-17.42.52:678][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.07.17-17.42.52:749][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.07.17-17.42.53:810][  0]SourceControl: Source control is disabled
-[2018.07.17-17.42.53:810][  0]SourceControl: Source control is disabled
-[2018.07.17-17.42.53:918][  0]SourceControl: Source control is disabled
-[2018.07.17-17.42.53:951][  0]SourceControl: Source control is disabled
-[2018.07.17-17.42.55:364][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.07.17-17.42.55:623][  0]LogOcInput: OculusInput pre-init called
-[2018.07.17-17.42.56:537][  0]LogEngine: Initializing Engine...
-[2018.07.17-17.42.56:795][  0]LogHMD: Failed to initialize OpenVR with code 105
-[2018.07.17-17.42.56:846][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.07.17-17.42.56:848][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.07.17-17.42.58:380][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.07.17-17.42.58:805][  0]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.07.17-17.42.58:855][  0]LogInit: FAudioDevice initialized.
-[2018.07.17-17.42.58:940][  0]LogDerivedDataCache: Saved boot cache 0.05s 74MB C:/Users/maxsa/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2018.07.17-17.42.58:969][  0]LogInit: Texture streaming: Enabled
-[2018.07.17-17.42.59:122][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.07.17-17.42.59:389][  0]LogInit: Transaction tracking system initialized
-[2018.07.17-17.42.59:896][  0]BlueprintLog: New page: Editor Load
-[2018.07.17-17.43.01:469][  0]LocalizationService: Localization service is disabled
-[2018.07.17-17.43.02:534][  0]LogConsoleResponse: Display: 
-[2018.07.17-17.43.06:640][  0]LogFileCache: Scanning file cache for directory 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/' took 0.05s
-[2018.07.17-17.43.06:640][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.07.17-17.43.06:657][  0]LogCook: Display: Mobile HDR setting 1
-[2018.07.17-17.43.06:658][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.07.17-17.43.06:658][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.07.17-17.43.06:658][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.07.17-17.43.10:415][  0]SourceControl: Source control is disabled
-[2018.07.17-17.43.10:451][  0]Cmd: MAP LOAD FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.07.17-17.43.10:484][  0]LightingResults: New page: Lighting Build
-[2018.07.17-17.43.10:722][  0]MapCheck: New page: Map Check
-[2018.07.17-17.43.10:722][  0]LightingResults: New page: Lighting Build
-[2018.07.17-17.43.11:407][  0]LogAIModule: Creating AISystem for world MainMenu
-[2018.07.17-17.43.11:530][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.07.17-17.43.11:689][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.07.17-17.43.11:736][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 46.742ms to complete.
-[2018.07.17-17.43.11:736][  0]LogFileHelpers: Loading map 'MainMenu' took 1.294
-[2018.07.17-17.43.14:075][  0]LogCollectionManager: Loaded 0 collections in 0.001812 seconds
-[2018.07.17-17.43.14:339][  0]LogFileCache: Scanning file cache for directory 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/Collections/' took 0.01s
-[2018.07.17-17.43.14:339][  0]LogFileCache: Scanning file cache for directory 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Developers/maxsa/Collections/' took 0.01s
-[2018.07.17-17.43.14:339][  0]LogFileCache: Scanning file cache for directory 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Collections/' took 0.01s
-[2018.07.17-17.43.14:339][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
-[2018.07.17-17.43.14:379][  0]LogContentBrowser: Native class hierarchy populated in 0.0250 seconds. Added 2452 classes and 558 folders.
-[2018.07.17-17.43.14:479][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
-[2018.07.17-17.43.16:180][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.07.17-17.43.16:275][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
-[2018.07.17-17.43.17:841][  0]LogSlate: Took 0.018233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.07.17-17.43.17:888][  0]LogSlate: Took 0.018622 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.07.17-17.43.17:977][  0]LogSlate: Took 0.015919 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.07.17-17.43.19:030][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
-[2018.07.17-17.43.20:374][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.07.17-17.43.20:374][  0]LogLoad: (Engine Initialization) Total time: 102.62 seconds
-[2018.07.17-17.43.20:374][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.07.17-17.43.21:284][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.07.17-17.43.22:057][  2]LogSlate: Took 0.033934 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.07.17-17.43.22:688][  4]LogAssetRegistry: Asset discovery search completed in 62.8306 seconds
-[2018.07.17-17.43.22:742][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
-[2018.07.17-17.43.22:742][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.014069 seconds (updated 0 objects)
-[2018.07.17-17.43.22:884][  4]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.07.17-17.43.26:018][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.07.17-17.43.26:915][ 14]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b691f4b820, Size=24, Default__GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.43.26:994][ 14]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b691f4b820, Size=24
-[2018.07.17-17.43.26:994][ 14]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b691f4b820, Size=24, Default__GameInfoInstance_C Function /Engine/Transient.REINST_GameInfoInstance_C_4:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.43.27:101][ 14]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b691f4b130, Size=24, Default__GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.43.28:655][ 14]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
-[2018.07.17-17.43.29:355][ 14]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b690c662d0, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
-[2018.07.17-17.43.29:364][ 14]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b690c662c8, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
-[2018.07.17-17.43.30:889][ 14]LogSlate: Took 0.017320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2018.07.17-17.43.31:846][ 15]LogSlate: Took 0.013309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2018.07.17-17.43.34:140][212]LogSlate: Window 'GameInfoInstance' being destroyed
-[2018.07.17-17.44.02:598][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.07.17-17.44.09:848][587]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69c805158, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.44.14:778][141]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69c805158, Size=4
-[2018.07.17-17.44.14:778][141]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69c805158, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_20:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.44.14:779][141]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69c806d68, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.44.30:524][955]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
-[2018.07.17-17.44.40:616][136]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69c806d68, Size=4
-[2018.07.17-17.44.40:616][136]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69ceca888, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_23:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.44.40:617][136]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69ceca760, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.44.46:408][802]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69ceca760, Size=4
-[2018.07.17-17.44.46:409][802]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69ceca760, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_25:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.44.46:410][802]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69cecbf58, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.44.54:288][737]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69cecbf58, Size=4
-[2018.07.17-17.44.54:288][737]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69cecbf58, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_27:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.44.54:289][737]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69cec8438, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.45.15:660][996]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69cec8438, Size=4
-[2018.07.17-17.45.15:660][996]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69c804480, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_29:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.45.15:662][996]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69c806c78, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.45.33:076][515]LogEditorTransaction: Undo Paste clipboard contents
-[2018.07.17-17.45.33:121][515]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69c806c78, Size=4
-[2018.07.17-17.45.33:121][515]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69c806c78, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_31:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.45.33:122][515]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69c805c30, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.46.27:937][824]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69c805c30, Size=4
-[2018.07.17-17.46.27:937][824]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69cecb6a8, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_33:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.46.27:939][824]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69cec98c8, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.46.52:406][782]BlueprintLog: New page: Compile GameInfoInstance
-[2018.07.17-17.46.52:438][782]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69cec98c8, Size=4
-[2018.07.17-17.46.52:438][782]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69cec98c8, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_35:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.46.52:443][782]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b691f4b130, Size=24
-[2018.07.17-17.46.52:443][782]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b691e23238, Size=24, GameInfoInstance_C_0 Function /Engine/Transient.REINST_GameInfoInstance_C_37:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.46.52:446][782]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b68f1ce740, Size=48, Default__GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.46.52:501][782]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b691f4b820, Size=24
-[2018.07.17-17.46.52:509][782]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69c805158, Size=4
-[2018.07.17-17.46.52:509][782]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69ceca888, Size=4
-[2018.07.17-17.46.52:509][782]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69ceca760, Size=4
-[2018.07.17-17.46.52:509][782]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69cecbf58, Size=4
-[2018.07.17-17.46.52:509][782]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69c804480, Size=4
-[2018.07.17-17.46.52:509][782]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69c806c78, Size=4
-[2018.07.17-17.46.52:509][782]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69cecb6a8, Size=4
-[2018.07.17-17.46.52:509][782]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69cec98c8, Size=4
-[2018.07.17-17.46.54:360][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AllLevels/GameInfoInstance" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/AllLevels/GameInfoInstance.uasset" SILENT=true
-[2018.07.17-17.46.54:474][965]LogSavePackage: Save=70.60ms
-[2018.07.17-17.46.54:474][965]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/GameInfoInstanceC668281649FE7FB3BC5DE8AD745C47C2.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
-[2018.07.17-17.46.54:517][965]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/AllLevels/GameInfoInstance.uasset
-[2018.07.17-17.47.27:387][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2018.07.17-17.47.27:416][239]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b691e23238, Size=24
-[2018.07.17-17.47.27:428][239]LogSavePackage: Save=8.00ms
-[2018.07.17-17.47.27:428][239]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/MainMenu3AFAE194479F7BD6C90265BAB4634C6C.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap'
-[2018.07.17-17.47.27:429][239]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap
-[2018.07.17-17.49.01:431][899]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69fdbc4b0, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.49.07:210][584]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69fdbc4b0, Size=4
-[2018.07.17-17.49.07:210][584]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69c804dc8, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_41:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.49.07:212][584]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69c804478, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.49.17:916][822]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
-[2018.07.17-17.49.19:910][ 54]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
-[2018.07.17-17.50.09:840][696]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69c804478, Size=4
-[2018.07.17-17.50.09:840][696]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b680ea6d10, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_44:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.50.09:841][696]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b680ea6f10, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.50.50:809][734]BlueprintLog: New page: Compile GameInfoInstance
-[2018.07.17-17.50.50:815][734]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b680ea6f10, Size=4
-[2018.07.17-17.50.50:815][734]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b680ea6f10, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_46:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.50.50:821][734]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b68f1ce740, Size=48
-[2018.07.17-17.50.50:821][734]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69d1c92a0, Size=48, Default__GameInfoInstance_C Function /Engine/Transient.REINST_GameInfoInstance_C_48:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.50.50:824][734]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69cd74300, Size=64, Default__GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.50.50:840][734]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b680ea6f10, Size=4
-[2018.07.17-17.50.50:840][734]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b680ea6d10, Size=4
-[2018.07.17-17.50.50:840][734]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69c804dc8, Size=4
-[2018.07.17-17.50.51:524][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AllLevels/GameInfoInstance" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/AllLevels/GameInfoInstance.uasset" SILENT=true
-[2018.07.17-17.50.51:548][809]LogSavePackage: Save=19.30ms
-[2018.07.17-17.50.51:548][809]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/GameInfoInstanceF9CAB29E46D2B1A8B84C2891B9F68259.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
-[2018.07.17-17.50.51:550][809]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/AllLevels/GameInfoInstance.uasset
-[2018.07.17-17.50.54:360][140]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69d1c92a0, Size=48
-[2018.07.17-17.52.06:411][148]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6a4a1d320, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.52.12:100][824]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6a4a1d320, Size=4
-[2018.07.17-17.52.12:100][824]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69cecb1c0, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_52:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.52.12:101][824]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69cec9dd8, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.52.18:542][559]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
-[2018.07.17-17.52.22:025][968]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
-[2018.07.17-17.52.24:633][274]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69cec9dd8, Size=4
-[2018.07.17-17.52.24:633][274]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6a4a1e5d0, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_55:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.52.24:634][274]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6a4a1e528, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.52.31:161][ 50]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6a4a1e528, Size=4
-[2018.07.17-17.52.31:162][ 50]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b680ea54a0, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_57:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.52.31:163][ 50]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b680ea4e80, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.52.37:983][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b680ea4e80, Size=4
-[2018.07.17-17.52.37:983][857]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69c8074a8, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_59:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.52.37:985][857]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69c8042d0, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.52.51:761][477]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69c8042d0, Size=4
-[2018.07.17-17.52.51:761][477]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69fdbd138, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_61:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.52.51:763][477]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69fdbf1c8, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.54.23:139][436]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69fdbf1c8, Size=4
-[2018.07.17-17.54.23:139][436]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69c806138, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_63:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.54.23:140][436]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69c807f68, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.54.48:289][307]BlueprintLog: New page: Compile GameInfoInstance
-[2018.07.17-17.54.48:296][307]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69c807f68, Size=4
-[2018.07.17-17.54.48:296][307]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69fdbc1e8, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_65:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.54.48:304][307]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69cd74300, Size=64
-[2018.07.17-17.54.48:304][307]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69e5b5940, Size=64, Default__GameInfoInstance_C Function /Engine/Transient.REINST_GameInfoInstance_C_67:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.54.48:307][307]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6a49da980, Size=88, Default__GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.54.48:324][307]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69fdbc1e8, Size=4
-[2018.07.17-17.54.48:324][307]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69c806138, Size=4
-[2018.07.17-17.54.48:324][307]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69fdbd138, Size=4
-[2018.07.17-17.54.48:324][307]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69c8074a8, Size=4
-[2018.07.17-17.54.48:324][307]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b680ea54a0, Size=4
-[2018.07.17-17.54.48:324][307]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6a4a1e5d0, Size=4
-[2018.07.17-17.54.48:324][307]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69cecb1c0, Size=4
-[2018.07.17-17.54.48:958][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AllLevels/GameInfoInstance" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/AllLevels/GameInfoInstance.uasset" SILENT=true
-[2018.07.17-17.54.48:993][375]LogSavePackage: Save=23.41ms
-[2018.07.17-17.54.48:993][375]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/GameInfoInstance6411ABBB4918505D9ABB069A42133CB7.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
-[2018.07.17-17.54.48:995][375]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/AllLevels/GameInfoInstance.uasset
-[2018.07.17-17.54.50:753][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2018.07.17-17.54.50:770][579]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69e5b5940, Size=64
-[2018.07.17-17.54.50:784][579]LogSavePackage: Save=6.51ms
-[2018.07.17-17.54.50:784][579]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/MainMenuA7BBF7924E9510824BCDA2968AD06B5F.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap'
-[2018.07.17-17.54.50:785][579]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap
-[2018.07.17-17.56.15:133][ 50]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6a8286da0, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.56.19:222][532]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6a8286da0, Size=4
-[2018.07.17-17.56.19:222][532]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6a79f0c00, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_71:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.56.19:223][532]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6a79f0cd8, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.56.38:953][772]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6a79f0cd8, Size=4
-[2018.07.17-17.56.38:953][772]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6a411c188, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_73:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.56.38:955][772]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6a411db70, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.56.40:477][938]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6a411db70, Size=4
-[2018.07.17-17.56.40:477][938]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6a79f0f90, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_75:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.56.40:479][938]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6a79f0da8, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.56.40:954][985]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6a79f0da8, Size=4
-[2018.07.17-17.56.40:954][985]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6a411ef08, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_77:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.56.40:956][985]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6a411f0b8, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.56.43:136][209]LogSlate: Took 0.011292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
-[2018.07.17-17.56.44:252][327]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6a411f0b8, Size=4
-[2018.07.17-17.56.44:252][327]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6a4a1f438, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_79:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.56.44:254][327]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6a4a1f5d8, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.56.47:049][612]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6a4a1f5d8, Size=4
-[2018.07.17-17.56.47:049][612]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69cecb1e8, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_81:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.56.47:051][612]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69ceca538, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.58.11:638][545]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69ceca538, Size=4
-[2018.07.17-17.58.11:638][545]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69c807ea0, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_83:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.58.11:640][545]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69c807030, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.58.19:859][516]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69c807030, Size=4
-[2018.07.17-17.58.19:859][516]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69c807030, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_85:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.58.19:861][516]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69c8043f0, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.58.32:791][226]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69c8043f0, Size=4
-[2018.07.17-17.58.32:792][226]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69fdbe778, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_87:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.58.32:794][226]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69fdbf190, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.59.03:616][854]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69fdbf190, Size=4
-[2018.07.17-17.59.03:616][854]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69fdbf190, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_89:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.59.03:618][854]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69fdbfe18, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.59.11:063][707]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69fdbfe18, Size=4
-[2018.07.17-17.59.11:063][707]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69c805b60, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_91:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.59.11:066][707]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69c807d68, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.59.19:234][664]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69c807d68, Size=4
-[2018.07.17-17.59.19:234][664]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69fdbf8f0, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_93:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.59.19:236][664]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69fdbf850, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.59.30:286][947]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69fdbf850, Size=4
-[2018.07.17-17.59.30:286][947]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69fdbf850, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_95:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.59.30:288][947]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69fdbf6f8, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.59.33:543][324]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69fdbf6f8, Size=4
-[2018.07.17-17.59.33:543][324]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69fdbf6f8, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_97:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.59.33:545][324]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69fdbfcc8, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.59.40:383][101]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69fdbfcc8, Size=4
-[2018.07.17-17.59.40:383][101]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6aae92768, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_99:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.59.40:385][101]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6aae92638, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.59.48:189][ 29]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6aae92638, Size=4
-[2018.07.17-17.59.48:189][ 29]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6ab37af68, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_101:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-17.59.48:191][ 29]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6ab37b070, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-18.01.41:764][451]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6ab37b070, Size=4
-[2018.07.17-18.01.41:764][451]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6a411fbd0, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_103:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-18.01.41:766][451]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6a411fe78, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-18.01.48:864][296]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6a411fe78, Size=4
-[2018.07.17-18.01.48:864][296]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69f923bc0, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_105:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-18.01.48:867][296]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69f923bb0, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-18.01.55:031][ 30]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69f923bb0, Size=4
-[2018.07.17-18.01.55:031][ 30]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6a411d8e8, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_107:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-18.01.55:034][ 30]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6a411fae8, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-18.01.56:805][239]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6a411fae8, Size=4
-[2018.07.17-18.01.56:805][239]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6a411fae8, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_109:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-18.01.56:808][239]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6a411f098, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-18.02.04:116][104]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6a411f098, Size=4
-[2018.07.17-18.02.04:117][104]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6a411f098, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_111:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-18.02.04:119][104]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6a411f538, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-18.02.06:551][387]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6a411f538, Size=4
-[2018.07.17-18.02.06:551][387]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6a411f538, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_113:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-18.02.06:554][387]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6a411f738, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-18.02.23:770][449]BlueprintLog: New page: Compile GameInfoInstance
-[2018.07.17-18.02.23:781][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6a411f738, Size=4
-[2018.07.17-18.02.23:781][449]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6a411f738, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_115:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-18.02.23:791][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6a49da980, Size=88
-[2018.07.17-18.02.23:791][449]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6aaca8160, Size=88, Default__GameInfoInstance_C Function /Engine/Transient.REINST_GameInfoInstance_C_117:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-18.02.23:814][449]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b68fa47040, Size=184, Default__GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-18.02.23:834][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6a411fbd0, Size=4
-[2018.07.17-18.02.23:834][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6ab37af68, Size=4
-[2018.07.17-18.02.23:834][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6aae92768, Size=4
-[2018.07.17-18.02.23:834][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69fdbf6f8, Size=4
-[2018.07.17-18.02.23:834][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69fdbf850, Size=4
-[2018.07.17-18.02.23:834][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69fdbf8f0, Size=4
-[2018.07.17-18.02.23:834][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69c805b60, Size=4
-[2018.07.17-18.02.23:834][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69fdbf190, Size=4
-[2018.07.17-18.02.23:834][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69fdbe778, Size=4
-[2018.07.17-18.02.23:834][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69c807030, Size=4
-[2018.07.17-18.02.23:834][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6a411c188, Size=4
-[2018.07.17-18.02.23:834][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69c807ea0, Size=4
-[2018.07.17-18.02.23:834][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6a79f0c00, Size=4
-[2018.07.17-18.02.23:834][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69cecb1e8, Size=4
-[2018.07.17-18.02.23:835][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6a4a1f438, Size=4
-[2018.07.17-18.02.23:835][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6a411ef08, Size=4
-[2018.07.17-18.02.23:835][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6a79f0f90, Size=4
-[2018.07.17-18.02.23:835][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69f923bc0, Size=4
-[2018.07.17-18.02.23:835][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6a411d8e8, Size=4
-[2018.07.17-18.02.23:835][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6a411fae8, Size=4
-[2018.07.17-18.02.23:835][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6a411f098, Size=4
-[2018.07.17-18.02.23:835][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6a411f538, Size=4
-[2018.07.17-18.02.23:835][449]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6a411f738, Size=4
-[2018.07.17-18.02.24:575][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AllLevels/GameInfoInstance" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/AllLevels/GameInfoInstance.uasset" SILENT=true
-[2018.07.17-18.02.24:616][533]LogSavePackage: Save=30.46ms
-[2018.07.17-18.02.24:616][533]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/GameInfoInstanceC9479BB54C55335A1D298F9B8243BC61.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
-[2018.07.17-18.02.24:620][533]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/AllLevels/GameInfoInstance.uasset
-[2018.07.17-18.02.36:279][888]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6ad9b8390, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-18.03.03:551][ 60]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6ad9b8390, Size=4
-[2018.07.17-18.03.03:551][ 60]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6aae906f8, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_121:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-18.03.03:554][ 60]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6aae90808, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-18.03.25:296][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AllLevels/GameInfoInstance" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/AllLevels/GameInfoInstance.uasset" SILENT=true
-[2018.07.17-18.03.25:331][500]LogSavePackage: Save=30.82ms
-[2018.07.17-18.03.25:331][500]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/GameInfoInstanceCF94C2E4425C0A62C36CA29A49D076DE.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
-[2018.07.17-18.03.25:333][500]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/AllLevels/GameInfoInstance.uasset
-[2018.07.17-18.05.10:114][412]BlueprintLog: New page: Compile GameInfoInstance
-[2018.07.17-18.05.10:124][412]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6aae90808, Size=4
-[2018.07.17-18.05.10:124][412]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6a82863a8, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_123:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-18.05.10:134][412]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b68fa47040, Size=184
-[2018.07.17-18.05.10:134][412]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b69dfaca00, Size=184, GameInfoInstance_C_1 Function /Engine/Transient.REINST_GameInfoInstance_C_125:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-18.05.10:139][412]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b6a797a380, Size=184, Default__GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
-[2018.07.17-18.05.10:157][412]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6aaca8160, Size=88
-[2018.07.17-18.05.10:157][412]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6a82863a8, Size=4
-[2018.07.17-18.05.10:157][412]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b6aae906f8, Size=4
-[2018.07.17-18.05.10:639][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AllLevels/GameInfoInstance" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/AllLevels/GameInfoInstance.uasset" SILENT=true
-[2018.07.17-18.05.10:674][460]LogSavePackage: Save=30.76ms
-[2018.07.17-18.05.10:674][460]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/GameInfoInstance919D69664A7C2FBE30D76895338BE77A.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
-[2018.07.17-18.05.10:675][460]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/AllLevels/GameInfoInstance.uasset
-[2018.07.17-18.05.13:374][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2018.07.17-18.05.13:391][779]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b69dfaca00, Size=184
-[2018.07.17-18.05.13:402][779]LogSavePackage: Save=6.25ms
-[2018.07.17-18.05.13:402][779]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/MainMenu43F4795647820A2A4C0BAF8F07B609D5.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap'
-[2018.07.17-18.05.13:403][779]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap
+[2018.07.18-17.29.20:292][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.18-17.29.20:292][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.18-17.29.20:390][  0]LogInit: Computer: MAX-PC
+[2018.07.18-17.29.20:391][  0]LogInit: User: maxsa
+[2018.07.18-17.29.20:391][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.18-17.29.20:391][  0]LogInit: High frequency timer resolution =3.386482 MHz
+[2018.07.18-17.29.20:391][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.07.18-17.29.20:391][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.18-17.29.20:391][  0]LogMemory: Process Physical Memory: 272.78 MB used, 272.78 MB peak
+[2018.07.18-17.29.20:391][  0]LogMemory: Process Virtual Memory: 266.09 MB used, 266.09 MB peak
+[2018.07.18-17.29.20:391][  0]LogMemory: Physical Memory: 7276.11 MB used,  9058.75 MB free, 16334.86 MB total
+[2018.07.18-17.29.20:391][  0]LogMemory: Virtual Memory: 4780.11 MB used,  9058.75 MB free, 134217728.00 MB total
+[2018.07.18-17.29.21:351][  0]LogInit: Using OS detected language (en-US).
+[2018.07.18-17.29.21:351][  0]LogInit: Using OS detected locale (en-CA).
+[2018.07.18-17.29.21:670][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.07.18-17.29.22:570][  0]LogStreaming: Display: Took  1.214s to EndInitTextLocalization.
+[2018.07.18-17.29.22:612][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.18-17.29.23:221][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.18-17.29.23:221][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.18-17.29.25:642][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.18-17.29.25:701][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.07.18-17.29.25:701][  0]LogD3D11RHI:       8088/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.07.18-17.29.25:703][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.18-17.29.25:703][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.18-17.29.25:703][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.18-17.29.25:719][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.18-17.29.25:722][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.18-17.29.25:723][  0]LogWindows: EnumDisplayDevices:
+[2018.07.18-17.29.25:723][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.07.18-17.29.25:723][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.07.18-17.29.25:723][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.07.18-17.29.25:723][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.07.18-17.29.25:723][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.18-17.29.25:723][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.07.18-17.29.25:723][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.18-17.29.25:723][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.18-17.29.25:723][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.07.18-17.29.25:777][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.18-17.29.25:777][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.18-17.29.25:777][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.18-17.29.26:061][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.07.18-17.29.26:213][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Intermediate/Shaders/WorkingDirectory/11972/).
+[2018.07.18-17.29.26:223][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/maxsa/AppData/Local/Temp/UnrealShaderWorkingDir/07312F9C4F14DE961786928AD65966CD/'.
+[2018.07.18-17.29.27:329][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.18-17.29.27:363][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.18-17.29.27:382][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.18-17.29.27:399][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.18-17.29.27:438][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.18-17.29.27:455][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.18-17.29.27:472][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.18-17.29.27:489][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.18-17.29.27:495][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.18-17.29.27:507][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.18-17.29.27:519][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.18-17.29.27:531][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.18-17.29.27:542][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.18-17.29.27:554][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.18-17.29.27:566][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.18-17.29.27:589][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.18-17.29.27:589][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.18-17.29.27:613][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.18-17.29.27:614][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.18-17.29.27:735][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.18-17.29.27:761][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.18-17.29.27:772][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.18-17.29.27:784][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.18-17.29.27:796][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.18-17.29.27:828][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.18-17.29.27:828][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.18-17.29.28:823][  0]LogXGEController: Cleaning working directory: C:/Users/maxsa/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.07.18-17.29.28:824][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.18-17.29.28:833][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.18-17.29.28:834][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.18-17.29.31:738][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.18-17.29.32:006][  0]LogDerivedDataCache: Loaded boot cache 0.27s 74MB C:/Users/maxsa/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.18-17.29.32:006][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/maxsa/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.18-17.29.32:007][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.18-17.29.32:007][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.18-17.29.32:007][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.18-17.29.32:007][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.18-17.29.32:114][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.18-17.29.32:127][  0]LogDerivedDataCache: Using Local data cache path C:/Users/maxsa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.18-17.29.32:127][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.18-17.29.32:127][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.18-17.29.32:180][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.18-17.29.32:239][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.18-17.29.32:314][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.18-17.29.32:314][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.18-17.29.37:717][  0]LogAssetRegistry: FAssetRegistry took 0.0317 seconds to start up
+[2018.07.18-17.29.41:717][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.18-17.29.45:074][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.18-17.29.45:112][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.18-17.29.45:123][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.18-17.29.45:124][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.18-17.29.45:124][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.18-17.29.45:124][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.18-17.29.45:601][  0]LogNetVersion: SteamProject , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2850268364)
+[2018.07.18-17.29.50:353][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.190826 seconds
+[2018.07.18-17.29.50:371][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.07.18-17.29.50:371][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.07.18-17.29.50:371][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.18-17.30.02:116][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.18-17.30.02:143][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.18-17.30.02:676][  0]SourceControl: Source control is disabled
+[2018.07.18-17.30.02:676][  0]SourceControl: Source control is disabled
+[2018.07.18-17.30.02:692][  0]SourceControl: Source control is disabled
+[2018.07.18-17.30.02:707][  0]SourceControl: Source control is disabled
+[2018.07.18-17.30.03:343][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.18-17.30.03:493][  0]LogOcInput: OculusInput pre-init called
+[2018.07.18-17.30.03:952][  0]LogEngine: Initializing Engine...
+[2018.07.18-17.30.04:063][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2018.07.18-17.30.04:092][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.18-17.30.04:092][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.18-17.30.05:089][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.18-17.30.05:226][  0]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.18-17.30.05:243][  0]LogInit: FAudioDevice initialized.
+[2018.07.18-17.30.05:285][  0]LogDerivedDataCache: Saved boot cache 0.04s 74MB C:/Users/maxsa/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.18-17.30.05:309][  0]LogInit: Texture streaming: Enabled
+[2018.07.18-17.30.05:406][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.18-17.30.05:559][  0]LogInit: Transaction tracking system initialized
+[2018.07.18-17.30.05:859][  0]BlueprintLog: New page: Editor Load
+[2018.07.18-17.30.06:958][  0]LocalizationService: Localization service is disabled
+[2018.07.18-17.30.07:680][  0]LogConsoleResponse: Display: 
+[2018.07.18-17.30.11:139][  0]LogFileCache: Scanning file cache for directory 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/' took 0.03s
+[2018.07.18-17.30.11:139][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.18-17.30.11:139][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.18-17.30.11:139][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.18-17.30.11:139][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.18-17.30.11:140][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.18-17.30.14:144][  0]SourceControl: Source control is disabled
+[2018.07.18-17.30.14:183][  0]Cmd: MAP LOAD FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.18-17.30.14:208][  0]LightingResults: New page: Lighting Build
+[2018.07.18-17.30.14:385][  0]MapCheck: New page: Map Check
+[2018.07.18-17.30.14:385][  0]LightingResults: New page: Lighting Build
+[2018.07.18-17.30.14:759][  0]LogAIModule: Creating AISystem for world MainMenu
+[2018.07.18-17.30.14:952][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.18-17.30.15:098][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.18-17.30.15:145][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 46.219ms to complete.
+[2018.07.18-17.30.15:145][  0]LogFileHelpers: Loading map 'MainMenu' took 0.970
+[2018.07.18-17.30.16:609][  0]LogCollectionManager: Loaded 0 collections in 0.003593 seconds
+[2018.07.18-17.30.16:815][  0]LogFileCache: Scanning file cache for directory 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/Collections/' took 0.01s
+[2018.07.18-17.30.16:815][  0]LogFileCache: Scanning file cache for directory 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Developers/maxsa/Collections/' took 0.01s
+[2018.07.18-17.30.16:815][  0]LogFileCache: Scanning file cache for directory 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Collections/' took 0.01s
+[2018.07.18-17.30.16:815][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.07.18-17.30.16:850][  0]LogContentBrowser: Native class hierarchy populated in 0.0224 seconds. Added 2452 classes and 558 folders.
+[2018.07.18-17.30.16:903][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.07.18-17.30.18:797][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.07.18-17.30.18:850][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.07.18-17.30.20:004][  0]LogSlate: Took 0.025452 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.18-17.30.20:029][  0]LogSlate: Took 0.023345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.18-17.30.20:078][  0]LogSlate: Took 0.017523 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.18-17.30.20:704][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.07.18-17.30.21:370][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.18-17.30.21:370][  0]LogLoad: (Engine Initialization) Total time: 80.16 seconds
+[2018.07.18-17.30.21:370][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.18-17.30.21:807][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.18-17.30.22:784][  3]LogSlate: Took 0.030745 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.18-17.30.23:072][  4]LogAssetRegistry: Asset discovery search completed in 45.3783 seconds
+[2018.07.18-17.30.23:090][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.07.18-17.30.23:091][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000133 seconds (updated 0 objects)
+[2018.07.18-17.30.23:148][  4]LogSlate: Took 0.000392 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.18-17.31.08:744][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-17.31.09:197][495]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020a9c9d1480, Size=184, Default__GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
+[2018.07.18-17.31.09:228][495]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020a9c9d1480, Size=184
+[2018.07.18-17.31.09:228][495]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020a9c9d1480, Size=184, Default__GameInfoInstance_C Function /Engine/Transient.REINST_GameInfoInstance_C_7:ExecuteUbergraph_GameInfoInstance
+[2018.07.18-17.31.09:277][495]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020aec6228c0, Size=184, Default__GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
+[2018.07.18-17.31.10:105][495]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.07.18-17.31.10:597][495]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020aa124a0a0, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.18-17.31.10:598][495]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020aa124a098, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.18-17.31.11:463][495]LogSlate: Took 0.017832 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.18-17.31.12:106][496]LogSlate: Took 0.023231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.18-17.32.23:824][170]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020aab5286f8, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
+[2018.07.18-17.32.26:710][370]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020aab5286f8, Size=4
+[2018.07.18-17.32.26:710][370]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020aa79e29c8, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_23:ExecuteUbergraph_GameInfoInstance
+[2018.07.18-17.32.26:713][370]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020aa79e2070, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
+[2018.07.18-17.32.32:621][946]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020aa79e2070, Size=4
+[2018.07.18-17.32.32:621][946]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020a9cdd30d8, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_25:ExecuteUbergraph_GameInfoInstance
+[2018.07.18-17.32.32:624][946]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020a9cdd2700, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
+[2018.07.18-17.32.33:962][ 76]LogSlate: Took 0.015759 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.07.18-17.32.38:117][521]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020a9cdd2700, Size=4
+[2018.07.18-17.32.38:117][521]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020aab52b8f8, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_27:ExecuteUbergraph_GameInfoInstance
+[2018.07.18-17.32.38:119][521]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020aab5280a8, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
+[2018.07.18-17.33.39:952][845]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020aab5280a8, Size=4
+[2018.07.18-17.33.39:952][845]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020aadacd480, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_29:ExecuteUbergraph_GameInfoInstance
+[2018.07.18-17.33.39:955][845]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020aadacd328, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
+[2018.07.18-17.33.59:634][824]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020aadacd328, Size=4
+[2018.07.18-17.33.59:634][824]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020a9cdd3958, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_31:ExecuteUbergraph_GameInfoInstance
+[2018.07.18-17.33.59:637][824]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020a9cdd2700, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
+[2018.07.18-17.34.17:310][ 93]BlueprintLog: New page: Compile GameInfoInstance
+[2018.07.18-17.34.17:321][ 93]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020a9cdd2700, Size=4
+[2018.07.18-17.34.17:321][ 93]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020aadacf988, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_33:ExecuteUbergraph_GameInfoInstance
+[2018.07.18-17.34.17:332][ 93]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020aec6228c0, Size=184
+[2018.07.18-17.34.17:332][ 93]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020aacf88940, Size=184, GameInfoInstance_C_0 Function /Engine/Transient.REINST_GameInfoInstance_C_35:ExecuteUbergraph_GameInfoInstance
+[2018.07.18-17.34.17:338][ 93]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020aa4c8e240, Size=432, Default__GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
+[2018.07.18-17.34.17:366][ 93]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020a9c9d1480, Size=184
+[2018.07.18-17.34.17:366][ 93]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020aa79e29c8, Size=4
+[2018.07.18-17.34.17:366][ 93]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020a9cdd30d8, Size=4
+[2018.07.18-17.34.17:366][ 93]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020aab52b8f8, Size=4
+[2018.07.18-17.34.17:367][ 93]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020aadacd480, Size=4
+[2018.07.18-17.34.17:367][ 93]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020a9cdd3958, Size=4
+[2018.07.18-17.34.17:367][ 93]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020aadacf988, Size=4
+[2018.07.18-17.34.17:891][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AllLevels/GameInfoInstance" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/AllLevels/GameInfoInstance.uasset" SILENT=true
+[2018.07.18-17.34.17:958][125]LogSavePackage: Save=49.73ms
+[2018.07.18-17.34.17:958][125]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/GameInfoInstance9F31A52E41D9B908E2CCF985C38F76DB.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
+[2018.07.18-17.34.17:972][125]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Blueprints/AllLevels/GameInfoInstance.uasset
+[2018.07.18-17.34.23:513][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-17.34.25:486][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-17.34.25:595][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.18-17.34.25:613][626]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020aacf88940, Size=184
+[2018.07.18-17.34.25:624][626]LogSavePackage: Save=6.40ms
+[2018.07.18-17.34.25:624][626]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/MainMenu625EFB45461FA1A8199C7F95ABE6A063.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap'
+[2018.07.18-17.34.25:625][626]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap
