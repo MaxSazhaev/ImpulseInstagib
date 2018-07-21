@@ -670,3 +670,96 @@ LogInit: Object subsystem initialized
 [2018.07.21-17.06.52:420][470]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/Arena01_BuiltData2134AFB94EE68D70D65048B858BF122C.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/Arena01_BuiltData.uasset'
 [2018.07.21-17.06.52:421][470]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/Arena01_BuiltData.uasset
 [2018.07.21-17.06.57:458][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-17.08.05:712][858]LogAIModule: Creating AISystem for world Lobby
+[2018.07.21-17.08.05:736][858]Cmd: MAP LOAD FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/Lobby.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.21-17.08.05:736][858]LightingResults: New page: Lighting Build
+[2018.07.21-17.08.05:737][858]LoadErrors: New page: Loading map: Lobby.umap
+[2018.07.21-17.08.05:739][858]MapCheck: New page: Map Check
+[2018.07.21-17.08.05:739][858]LightingResults: New page: Lighting Build
+[2018.07.21-17.08.05:812][858]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.21-17.08.05:850][858]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.21-17.08.05:910][858]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.386ms to complete.
+[2018.07.21-17.08.05:910][858]LogFileHelpers: Loading map 'Lobby' took 0.175
+[2018.07.21-17.08.25:688][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.21-17.08.43:526][696]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.21-17.08.44:652][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-17.09.12:479][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-17.09.17:647][493]LogSlate: Took 0.013525 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.21-17.09.19:289][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.21-17.09.23:332][989]Cmd: TRANSACTION UNDO
+[2018.07.21-17.09.23:332][989]LogEditorTransaction: Undo Move Actors
+[2018.07.21-17.09.25:512][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.21-17.09.26:164][296]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.07.21-17.09.31:279][881]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.09.35:741][370]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.09.40:414][877]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.09.41:266][968]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.09.42:019][ 53]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.09.45:219][423]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor)
+[2018.07.21-17.09.45:225][423]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.09.46:233][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.21-17.09.46:759][592]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start2)
+[2018.07.21-17.09.47:504][674]LogEditorViewport: Clicking on Actor (CTRL LMB): PlayerStart (Player Start)
+[2018.07.21-17.09.47:510][674]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.09.47:510][674]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.09.49:128][858]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.09.49:129][858]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.09.50:858][ 53]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.09.50:859][ 53]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.09.55:748][578]LogEditorViewport: Clicking on Actor (CTRL LMB): PlayerStart (Player Start2)
+[2018.07.21-17.09.55:754][578]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.09.55:754][578]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.09.55:754][578]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.09.56:326][640]LogEditorViewport: Clicking on Actor (CTRL LMB): PlayerStart (Player Start)
+[2018.07.21-17.09.56:333][640]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.09.56:333][640]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.09.56:333][640]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.09.56:333][640]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.09.58:166][848]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.09.58:166][848]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.09.58:166][848]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.09.58:167][848]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.10.00:169][ 71]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.10.00:169][ 71]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.10.00:170][ 71]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.10.00:170][ 71]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.10.07:164][842]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.10.07:164][842]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.10.07:164][842]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.10.07:164][842]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.10.10:609][236]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.10.10:609][236]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.10.10:609][236]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.10.10:609][236]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-17.10.15:716][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-17.10.15:738][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/Lobby.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.21-17.10.15:798][294]LogSavePackage: Save=36.44ms
+[2018.07.21-17.10.15:798][294]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/Lobby0688958F434DF1256D0AF2A1290C754E.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/Lobby.umap'
+[2018.07.21-17.10.15:801][294]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/Lobby.umap
+[2018.07.21-17.10.15:832][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby_BuiltData" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/Lobby_BuiltData.uasset" SILENT=true
+[2018.07.21-17.10.15:856][294]LogSavePackage: Save=13.41ms
+[2018.07.21-17.10.15:856][294]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/Lobby_BuiltData37A8F800449B115DF2B4BC93D3C3E159.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/Lobby_BuiltData.uasset'
+[2018.07.21-17.10.15:857][294]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/Lobby_BuiltData.uasset
+[2018.07.21-17.10.17:125][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-17.10.17:884][524]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.21-17.10.19:397][701]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.21-17.10.21:960][843]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.21-17.10.31:134][746]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.21-17.10.52:137][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-17.12.03:238][691]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.21-17.12.03:242][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/Lobby.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.21-17.12.03:298][691]LogSavePackage: Save=40.37ms
+[2018.07.21-17.12.03:298][691]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/Lobby0C40405240FC09207B72D7874B3A81D8.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/Lobby.umap'
+[2018.07.21-17.12.03:300][691]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/Lobby.umap
+[2018.07.21-17.12.03:330][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby_BuiltData" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/Lobby_BuiltData.uasset" SILENT=true
+[2018.07.21-17.12.03:346][691]LogSavePackage: Save=10.82ms
+[2018.07.21-17.12.03:346][691]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/Lobby_BuiltData6C0DF3E2463B157EAEC564B3346BDA7B.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/Lobby_BuiltData.uasset'
+[2018.07.21-17.12.03:347][691]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/Lobby_BuiltData.uasset
+[2018.07.21-17.12.35:068][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/Lobby.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.21-17.12.35:135][898]LogSavePackage: Save=43.77ms
+[2018.07.21-17.12.35:135][898]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/Lobby0A667E544D202A52158D88BA6AAE6CE0.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/Lobby.umap'
+[2018.07.21-17.12.35:136][898]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/Lobby.umap
+[2018.07.21-17.12.35:166][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby_BuiltData" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/Lobby_BuiltData.uasset" SILENT=true
+[2018.07.21-17.12.35:182][898]LogSavePackage: Save=10.83ms
+[2018.07.21-17.12.35:182][898]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/Lobby_BuiltDataF475FD0A4B61015086B10F81EFD30D81.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/Lobby_BuiltData.uasset'
+[2018.07.21-17.12.35:183][898]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/Lobby_BuiltData.uasset
