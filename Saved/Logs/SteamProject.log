@@ -582,3 +582,341 @@ LogInit: Object subsystem initialized
 [2018.07.24-15.04.34:988][121]LogSavePackage: Save=84.17ms
 [2018.07.24-15.04.34:988][121]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/MainMenu2353835E4CD6DEF41D43F6A146D090B9.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap'
 [2018.07.24-15.04.34:990][121]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap
+[2018.07.24-15.07.40:149][538]BlueprintLog: New page: Compile HostMenu
+[2018.07.24-15.07.40:180][538]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc4c2c2e80, Size=80
+[2018.07.24-15.07.40:180][538]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc4ca91620, Size=80, HostMenu_C_54 Function /Engine/Transient.REINST_HostMenu_C_45:ExecuteUbergraph_HostMenu
+[2018.07.24-15.07.40:186][538]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc4dc65b70, Size=80, Default__HostMenu_C Function /Game/UI/MainMenu/HostMenu.HostMenu_C:ExecuteUbergraph_HostMenu
+[2018.07.24-15.07.40:208][538]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc42e7f980, Size=64
+[2018.07.24-15.07.40:208][538]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc53549a80, Size=64
+[2018.07.24-15.07.40:208][538]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc0d5dc840, Size=64
+[2018.07.24-15.07.40:208][538]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc4e292e80, Size=64
+[2018.07.24-15.07.40:208][538]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc4c333ac0, Size=32
+[2018.07.24-15.07.40:778][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/HostMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/HostMenu.uasset" SILENT=true
+[2018.07.24-15.07.40:838][587]LogSavePackage: Save=51.42ms
+[2018.07.24-15.07.40:838][587]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/HostMenu3D5DC18E434DEFC6209303B961F5ABF3.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/HostMenu.uasset'
+[2018.07.24-15.07.40:840][587]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/HostMenu.uasset
+[2018.07.24-15.07.54:450][153]LogSlate: Took 0.108936 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.07.24-15.08.06:456][562]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc1ebe8740, Size=4, Default__SKEL_HostMenu_C Function /Game/UI/MainMenu/HostMenu.SKEL_HostMenu_C:ExecuteUbergraph_HostMenu
+[2018.07.24-15.08.06:488][562]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc1ebe8740, Size=4
+[2018.07.24-15.08.06:488][562]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc1ebe8740, Size=4, Default__SKEL_HostMenu_C Function /Engine/Transient.REINST_SKEL_HostMenu_C_47:ExecuteUbergraph_HostMenu
+[2018.07.24-15.08.06:491][562]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc1ebe9e28, Size=4, Default__SKEL_HostMenu_C Function /Game/UI/MainMenu/HostMenu.SKEL_HostMenu_C:ExecuteUbergraph_HostMenu
+[2018.07.24-15.08.33:342][740]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc1ebe9e28, Size=4
+[2018.07.24-15.08.33:342][740]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc1ebe9e28, Size=4, Default__SKEL_HostMenu_C Function /Engine/Transient.REINST_SKEL_HostMenu_C_48:ExecuteUbergraph_HostMenu
+[2018.07.24-15.08.33:345][740]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc1ebe9850, Size=4, Default__SKEL_HostMenu_C Function /Game/UI/MainMenu/HostMenu.SKEL_HostMenu_C:ExecuteUbergraph_HostMenu
+[2018.07.24-15.08.39:615][486]BlueprintLog: New page: Compile HostMenu
+[2018.07.24-15.08.39:631][486]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc1ebe9850, Size=4
+[2018.07.24-15.08.39:631][486]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc4e2d0320, Size=4, Default__SKEL_HostMenu_C Function /Engine/Transient.REINST_SKEL_HostMenu_C_49:ExecuteUbergraph_HostMenu
+[2018.07.24-15.08.39:648][486]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc4dc65b70, Size=80
+[2018.07.24-15.08.39:648][486]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc1ef0d580, Size=80, Default__HostMenu_C Function /Engine/Transient.REINST_HostMenu_C_50:ExecuteUbergraph_HostMenu
+[2018.07.24-15.08.39:670][486]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc4cc676a0, Size=80, Default__HostMenu_C Function /Game/UI/MainMenu/HostMenu.HostMenu_C:ExecuteUbergraph_HostMenu
+[2018.07.24-15.08.39:691][486]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc4e2d0320, Size=4
+[2018.07.24-15.08.39:691][486]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc1ebe9e28, Size=4
+[2018.07.24-15.08.39:691][486]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc1ebe8740, Size=4
+[2018.07.24-15.08.40:232][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/HostMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/HostMenu.uasset" SILENT=true
+[2018.07.24-15.08.40:292][545]LogSavePackage: Save=52.78ms
+[2018.07.24-15.08.40:292][545]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/HostMenu926E593B4514311622ED25B40A60C600.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/HostMenu.uasset'
+[2018.07.24-15.08.40:294][545]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/HostMenu.uasset
+[2018.07.24-15.08.49:090][560]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc52fbd6d8, Size=4, Default__SKEL_HostMenu_C Function /Game/UI/MainMenu/HostMenu.SKEL_HostMenu_C:ExecuteUbergraph_HostMenu
+[2018.07.24-15.09.07:880][775]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc52fbd6d8, Size=4
+[2018.07.24-15.09.07:880][775]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc52fbd6d8, Size=4, Default__SKEL_HostMenu_C Function /Engine/Transient.REINST_SKEL_HostMenu_C_52:ExecuteUbergraph_HostMenu
+[2018.07.24-15.09.07:883][775]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc52fbe810, Size=4, Default__SKEL_HostMenu_C Function /Game/UI/MainMenu/HostMenu.SKEL_HostMenu_C:ExecuteUbergraph_HostMenu
+[2018.07.24-15.09.10:954][129]BlueprintLog: New page: Compile HostMenu
+[2018.07.24-15.09.10:970][129]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc52fbe810, Size=4
+[2018.07.24-15.09.10:970][129]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc1ebeaec0, Size=4, Default__SKEL_HostMenu_C Function /Engine/Transient.REINST_SKEL_HostMenu_C_53:ExecuteUbergraph_HostMenu
+[2018.07.24-15.09.10:988][129]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc4cc676a0, Size=80
+[2018.07.24-15.09.10:988][129]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc4c54f7e0, Size=80, HostMenu_C_68 Function /Engine/Transient.REINST_HostMenu_C_54:ExecuteUbergraph_HostMenu
+[2018.07.24-15.09.10:993][129]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc4e14fb00, Size=80, Default__HostMenu_C Function /Game/UI/MainMenu/HostMenu.HostMenu_C:ExecuteUbergraph_HostMenu
+[2018.07.24-15.09.11:011][129]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc1ebeaec0, Size=4
+[2018.07.24-15.09.11:011][129]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc52fbd6d8, Size=4
+[2018.07.24-15.09.11:656][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/HostMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/HostMenu.uasset" SILENT=true
+[2018.07.24-15.09.11:717][191]LogSavePackage: Save=54.45ms
+[2018.07.24-15.09.11:717][191]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/HostMenuA66135CE4B637DF5CE63A0A509A187A8.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/HostMenu.uasset'
+[2018.07.24-15.09.11:719][191]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/HostMenu.uasset
+[2018.07.24-15.09.18:024][544]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.24-15.09.18:112][544]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.09.18:143][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-15.09.18:290][544]PIE: New page: PIE session: MainMenu (Jul 24, 2018, 7:09:18 AM)
+[2018.07.24-15.09.18:319][544]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.07.24-15.09.18:354][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034957s)
+[2018.07.24-15.09.18:355][544]LogAIModule: Creating AISystem for world MainMenu
+[2018.07.24-15.09.18:370][544]LogPlayLevel: PIE: World Init took: (0.015538s)
+[2018.07.24-15.09.18:370][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.050733s)
+[2018.07.24-15.09.18:435][544]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.24-15.09.18:446][544]LogInit: FAudioDevice initialized.
+[2018.07.24-15.09.18:680][544]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc4c7a5c40, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.24-15.09.18:769][544]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc4c7a5c40, Size=64
+[2018.07.24-15.09.18:769][544]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc52fb3fc0, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.24-15.09.18:843][544]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc4daa4680, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.24-15.09.19:056][544]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc57c74180, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.24-15.09.19:079][544]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc57c74180, Size=296
+[2018.07.24-15.09.19:079][544]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc57c74180, Size=296, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_101:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.24-15.09.19:099][544]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc57c760c0, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.24-15.09.19:576][544]LogSkeletalMesh: Skeletal Mesh found in DDC [57.615219ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.07.24-15.09.19:757][544]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.24-15.09.19:767][544]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.07.24-11.09.19
+[2018.07.24-15.09.19:795][544]LogWorld: Bringing up level for play took: 0.027977
+[2018.07.24-15.09.19:832][544]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.07.24-15.09.20:109][544]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2018.07.24-15.09.20:558][544]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 3.332
+[2018.07.24-15.09.20:567][544]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.09.20:802][544]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.07.24-15.09.27:668][915]LogScriptCore: Warning: Script Msg: CreateSession - Invalid or uninitialized OnlineSubsystem
+[2018.07.24-15.09.27:672][915]LogScriptCore: Warning: Script Msg: CreateSession - Cannot map local player to unique net ID
+[2018.07.24-15.09.37:554][951]LogSlate: Window 'SteamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.24-15.09.37:572][951]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.09.37:656][951]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.09.37:741][951]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc57c74180, Size=296
+[2018.07.24-15.09.37:742][951]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc52fb3fc0, Size=64
+[2018.07.24-15.10.02:483][458]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.24-15.10.02:504][458]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.10.02:504][458]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.24-15.10.02:521][458]LogPlayLevel: [PlayLevel] Compiling HostMenu before play...
+[2018.07.24-15.10.02:535][458]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc4e14fb00, Size=80
+[2018.07.24-15.10.02:535][458]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc534a0d60, Size=80, HostMenu_C_73 Function /Engine/Transient.REINST_HostMenu_C_56:ExecuteUbergraph_HostMenu
+[2018.07.24-15.10.02:540][458]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc4ca9db20, Size=80, Default__HostMenu_C Function /Game/UI/MainMenu/HostMenu.HostMenu_C:ExecuteUbergraph_HostMenu
+[2018.07.24-15.10.02:703][458]LogPlayLevel: PlayLevel: Blueprint regeneration took 199 ms (1 blueprints)
+[2018.07.24-15.10.02:703][458]PIE: New page: PIE session: MainMenu (Jul 24, 2018, 7:10:02 AM)
+[2018.07.24-15.10.02:713][458]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.07.24-15.10.02:714][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000785s)
+[2018.07.24-15.10.02:714][458]LogAIModule: Creating AISystem for world MainMenu
+[2018.07.24-15.10.02:714][458]LogPlayLevel: PIE: World Init took: (0.000643s)
+[2018.07.24-15.10.02:714][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001554s)
+[2018.07.24-15.10.02:740][458]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.24-15.10.02:752][458]LogInit: FAudioDevice initialized.
+[2018.07.24-15.10.02:812][458]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.24-15.10.02:813][458]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.07.24-11.10.02
+[2018.07.24-15.10.02:813][458]LogWorld: Bringing up level for play took: 0.000442
+[2018.07.24-15.10.02:814][458]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.07.24-15.10.02:819][458]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu -0.407
+[2018.07.24-15.10.02:834][458]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.10.30:727][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-15.10.37:411][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-15.10.46:484][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-15.11.13:714][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-15.11.18:217][232]LogSlate: Window 'SteamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.24-15.11.18:229][232]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.11.18:259][232]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.12.49:634][970]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.24-15.12.49:654][970]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.12.49:654][970]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.24-15.12.49:671][970]LogPlayLevel: [PlayLevel] Compiling HostMenu before play...
+[2018.07.24-15.12.49:685][970]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc4ca9db20, Size=80
+[2018.07.24-15.12.49:685][970]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc1bea5120, Size=80, HostMenu_C_79 Function /Engine/Transient.REINST_HostMenu_C_58:ExecuteUbergraph_HostMenu
+[2018.07.24-15.12.49:690][970]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc58de11c0, Size=80, Default__HostMenu_C Function /Game/UI/MainMenu/HostMenu.HostMenu_C:ExecuteUbergraph_HostMenu
+[2018.07.24-15.12.49:820][970]LogPlayLevel: PlayLevel: Blueprint regeneration took 165 ms (1 blueprints)
+[2018.07.24-15.12.49:820][970]PIE: New page: PIE session: MainMenu (Jul 24, 2018, 7:12:49 AM)
+[2018.07.24-15.12.49:830][970]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.07.24-15.12.49:830][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000779s)
+[2018.07.24-15.12.49:831][970]LogAIModule: Creating AISystem for world MainMenu
+[2018.07.24-15.12.49:831][970]LogPlayLevel: PIE: World Init took: (0.000580s)
+[2018.07.24-15.12.49:831][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001489s)
+[2018.07.24-15.12.49:858][970]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.24-15.12.49:870][970]LogInit: FAudioDevice initialized.
+[2018.07.24-15.12.49:924][970]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.24-15.12.49:925][970]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.07.24-11.12.49
+[2018.07.24-15.12.49:926][970]LogWorld: Bringing up level for play took: 0.000460
+[2018.07.24-15.12.49:926][970]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.07.24-15.12.49:931][970]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0.705
+[2018.07.24-15.12.49:931][970]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.12.55:791][608]LogScriptCore: Warning: Script Msg: CreateSession - Invalid or uninitialized OnlineSubsystem
+[2018.07.24-15.12.55:791][608]LogScriptCore: Warning: Script Msg: CreateSession - Cannot map local player to unique net ID
+[2018.07.24-15.12.56:888][731]LogSlate: Window 'SteamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.24-15.12.56:891][731]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.12.56:923][731]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.13.04:184][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/HostMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/HostMenu.uasset" SILENT=true
+[2018.07.24-15.13.04:249][596]LogSavePackage: Save=51.88ms
+[2018.07.24-15.13.04:249][596]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/HostMenuF6AFF9B54F22679C2D682D9FB023D5AC.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/HostMenu.uasset'
+[2018.07.24-15.13.04:251][596]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/HostMenu.uasset
+[2018.07.24-15.15.14:183][984]BlueprintLog: New page: Compile HostMenu
+[2018.07.24-15.15.14:215][984]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc58de11c0, Size=80
+[2018.07.24-15.15.14:215][984]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc42052750, Size=80, HostMenu_C_86 Function /Engine/Transient.REINST_HostMenu_C_60:ExecuteUbergraph_HostMenu
+[2018.07.24-15.15.14:221][984]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc1bd748b0, Size=80, Default__HostMenu_C Function /Game/UI/MainMenu/HostMenu.HostMenu_C:ExecuteUbergraph_HostMenu
+[2018.07.24-15.15.15:788][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/HostMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/HostMenu.uasset" SILENT=true
+[2018.07.24-15.15.15:848][145]LogSavePackage: Save=53.21ms
+[2018.07.24-15.15.15:848][145]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/HostMenu9B7F672246322928DAC974AE9897983D.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/HostMenu.uasset'
+[2018.07.24-15.15.15:849][145]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/HostMenu.uasset
+[2018.07.24-15.15.32:847][579]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.24-15.15.32:879][579]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.15.32:879][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-15.15.32:879][579]PIE: New page: PIE session: MainMenu (Jul 24, 2018, 7:15:32 AM)
+[2018.07.24-15.15.32:889][579]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.07.24-15.15.32:890][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000805s)
+[2018.07.24-15.15.32:890][579]LogAIModule: Creating AISystem for world MainMenu
+[2018.07.24-15.15.32:890][579]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2018.07.24-15.15.32:890][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001628s)
+[2018.07.24-15.15.32:906][579]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc42052750, Size=80
+[2018.07.24-15.15.32:918][579]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.24-15.15.32:929][579]LogInit: FAudioDevice initialized.
+[2018.07.24-15.15.32:986][579]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.24-15.15.32:987][579]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.07.24-11.15.32
+[2018.07.24-15.15.32:988][579]LogWorld: Bringing up level for play took: 0.000551
+[2018.07.24-15.15.32:988][579]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.07.24-15.15.32:993][579]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu -0.233
+[2018.07.24-15.15.32:994][579]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.15.40:979][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-15.16.26:157][552]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.16.26:174][552]LogSlate: Window 'SteamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.24-15.16.26:205][552]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.21.54:165][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.24-15.21.54:200][166]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc4c333000, Size=32
+[2018.07.24-15.21.54:200][166]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc1bfedac0, Size=32, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_119:ExecuteUbergraph_MainMenu
+[2018.07.24-15.21.54:201][166]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc1bfee780, Size=32, Default__MainMenu_C Function /Game/Maps/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.07.24-15.21.54:285][166]LogSavePackage: Save=87.80ms
+[2018.07.24-15.21.54:286][166]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/MainMenuEFEAB28D458F27A95122198B7E9D3379.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap'
+[2018.07.24-15.21.54:288][166]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap
+[2018.07.24-15.21.55:488][288]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.24-15.21.55:509][288]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.21.55:509][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-15.21.55:509][288]PIE: New page: PIE session: MainMenu (Jul 24, 2018, 7:21:55 AM)
+[2018.07.24-15.21.55:509][288]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.07.24-15.21.55:510][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000894s)
+[2018.07.24-15.21.55:511][288]LogAIModule: Creating AISystem for world MainMenu
+[2018.07.24-15.21.55:511][288]LogPlayLevel: PIE: World Init took: (0.000804s)
+[2018.07.24-15.21.55:511][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001827s)
+[2018.07.24-15.21.55:530][288]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc534a0d60, Size=80
+[2018.07.24-15.21.55:530][288]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc4c54f7e0, Size=80
+[2018.07.24-15.21.55:531][288]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc4ca91620, Size=80
+[2018.07.24-15.21.55:531][288]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc1bea5120, Size=80
+[2018.07.24-15.21.55:531][288]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc1ef0d580, Size=80
+[2018.07.24-15.21.55:531][288]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc1bfedac0, Size=32
+[2018.07.24-15.21.55:543][288]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.24-15.21.55:554][288]LogInit: FAudioDevice initialized.
+[2018.07.24-15.21.55:613][288]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.24-15.21.55:614][288]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.07.24-11.21.55
+[2018.07.24-15.21.55:614][288]LogWorld: Bringing up level for play took: 0.000487
+[2018.07.24-15.21.55:621][288]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0.395
+[2018.07.24-15.21.55:621][288]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.21.59:647][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-15.21.59:745][691]LogScriptCore: Warning: Script Msg: CreateSession - Invalid or uninitialized OnlineSubsystem
+[2018.07.24-15.21.59:745][691]LogScriptCore: Warning: Script Msg: CreateSession - Cannot map local player to unique net ID
+[2018.07.24-15.22.00:791][796]LogSlate: Window 'SteamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.24-15.22.00:794][796]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.22.00:826][796]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.26.15:100][452]BlueprintLog: New page: Compile HostMenu
+[2018.07.24-15.26.15:132][452]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc1bd748b0, Size=80
+[2018.07.24-15.26.15:132][452]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc59883920, Size=80, Default__HostMenu_C Function /Engine/Transient.REINST_HostMenu_C_62:ExecuteUbergraph_HostMenu
+[2018.07.24-15.26.15:138][452]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc4c54ed40, Size=80, Default__HostMenu_C Function /Game/UI/MainMenu/HostMenu.HostMenu_C:ExecuteUbergraph_HostMenu
+[2018.07.24-15.26.15:705][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/HostMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/HostMenu.uasset" SILENT=true
+[2018.07.24-15.26.15:771][505]LogSavePackage: Save=52.02ms
+[2018.07.24-15.26.15:771][505]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/HostMenuF72F13A84632F080F609EBA881F5AFBF.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/HostMenu.uasset'
+[2018.07.24-15.26.15:774][505]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/HostMenu.uasset
+[2018.07.24-15.26.18:760][852]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.24-15.26.18:780][852]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.26.18:780][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-15.26.18:780][852]PIE: New page: PIE session: MainMenu (Jul 24, 2018, 7:26:18 AM)
+[2018.07.24-15.26.18:789][852]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.07.24-15.26.18:790][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000857s)
+[2018.07.24-15.26.18:791][852]LogAIModule: Creating AISystem for world MainMenu
+[2018.07.24-15.26.18:791][852]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2018.07.24-15.26.18:791][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001679s)
+[2018.07.24-15.26.18:807][852]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc59883920, Size=80
+[2018.07.24-15.26.18:819][852]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.24-15.26.18:831][852]LogInit: FAudioDevice initialized.
+[2018.07.24-15.26.18:894][852]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.24-15.26.18:895][852]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.07.24-11.26.18
+[2018.07.24-15.26.18:895][852]LogWorld: Bringing up level for play took: 0.000430
+[2018.07.24-15.26.18:902][852]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu -0.324
+[2018.07.24-15.26.18:903][852]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.26.23:255][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-15.26.26:674][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-15.26.34:954][777]LogSlate: Window 'SteamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.24-15.26.34:970][777]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.26.35:000][777]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.28.21:667][104]BlueprintLog: New page: Compile HostMenu
+[2018.07.24-15.28.21:699][104]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc4c54ed40, Size=80
+[2018.07.24-15.28.21:699][104]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc4c2c1300, Size=80, Default__HostMenu_C Function /Engine/Transient.REINST_HostMenu_C_64:ExecuteUbergraph_HostMenu
+[2018.07.24-15.28.21:704][104]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc58bdcf90, Size=80, Default__HostMenu_C Function /Game/UI/MainMenu/HostMenu.HostMenu_C:ExecuteUbergraph_HostMenu
+[2018.07.24-15.28.22:246][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/HostMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/HostMenu.uasset" SILENT=true
+[2018.07.24-15.28.22:307][152]LogSavePackage: Save=53.45ms
+[2018.07.24-15.28.22:307][152]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/HostMenu626C2B3B4360132BB046FEA1B49561EE.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/HostMenu.uasset'
+[2018.07.24-15.28.22:309][152]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/HostMenu.uasset
+[2018.07.24-15.28.28:845][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.24-15.28.28:863][796]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc4c2c1300, Size=80
+[2018.07.24-15.28.28:876][796]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc1bfee780, Size=32
+[2018.07.24-15.28.28:876][796]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc4e371e60, Size=32, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_131:ExecuteUbergraph_MainMenu
+[2018.07.24-15.28.28:877][796]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc1eb78500, Size=32, Default__MainMenu_C Function /Game/Maps/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.07.24-15.28.28:958][796]LogSavePackage: Save=84.77ms
+[2018.07.24-15.28.28:958][796]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/MainMenuB1A22DF14BFF6C149577A7B415EE513E.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap'
+[2018.07.24-15.28.28:960][796]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap
+[2018.07.24-15.28.30:137][922]BlueprintLog: New page: Compile HostMenu
+[2018.07.24-15.28.30:168][922]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc58bdcf90, Size=80
+[2018.07.24-15.28.30:168][922]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc1b8571f0, Size=80, Default__HostMenu_C Function /Engine/Transient.REINST_HostMenu_C_66:ExecuteUbergraph_HostMenu
+[2018.07.24-15.28.30:173][922]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc4c2c2c50, Size=80, Default__HostMenu_C Function /Game/UI/MainMenu/HostMenu.HostMenu_C:ExecuteUbergraph_HostMenu
+[2018.07.24-15.28.30:191][922]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc4e371e60, Size=32
+[2018.07.24-15.28.30:620][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/HostMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/HostMenu.uasset" SILENT=true
+[2018.07.24-15.28.30:678][960]LogSavePackage: Save=51.62ms
+[2018.07.24-15.28.30:678][960]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/HostMenu6753AC8641E76CB0EDE367923829618C.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/HostMenu.uasset'
+[2018.07.24-15.28.30:679][960]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/HostMenu.uasset
+[2018.07.24-15.28.31:862][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.24-15.28.31:880][ 94]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc1b8571f0, Size=80
+[2018.07.24-15.28.31:888][ 94]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc1eb78500, Size=32
+[2018.07.24-15.28.31:888][ 94]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc534bcb00, Size=32, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_139:ExecuteUbergraph_MainMenu
+[2018.07.24-15.28.31:889][ 94]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc534bd7a0, Size=32, Default__MainMenu_C Function /Game/Maps/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.07.24-15.28.31:971][ 94]LogSavePackage: Save=85.26ms
+[2018.07.24-15.28.31:971][ 94]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/MainMenu15FEBD0B411BB74D07F2DB8F9D087A13.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap'
+[2018.07.24-15.28.31:974][ 94]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap
+[2018.07.24-15.28.32:513][152]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.24-15.28.32:534][152]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.28.32:534][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-15.28.32:534][152]PIE: New page: PIE session: MainMenu (Jul 24, 2018, 7:28:32 AM)
+[2018.07.24-15.28.32:544][152]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.07.24-15.28.32:545][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000803s)
+[2018.07.24-15.28.32:545][152]LogAIModule: Creating AISystem for world MainMenu
+[2018.07.24-15.28.32:545][152]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2018.07.24-15.28.32:545][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001592s)
+[2018.07.24-15.28.32:561][152]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc534bcb00, Size=32
+[2018.07.24-15.28.32:573][152]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.24-15.28.32:585][152]LogInit: FAudioDevice initialized.
+[2018.07.24-15.28.32:644][152]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.24-15.28.32:645][152]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.07.24-11.28.32
+[2018.07.24-15.28.32:645][152]LogWorld: Bringing up level for play took: 0.000504
+[2018.07.24-15.28.32:652][152]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu -0.574
+[2018.07.24-15.28.32:652][152]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.29.01:310][465]LogSlate: Window 'SteamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.24-15.29.01:339][465]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.29.01:371][465]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.30.27:098][422]BlueprintLog: New page: Compile HostMenu
+[2018.07.24-15.30.27:131][422]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc4c2c2c50, Size=80
+[2018.07.24-15.30.27:131][422]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc59421990, Size=80, Default__HostMenu_C Function /Engine/Transient.REINST_HostMenu_C_68:ExecuteUbergraph_HostMenu
+[2018.07.24-15.30.27:136][422]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc4e388270, Size=80, Default__HostMenu_C Function /Game/UI/MainMenu/HostMenu.HostMenu_C:ExecuteUbergraph_HostMenu
+[2018.07.24-15.30.27:624][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/HostMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/HostMenu.uasset" SILENT=true
+[2018.07.24-15.30.27:688][466]LogSavePackage: Save=55.35ms
+[2018.07.24-15.30.27:688][466]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/HostMenu21C0D1C048339D9903A3D7A5984E99D1.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/HostMenu.uasset'
+[2018.07.24-15.30.27:691][466]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/HostMenu.uasset
+[2018.07.24-15.30.29:447][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.24-15.30.29:465][671]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc59421990, Size=80
+[2018.07.24-15.30.29:473][671]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc534bd7a0, Size=32
+[2018.07.24-15.30.29:473][671]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc1eb7a1c0, Size=32, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_147:ExecuteUbergraph_MainMenu
+[2018.07.24-15.30.29:474][671]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc1eb7af20, Size=32, Default__MainMenu_C Function /Game/Maps/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.07.24-15.30.29:556][671]LogSavePackage: Save=85.00ms
+[2018.07.24-15.30.29:556][671]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/MainMenuC19DA0DB491142A11277FDA7EC44D84F.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap'
+[2018.07.24-15.30.29:558][671]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap
+[2018.07.24-15.30.32:689][ 34]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.24-15.30.32:708][ 34]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.30.32:708][ 34]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-15.30.32:709][ 34]PIE: New page: PIE session: MainMenu (Jul 24, 2018, 7:30:32 AM)
+[2018.07.24-15.30.32:718][ 34]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.07.24-15.30.32:719][ 34]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000790s)
+[2018.07.24-15.30.32:719][ 34]LogAIModule: Creating AISystem for world MainMenu
+[2018.07.24-15.30.32:719][ 34]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2018.07.24-15.30.32:719][ 34]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001543s)
+[2018.07.24-15.30.32:735][ 34]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc1eb7a1c0, Size=32
+[2018.07.24-15.30.32:746][ 34]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.24-15.30.32:758][ 34]LogInit: FAudioDevice initialized.
+[2018.07.24-15.30.32:816][ 34]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.24-15.30.32:817][ 34]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.07.24-11.30.32
+[2018.07.24-15.30.32:817][ 34]LogWorld: Bringing up level for play took: 0.000442
+[2018.07.24-15.30.32:824][ 34]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu -0.402
+[2018.07.24-15.30.32:825][ 34]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.30.36:840][431]LogScriptCore: Warning: Script Msg: CreateSession - Invalid or uninitialized OnlineSubsystem
+[2018.07.24-15.30.36:840][431]LogScriptCore: Warning: Script Msg: CreateSession - Cannot map local player to unique net ID
+[2018.07.24-15.30.38:380][587]LogSlate: Window 'SteamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.24-15.30.38:383][587]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.30.38:417][587]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.24-15.30.52:675][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.24-15.30.52:701][274]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dc1eb7af20, Size=32
+[2018.07.24-15.30.52:701][274]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc4c77c7a0, Size=32, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_151:ExecuteUbergraph_MainMenu
+[2018.07.24-15.30.52:702][274]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dc4c77eec0, Size=32, Default__MainMenu_C Function /Game/Maps/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.07.24-15.30.52:783][274]LogSavePackage: Save=84.99ms
+[2018.07.24-15.30.52:783][274]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/MainMenu0CF9783F4C5DA54DA433BFB9DE718E49.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap'
+[2018.07.24-15.30.52:786][274]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap
