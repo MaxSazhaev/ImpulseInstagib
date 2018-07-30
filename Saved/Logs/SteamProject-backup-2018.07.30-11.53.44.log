@@ -1,0 +1,1177 @@
+﻿Log file open, 07/29/18 16:04:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SteamProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-110713809) SRandInit(-110713809).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.254875
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  4.057s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Max-PC (192.168.0.103:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: E:/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.29-20.04.37:846][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.29-20.04.37:846][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.29-20.04.38:000][  0]LogInit: Computer: MAX-PC
+[2018.07.29-20.04.38:000][  0]LogInit: User: maxsa
+[2018.07.29-20.04.38:000][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.29-20.04.38:000][  0]LogInit: High frequency timer resolution =3.320338 MHz
+[2018.07.29-20.04.38:004][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.07.29-20.04.38:004][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.29-20.04.38:004][  0]LogMemory: Process Physical Memory: 272.89 MB used, 272.89 MB peak
+[2018.07.29-20.04.38:004][  0]LogMemory: Process Virtual Memory: 264.04 MB used, 264.04 MB peak
+[2018.07.29-20.04.38:004][  0]LogMemory: Physical Memory: 7798.56 MB used,  8536.29 MB free, 16334.86 MB total
+[2018.07.29-20.04.38:004][  0]LogMemory: Virtual Memory: 4778.08 MB used,  8536.29 MB free, 134217728.00 MB total
+[2018.07.29-20.04.39:064][  0]LogInit: Using OS detected language (en-US).
+[2018.07.29-20.04.39:064][  0]LogInit: Using OS detected locale (en-CA).
+[2018.07.29-20.04.39:360][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.07.29-20.04.40:465][  0]LogStreaming: Display: Took  1.408s to EndInitTextLocalization.
+[2018.07.29-20.04.40:498][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.29-20.04.41:158][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.29-20.04.41:158][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.29-20.04.43:831][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.29-20.04.43:960][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.07.29-20.04.43:960][  0]LogD3D11RHI:       8088/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.07.29-20.04.43:964][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.29-20.04.43:964][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.29-20.04.43:964][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.29-20.04.43:972][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.29-20.04.43:976][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.29-20.04.43:976][  0]LogWindows: EnumDisplayDevices:
+[2018.07.29-20.04.43:976][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.07.29-20.04.43:976][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.07.29-20.04.43:976][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.07.29-20.04.43:976][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.07.29-20.04.43:976][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.29-20.04.43:976][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.07.29-20.04.43:976][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.29-20.04.43:976][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.29-20.04.43:976][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.07.29-20.04.44:034][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.29-20.04.44:034][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.29-20.04.44:034][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.29-20.04.44:352][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.07.29-20.04.44:541][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Intermediate/Shaders/WorkingDirectory/6244/).
+[2018.07.29-20.04.44:551][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/maxsa/AppData/Local/Temp/UnrealShaderWorkingDir/4CC9C2C4402C6352FD9AE5920B186F30/'.
+[2018.07.29-20.04.45:707][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.29-20.04.45:736][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.29-20.04.45:749][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.29-20.04.45:762][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.29-20.04.45:799][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.29-20.04.45:812][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.29-20.04.45:825][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.29-20.04.45:839][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.29-20.04.45:845][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.29-20.04.45:858][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.29-20.04.45:870][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.29-20.04.45:882][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.29-20.04.45:895][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.29-20.04.45:908][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.29-20.04.45:921][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.29-20.04.45:948][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.29-20.04.45:948][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.29-20.04.45:967][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.29-20.04.45:969][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.29-20.04.46:090][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.29-20.04.46:114][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.29-20.04.46:126][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.29-20.04.46:138][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.29-20.04.46:150][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.29-20.04.46:181][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.29-20.04.46:181][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.29-20.04.47:333][  0]LogXGEController: Cleaning working directory: C:/Users/maxsa/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.07.29-20.04.47:334][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.29-20.04.47:345][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.29-20.04.47:345][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.29-20.04.51:156][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.29-20.04.51:492][  0]LogDerivedDataCache: Loaded boot cache 0.34s 74MB C:/Users/maxsa/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.29-20.04.51:492][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/maxsa/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.29-20.04.51:492][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.29-20.04.51:492][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.29-20.04.51:492][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.29-20.04.51:492][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.29-20.04.51:622][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.29-20.04.51:637][  0]LogDerivedDataCache: Using Local data cache path C:/Users/maxsa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.29-20.04.51:637][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.29-20.04.51:637][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.29-20.04.51:736][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.29-20.04.51:793][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.29-20.04.51:869][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.29-20.04.51:869][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.29-20.04.58:744][  0]LogAssetRegistry: FAssetRegistry took 0.0470 seconds to start up
+[2018.07.29-20.05.05:167][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.29-20.05.07:775][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.29-20.05.07:814][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.29-20.05.07:825][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.29-20.05.07:826][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.29-20.05.07:826][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.29-20.05.07:826][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.29-20.05.08:504][  0]LogNetVersion: SteamProject , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2850268364)
+[2018.07.29-20.05.14:066][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.144481 seconds
+[2018.07.29-20.05.14:087][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.07.29-20.05.14:087][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.07.29-20.05.14:087][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.29-20.05.27:933][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.29-20.05.27:960][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.29-20.05.28:520][  0]SourceControl: Source control is disabled
+[2018.07.29-20.05.28:520][  0]SourceControl: Source control is disabled
+[2018.07.29-20.05.28:537][  0]SourceControl: Source control is disabled
+[2018.07.29-20.05.28:552][  0]SourceControl: Source control is disabled
+[2018.07.29-20.05.29:170][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.29-20.05.29:329][  0]LogOcInput: OculusInput pre-init called
+[2018.07.29-20.05.29:886][  0]LogEngine: Initializing Engine...
+[2018.07.29-20.05.30:060][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2018.07.29-20.05.30:075][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.29-20.05.30:076][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.29-20.05.31:224][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.29-20.05.31:427][  0]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.29-20.05.31:493][  0]LogInit: FAudioDevice initialized.
+[2018.07.29-20.05.31:572][  0]LogDerivedDataCache: Saved boot cache 0.04s 74MB C:/Users/maxsa/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.29-20.05.31:617][  0]LogInit: Texture streaming: Enabled
+[2018.07.29-20.05.31:686][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.29-20.05.31:800][  0]LogInit: Transaction tracking system initialized
+[2018.07.29-20.05.32:134][  0]BlueprintLog: New page: Editor Load
+[2018.07.29-20.05.33:094][  0]LocalizationService: Localization service is disabled
+[2018.07.29-20.05.33:766][  0]LogConsoleResponse: Display: 
+[2018.07.29-20.05.37:406][  0]LogFileCache: Scanning file cache for directory 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/' took 0.03s
+[2018.07.29-20.05.37:406][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.29-20.05.37:416][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.29-20.05.37:416][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.29-20.05.37:416][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.29-20.05.37:416][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.29-20.05.40:506][  0]SourceControl: Source control is disabled
+[2018.07.29-20.05.40:539][  0]Cmd: MAP LOAD FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.29-20.05.40:558][  0]LightingResults: New page: Lighting Build
+[2018.07.29-20.05.40:694][  0]MapCheck: New page: Map Check
+[2018.07.29-20.05.40:694][  0]LightingResults: New page: Lighting Build
+[2018.07.29-20.05.41:625][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022c0d019000, Size=504, Default__GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
+[2018.07.29-20.05.41:627][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022c0cf9cf40, Size=80, Default__HostMenu_C Function /Game/UI/MainMenu/HostMenu.HostMenu_C:ExecuteUbergraph_HostMenu
+[2018.07.29-20.05.41:649][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022c0dbf5e68, Size=40, Default__MainMenu_C Function /Game/UI/MainMenu/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.07.29-20.05.41:672][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022c0dd033a0, Size=32, Default__OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.29-20.05.41:772][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022c0d019000, Size=504
+[2018.07.29-20.05.41:772][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022c09b7b400, Size=504, Default__GameInfoInstance_C Function /Engine/Transient.REINST_GameInfoInstance_C_4:ExecuteUbergraph_GameInfoInstance
+[2018.07.29-20.05.41:772][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022c0cf9cf40, Size=80
+[2018.07.29-20.05.41:772][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022c0d8848b0, Size=80, Default__HostMenu_C Function /Engine/Transient.REINST_HostMenu_C_1:ExecuteUbergraph_HostMenu
+[2018.07.29-20.05.41:773][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022c0dbf5e68, Size=40
+[2018.07.29-20.05.41:773][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022c0dbf5e68, Size=40, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_2:ExecuteUbergraph_MainMenu
+[2018.07.29-20.05.41:773][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022c0dd033a0, Size=32
+[2018.07.29-20.05.41:773][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022c0d84d7c0, Size=32, Default__OptionsMenu_C Function /Engine/Transient.REINST_OptionsMenu_C_3:ExecuteUbergraph_OptionsMenu
+[2018.07.29-20.05.41:847][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022c0d758a00, Size=504, Default__GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
+[2018.07.29-20.05.41:851][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022c0d6cac50, Size=80, Default__HostMenu_C Function /Game/UI/MainMenu/HostMenu.HostMenu_C:ExecuteUbergraph_HostMenu
+[2018.07.29-20.05.41:853][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022c0d77f830, Size=40, Default__MainMenu_C Function /Game/UI/MainMenu/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.07.29-20.05.41:855][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022c0d6c2ec0, Size=32, Default__OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.29-20.05.41:873][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022c0d6c2f60, Size=32, Default__MainMenu_C Function /Game/Maps/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.07.29-20.05.41:874][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022c0d6c2f60, Size=32
+[2018.07.29-20.05.41:874][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022c0d6c2f60, Size=32, MainMenu_C_0 Function /Engine/Transient.REINST_MainMenu_C_10:ExecuteUbergraph_MainMenu
+[2018.07.29-20.05.41:876][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022c0d6c3b00, Size=32, Default__MainMenu_C Function /Game/Maps/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.07.29-20.05.42:112][  0]LogAIModule: Creating AISystem for world MainMenu
+[2018.07.29-20.05.42:221][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.29-20.05.42:374][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022c09b7b400, Size=504
+[2018.07.29-20.05.42:374][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022c0d8848b0, Size=80
+[2018.07.29-20.05.42:374][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022c0dbf5e68, Size=40
+[2018.07.29-20.05.42:374][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022c0d84d7c0, Size=32
+[2018.07.29-20.05.42:374][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022c0d6c2f60, Size=32
+[2018.07.29-20.05.42:398][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.29-20.05.42:448][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 49.259ms to complete.
+[2018.07.29-20.05.42:448][  0]LogFileHelpers: Loading map 'MainMenu' took 1.914
+[2018.07.29-20.05.44:050][  0]LogCollectionManager: Loaded 0 collections in 0.003600 seconds
+[2018.07.29-20.05.44:249][  0]LogFileCache: Scanning file cache for directory 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/Collections/' took 0.01s
+[2018.07.29-20.05.44:249][  0]LogFileCache: Scanning file cache for directory 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Developers/maxsa/Collections/' took 0.01s
+[2018.07.29-20.05.44:249][  0]LogFileCache: Scanning file cache for directory 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Collections/' took 0.01s
+[2018.07.29-20.05.44:249][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.07.29-20.05.44:295][  0]LogContentBrowser: Native class hierarchy populated in 0.0337 seconds. Added 2452 classes and 558 folders.
+[2018.07.29-20.05.44:352][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.29-20.05.46:422][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.07.29-20.05.46:474][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.07.29-20.05.48:553][  0]LogSlate: Took 0.114129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.29-20.05.48:581][  0]LogSlate: Took 0.024651 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.29-20.05.48:663][  0]LogSlate: Took 0.036509 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.29-20.05.49:872][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.07.29-20.05.51:020][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.07.29-20.05.51:020][  0]LogLoad: (Engine Initialization) Total time: 89.40 seconds
+[2018.07.29-20.05.51:020][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.29-20.05.51:467][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.29-20.05.51:633][  0]LogSlate: Took 0.022170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.29-20.05.52:064][  2]LogAssetRegistry: Asset discovery search completed in 53.3473 seconds
+[2018.07.29-20.05.52:074][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.07.29-20.05.52:074][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000143 seconds (updated 0 objects)
+[2018.07.29-20.05.52:176][  3]LogSlate: Took 0.000389 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.29-20.05.52:992][  3]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 116 classes and 0 folders.
+[2018.07.29-20.05.53:515][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022c347d9828, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.29-20.05.53:515][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022c347d9820, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.29-20.05.54:963][  3]LogSlate: Took 0.013532 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.29-20.05.59:909][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-20.06.00:582][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.29-20.07.21:684][347]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.29-20.26.31:033][795]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.29-20.38.02:650][635]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.02:720][635]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.02:728][635]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:131][636]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:151][636]LogSlate: Took 0.014097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.29-20.38.03:159][636]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:159][636]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:215][637]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:218][637]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:223][638]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:226][638]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:232][639]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:234][639]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:240][640]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:243][640]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:248][641]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:251][641]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:257][642]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:259][642]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:265][643]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:267][643]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:273][644]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:276][644]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:282][645]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:284][645]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:290][646]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:292][646]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:298][647]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:301][647]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:307][648]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:309][648]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:315][649]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:317][649]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:323][650]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:326][650]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:332][651]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:334][651]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:340][652]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:343][652]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:348][653]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:351][653]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:357][654]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:359][654]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:365][655]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:368][655]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:374][656]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:376][656]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:382][657]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:385][657]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:390][658]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:393][658]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:399][659]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:401][659]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:407][660]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:410][660]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:415][661]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:418][661]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:424][662]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:426][662]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:432][663]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:435][663]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:440][664]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:443][664]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:449][665]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:451][665]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:457][666]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:459][666]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:465][667]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:468][667]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:474][668]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:477][668]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:482][669]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:485][669]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:490][670]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:493][670]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:499][671]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:501][671]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:507][672]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:510][672]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:515][673]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:518][673]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:523][674]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:526][674]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:532][675]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:534][675]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:540][676]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:543][676]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:549][677]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:551][677]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:557][678]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:559][678]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:565][679]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:568][679]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:573][680]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:576][680]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:582][681]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:584][681]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:590][682]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:593][682]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:599][683]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:601][683]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:607][684]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:609][684]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:615][685]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:618][685]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:623][686]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:626][686]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:632][687]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:634][687]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:640][688]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:643][688]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:649][689]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:651][689]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:657][690]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:659][690]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:665][691]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:668][691]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:674][692]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:677][692]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:682][693]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.03:685][693]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.04:022][694]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.04:027][694]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.04:354][695]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.04:360][695]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.04:688][696]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.04:693][696]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:039][697]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:046][697]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:064][698]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:068][698]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:081][699]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:085][699]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:095][700]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:099][700]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:110][701]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:113][701]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:123][702]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:127][702]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:137][703]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:141][703]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:151][704]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:155][704]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:165][705]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:169][705]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:179][706]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:183][706]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:194][707]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:197][707]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:210][708]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:214][708]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:227][709]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:230][709]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:241][710]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:244][710]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:255][711]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:258][711]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:269][712]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:272][712]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:283][713]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:286][713]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:297][714]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:300][714]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:311][715]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:314][715]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:327][716]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:331][716]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:344][717]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:347][717]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:359][718]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:362][718]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:373][719]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:377][719]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:388][720]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:391][720]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:402][721]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:405][721]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:416][722]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:420][722]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:431][723]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:434][723]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:444][724]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:448][724]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:459][725]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:462][725]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:473][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:476][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:487][727]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:491][727]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:502][728]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:505][728]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:516][729]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:520][729]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:531][730]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:534][730]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:545][731]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:548][731]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:559][732]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:563][732]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:574][733]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:577][733]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:588][734]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:591][734]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:602][735]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:605][735]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:617][736]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:620][736]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:630][737]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:634][737]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:644][738]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:648][738]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:658][739]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:662][739]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:674][740]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:678][740]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:691][741]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:695][741]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:708][742]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:712][742]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:724][743]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:728][743]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:739][744]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:743][744]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:754][745]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:758][745]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:769][746]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:773][746]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:785][747]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:788][747]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:799][748]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:803][748]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:814][749]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:818][749]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:831][750]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:834][750]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:846][751]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:850][751]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:861][752]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:864][752]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:875][753]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:879][753]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:890][754]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:893][754]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:904][755]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:908][755]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:918][756]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:922][756]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:932][757]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:935][757]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:946][758]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:949][758]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:960][759]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:963][759]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:974][760]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:977][760]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:988][761]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.05:991][761]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.06:001][762]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.06:005][762]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.06:015][763]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.06:019][763]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.06:029][764]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.06:033][764]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.06:043][765]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.06:046][765]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.06:057][766]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.06:060][766]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.06:071][767]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.06:074][767]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.06:096][768]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.06:099][768]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.06:111][769]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.06:114][769]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.06:125][770]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.06:128][770]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.06:143][771]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.06:147][771]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.06:159][772]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.06:163][772]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.06:176][773]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.06:179][773]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.06:565][816]LogSlate: Window 'OptionsMenu' being destroyed
+[2018.07.29-20.38.36:618][552]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:621][552]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:628][553]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:631][553]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:638][554]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:641][554]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:647][555]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:650][555]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:657][556]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:660][556]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:666][557]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:668][557]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:674][558]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:677][558]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:682][559]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:685][559]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:692][560]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:695][560]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:700][561]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:702][561]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:708][562]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:711][562]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:716][563]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:719][563]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:725][564]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:727][564]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:733][565]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:736][565]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:742][566]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:745][566]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:750][567]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:753][567]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:758][568]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:762][568]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:767][569]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:770][569]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:776][570]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:779][570]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:784][571]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:787][571]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:793][572]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:795][572]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:801][573]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:804][573]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:811][574]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:813][574]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:819][575]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:821][575]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:827][576]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:830][576]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:835][577]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:838][577]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:845][578]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:846][578]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:851][579]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:854][579]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:860][580]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:862][580]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:868][581]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:871][581]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:876][582]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:879][582]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:885][583]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:887][583]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:893][584]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:896][584]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:902][585]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:904][585]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:910][586]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:913][586]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:918][587]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:921][587]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:927][588]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:930][588]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:935][589]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:938][589]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:943][590]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:946][590]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:952][591]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:954][591]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:961][592]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:964][592]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:969][593]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:972][593]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:977][594]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:979][594]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:985][595]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:988][595]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:994][596]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.36:996][596]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:002][597]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:005][597]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:011][598]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:014][598]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:019][599]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:022][599]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:028][600]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:030][600]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:036][601]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:039][601]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:046][602]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:049][602]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:055][603]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:058][603]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:064][604]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:067][604]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:073][605]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:076][605]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:082][606]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:084][606]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:090][607]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:093][607]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:098][608]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:101][608]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:107][609]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:111][609]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:116][610]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:118][610]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:124][611]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:127][611]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:132][612]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:135][612]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:141][613]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.38.37:144][613]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2018.07.29-20.39.03:308][708]LogSlate: Took 0.079417 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.07.29-20.39.14:676][ 43]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022c26abc3d8, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.29-20.39.20:098][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionsMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset" SILENT=true
+[2018.07.29-20.39.20:164][675]LogSavePackage: Save=44.08ms
+[2018.07.29-20.39.20:164][675]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/OptionsMenu1ADB74BB4B45C58FF25EFC81FE701BD2.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset'
+[2018.07.29-20.39.20:180][675]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset
+[2018.07.29-20.39.45:582][646]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022c26abc3d8, Size=4
+[2018.07.29-20.39.45:582][646]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022c27f2edf8, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_6:ExecuteUbergraph_OptionsMenu
+[2018.07.29-20.39.45:583][646]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022c27f2dc80, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.29-20.39.48:374][953]BlueprintLog: New page: Compile OptionsMenu
+[2018.07.29-20.39.48:380][953]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022c27f2dc80, Size=4
+[2018.07.29-20.39.48:380][953]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022c27f2dc80, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_7:ExecuteUbergraph_OptionsMenu
+[2018.07.29-20.39.48:390][953]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022c0d6c2ec0, Size=32
+[2018.07.29-20.39.48:390][953]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022c2684f9e0, Size=32, Default__OptionsMenu_C Function /Engine/Transient.REINST_OptionsMenu_C_8:ExecuteUbergraph_OptionsMenu
+[2018.07.29-20.39.48:392][953]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022c2684e1c0, Size=32, Default__OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.29-20.39.48:418][953]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022c27f2edf8, Size=4
+[2018.07.29-20.39.48:418][953]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022c27f2dc80, Size=4
+[2018.07.29-20.39.49:110][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionsMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset" SILENT=true
+[2018.07.29-20.39.49:145][992]LogSavePackage: Save=28.01ms
+[2018.07.29-20.39.49:145][992]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/OptionsMenu26B3FF5A4F8B1E3F093947B687660712.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset'
+[2018.07.29-20.39.49:148][992]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset
+[2018.07.29-20.40.13:417][673]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022c28d32648, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.29-20.40.34:212][112]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022c28d32648, Size=4
+[2018.07.29-20.40.34:212][112]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022c3707a7d0, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_10:ExecuteUbergraph_OptionsMenu
+[2018.07.29-20.40.34:214][112]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022c3707a3d8, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.29-20.41.05:834][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionsMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset" SILENT=true
+[2018.07.29-20.41.05:870][725]LogSavePackage: Save=28.41ms
+[2018.07.29-20.41.05:870][725]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/OptionsMenu0DD87A964B0458EE13B3468C675A77CB.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset'
+[2018.07.29-20.41.05:872][725]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset
+[2018.07.29-20.41.10:353][253]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022c3707a7d0, Size=4
+[2018.07.29-20.42.47:629][752]LogSlate: Window 'SteamProject - Unreal Editor' being destroyed
+[2018.07.29-20.42.47:850][753]Cmd: QUIT_EDITOR
+[2018.07.29-20.42.47:968][753]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.29-20.42.47:981][753]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.07.29-20.42.47:989][753]LogExit: Preparing to exit.
+[2018.07.29-20.42.48:593][753]LogExit: Editor shut down
+[2018.07.29-20.42.48:602][753]LogExit: Transaction tracking system shut down
+[2018.07.29-20.42.48:608][753]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022c0d758a00, Size=504
+[2018.07.29-20.42.48:608][753]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022c0d6cac50, Size=80
+[2018.07.29-20.42.48:608][753]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022c0d77f830, Size=40
+[2018.07.29-20.42.48:608][753]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022c2684f9e0, Size=32
+[2018.07.29-20.42.48:608][753]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022c0d6c3b00, Size=32
+[2018.07.29-20.42.48:608][753]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022c3707a3d8, Size=4
+[2018.07.29-20.42.48:610][753]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022c347d9828, Size=4
+[2018.07.29-20.42.48:610][753]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022c347d9820, Size=4
+[2018.07.29-20.42.48:611][753]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022c2684e1c0, Size=32
+[2018.07.29-20.42.48:807][753]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.07.29-20.42.48:807][753]LogDirectoryWatcher: A directory notification for 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/' was aborted.
+[2018.07.29-20.42.48:807][753]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.07.29-20.42.48:807][753]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.07.29-20.42.48:807][753]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.07.29-20.42.48:808][753]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.07.29-20.42.48:808][753]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.07.29-20.42.48:808][753]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.07.29-20.42.49:193][753]LogExit: Object subsystem successfully closed.
+[2018.07.29-20.42.49:240][753]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.07.29-20.42.49:262][753]LogD3D11RHI: Shutdown
+[2018.07.29-20.42.49:262][753]LogD3D11RHI: CleanupD3DDevice
+[2018.07.29-20.42.49:264][753]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.07.29-20.42.49:495][753]LogModuleManager: Shutting down and abandoning module SequencerWidgets (578)
+[2018.07.29-20.42.49:496][753]LogModuleManager: Shutting down and abandoning module BlueprintGraph (576)
+[2018.07.29-20.42.49:496][753]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.07.29-20.42.49:496][753]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.07.29-20.42.49:496][753]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.07.29-20.42.49:496][753]LogDirectoryWatcher: A directory notification for 'E:/UE_4.19/FeaturePacks/' was aborted.
+[2018.07.29-20.42.49:500][753]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.07.29-20.42.49:500][753]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.07.29-20.42.49:500][753]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.07.29-20.42.49:500][753]LogDirectoryWatcher: A directory notification for 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Collections/' was aborted.
+[2018.07.29-20.42.49:500][753]LogDirectoryWatcher: A directory notification for 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Developers/maxsa/Collections/' was aborted.
+[2018.07.29-20.42.49:501][753]LogDirectoryWatcher: A directory notification for 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/Collections/' was aborted.
+[2018.07.29-20.42.49:501][753]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.07.29-20.42.49:501][753]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.07.29-20.42.49:501][753]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.07.29-20.42.49:511][753]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.07.29-20.42.49:511][753]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.07.29-20.42.49:511][753]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.07.29-20.42.49:511][753]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.07.29-20.42.49:511][753]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.07.29-20.42.49:511][753]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.07.29-20.42.49:511][753]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.07.29-20.42.49:522][753]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.07.29-20.42.49:522][753]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.07.29-20.42.49:522][753]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.07.29-20.42.49:522][753]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.07.29-20.42.49:522][753]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.07.29-20.42.49:522][753]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.07.29-20.42.49:522][753]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.07.29-20.42.49:522][753]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.07.29-20.42.49:523][753]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.07.29-20.42.49:566][753]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.07.29-20.42.49:567][753]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.07.29-20.42.49:567][753]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.07.29-20.42.49:567][753]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.07.29-20.42.49:567][753]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.07.29-20.42.49:567][753]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.07.29-20.42.49:567][753]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.07.29-20.42.49:567][753]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.07.29-20.42.49:567][753]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.07.29-20.42.49:567][753]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.07.29-20.42.49:567][753]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.07.29-20.42.49:567][753]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.07.29-20.42.49:567][753]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.07.29-20.42.49:567][753]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.07.29-20.42.49:567][753]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.07.29-20.42.49:567][753]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.07.29-20.42.49:567][753]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.07.29-20.42.49:585][753]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.07.29-20.42.49:585][753]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.07.29-20.42.49:586][753]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.07.29-20.42.49:605][753]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.07.29-20.42.49:605][753]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.07.29-20.42.49:605][753]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.07.29-20.42.49:605][753]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.07.29-20.42.49:748][753]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.07.29-20.42.49:748][753]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.07.29-20.42.49:748][753]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.07.29-20.42.49:748][753]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.07.29-20.42.49:748][753]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.07.29-20.42.49:756][753]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.07.29-20.42.49:760][753]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.07.29-20.42.49:760][753]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.07.29-20.42.49:760][753]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.07.29-20.42.49:760][753]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.07.29-20.42.49:760][753]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.07.29-20.42.49:760][753]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.07.29-20.42.49:760][753]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.07.29-20.42.49:760][753]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.07.29-20.42.49:761][753]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.07.29-20.42.49:761][753]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.07.29-20.42.49:771][753]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.07.29-20.42.49:781][753]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.07.29-20.42.49:781][753]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.07.29-20.42.49:790][753]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.07.29-20.42.49:790][753]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.07.29-20.42.49:845][753]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.07.29-20.42.49:845][753]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.07.29-20.42.49:867][753]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.07.29-20.42.49:878][753]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.07.29-20.42.49:878][753]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.07.29-20.42.49:878][753]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.07.29-20.42.49:878][753]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.07.29-20.42.49:887][753]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.07.29-20.42.49:887][753]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.07.29-20.42.49:887][753]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.07.29-20.42.49:891][753]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.07.29-20.42.49:892][753]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.07.29-20.42.49:892][753]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.07.29-20.42.49:892][753]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.07.29-20.42.49:902][753]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.07.29-20.42.49:902][753]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.07.29-20.42.49:914][753]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.07.29-20.42.49:914][753]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.07.29-20.42.49:914][753]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.07.29-20.42.49:914][753]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.07.29-20.42.49:914][753]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.07.29-20.42.49:914][753]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.07.29-20.42.49:914][753]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.07.29-20.42.49:914][753]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.07.29-20.42.49:914][753]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.07.29-20.42.49:914][753]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.07.29-20.42.49:914][753]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.07.29-20.42.49:928][753]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.07.29-20.42.49:928][753]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.07.29-20.42.49:928][753]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.07.29-20.42.49:928][753]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.07.29-20.42.50:141][753]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.07.29-20.42.50:142][753]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.07.29-20.42.50:142][753]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.07.29-20.42.50:142][753]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.07.29-20.42.50:142][753]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.07.29-20.42.50:142][753]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.07.29-20.42.50:142][753]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.07.29-20.42.50:142][753]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.07.29-20.42.50:142][753]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.07.29-20.42.50:142][753]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.07.29-20.42.50:143][753]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.07.29-20.42.50:143][753]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.07.29-20.42.50:143][753]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.07.29-20.42.50:143][753]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.07.29-20.42.50:143][753]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.07.29-20.42.50:143][753]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.07.29-20.42.50:143][753]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.07.29-20.42.50:151][753]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.07.29-20.42.50:151][753]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.07.29-20.42.50:151][753]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.07.29-20.42.50:151][753]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.07.29-20.42.50:151][753]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.07.29-20.42.50:151][753]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.07.29-20.42.50:151][753]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.07.29-20.42.50:151][753]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.07.29-20.42.50:151][753]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.07.29-20.42.50:151][753]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.07.29-20.42.50:151][753]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.07.29-20.42.50:151][753]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.07.29-20.42.50:151][753]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.07.29-20.42.50:151][753]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.07.29-20.42.50:151][753]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.07.29-20.42.50:151][753]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.07.29-20.42.50:151][753]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.07.29-20.42.50:151][753]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.07.29-20.42.50:152][753]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.07.29-20.42.50:152][753]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.07.29-20.42.50:152][753]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.07.29-20.42.50:153][753]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.07.29-20.42.50:153][753]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.07.29-20.42.50:153][753]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.07.29-20.42.50:153][753]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.07.29-20.42.50:153][753]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.07.29-20.42.50:153][753]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.07.29-20.42.50:153][753]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.07.29-20.42.50:153][753]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.07.29-20.42.50:153][753]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.07.29-20.42.50:153][753]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.07.29-20.42.50:153][753]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.07.29-20.42.50:153][753]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.07.29-20.42.50:254][753]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.07.29-20.42.50:357][753]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.07.29-20.42.50:358][753]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.07.29-20.42.50:358][753]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.07.29-20.42.50:358][753]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.07.29-20.42.50:358][753]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.07.29-20.42.50:358][753]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.07.29-20.42.50:363][753]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.07.29-20.42.50:363][753]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.07.29-20.42.50:363][753]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.07.29-20.42.50:364][753]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.07.29-20.42.50:364][753]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.07.29-20.42.50:366][753]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.07.29-20.42.50:366][753]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.07.29-20.42.50:366][753]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.07.29-20.42.50:367][753]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.07.29-20.42.50:873][753]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.07.29-20.42.50:873][753]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.07.29-20.42.50:873][753]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.07.29-20.42.50:877][753]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.07.29-20.42.50:883][753]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.07.29-20.42.50:883][753]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.07.29-20.42.50:883][753]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.07.29-20.42.50:908][753]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.07.29-20.42.50:908][753]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.07.29-20.42.50:908][753]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.07.29-20.42.50:908][753]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.07.29-20.42.50:919][753]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.07.29-20.42.50:919][753]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.07.29-20.42.50:919][753]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.07.29-20.42.50:930][753]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.07.29-20.42.50:930][753]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.07.29-20.42.50:930][753]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.07.29-20.42.50:930][753]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.07.29-20.42.50:930][753]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.07.29-20.42.50:930][753]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.07.29-20.42.50:930][753]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.07.29-20.42.50:930][753]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.07.29-20.42.50:957][753]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.07.29-20.42.50:957][753]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.07.29-20.42.50:959][753]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.07.29-20.42.50:959][753]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.07.29-20.42.50:959][753]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.07.29-20.42.50:959][753]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.07.29-20.42.50:959][753]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.07.29-20.42.50:959][753]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.07.29-20.42.50:959][753]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.07.29-20.42.50:959][753]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.07.29-20.42.50:959][753]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.07.29-20.42.50:968][753]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.07.29-20.42.50:977][753]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.07.29-20.42.50:977][753]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.07.29-20.42.50:977][753]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.07.29-20.42.50:977][753]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.07.29-20.42.50:977][753]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.07.29-20.42.50:977][753]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.07.29-20.42.50:979][753]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.07.29-20.42.51:009][753]LogDerivedDataCache: Shutdown
+[2018.07.29-20.42.51:009][753]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.07.29-20.42.51:009][753]LogXGEController: Cleaning working directory: C:/Users/maxsa/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.07.29-20.42.51:009][753]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.07.29-20.42.51:009][753]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.07.29-20.42.51:010][753]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.07.29-20.42.51:013][753]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.07.29-20.42.51:016][753]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.07.29-20.42.51:016][753]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.07.29-20.42.51:016][753]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.07.29-20.42.51:016][753]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.07.29-20.42.51:016][753]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.07.29-20.42.51:016][753]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.07.29-20.42.51:016][753]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.07.29-20.42.51:016][753]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.07.29-20.42.51:016][753]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.07.29-20.42.51:017][753]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.07.29-20.42.51:023][753]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.07.29-20.42.51:023][753]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.07.29-20.42.51:023][753]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B36A84FA6-4527-ED5F-2A7D-14BA88B0D529%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=9b2d74f540de947067f12f85f0e10fc3%7C121cf0c067fc45bf8a47a34e1f08bd7e%7C6529c761-14eb-4014-bd30-d410aae9a07c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.07.29-20.42.51:044][753]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.07.29-20.42.51:046][753]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.07.29-20.42.51:046][753]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.07.29-20.42.51:058][753]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.07.29-20.42.51:066][753]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.07.29-20.42.51:067][753]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.07.29-20.42.51:067][753]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.07.29-20.42.51:067][753]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.07.29-20.42.51:077][753]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.07.29-20.42.51:085][753]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.07.29-20.42.51:085][753]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.07.29-20.42.51:085][753]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.07.29-20.42.51:085][753]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.07.29-20.42.51:085][753]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.07.29-20.42.51:085][753]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.07.29-20.42.51:085][753]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.07.29-20.42.51:085][753]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.07.29-20.42.51:085][753]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.07.29-20.42.51:085][753]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.07.29-20.42.51:102][753]LogExit: Exiting.
+[2018.07.29-20.42.51:123][753]Log file closed, 07/29/18 16:42:51
