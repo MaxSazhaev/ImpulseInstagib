@@ -425,3 +425,93 @@ LogInit: Object subsystem initialized
 [2018.07.30-15.57.07:299][822]LogSavePackage: Save=79.25ms
 [2018.07.30-15.57.07:299][822]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/OptionsMenu3E0F37E9485C4F0027EB61B676D61193.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset'
 [2018.07.30-15.57.07:320][822]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset
+[2018.07.30-15.57.51:651][919]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002132eed7fd8, Size=4
+[2018.07.30-15.57.51:651][919]LogUObjectGlobals: Created PersistentFrame Addr=0x000002132f168b00, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_7:ExecuteUbergraph_OptionsMenu
+[2018.07.30-15.57.51:653][919]LogUObjectGlobals: Created PersistentFrame Addr=0x000002132f168290, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.30-15.59.20:456][115]BlueprintLog: New page: Compile OptionsMenu
+[2018.07.30-15.59.20:478][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002132f168290, Size=4
+[2018.07.30-15.59.20:478][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000002131d4f43f8, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_8:ExecuteUbergraph_OptionsMenu
+[2018.07.30-15.59.20:491][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021303a172e0, Size=56
+[2018.07.30-15.59.20:492][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000002131d1d62e8, Size=56, Default__OptionsMenu_C Function /Engine/Transient.REINST_OptionsMenu_C_9:ExecuteUbergraph_OptionsMenu
+[2018.07.30-15.59.20:495][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000002131d1d64e0, Size=56, Default__OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.30-15.59.20:514][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002132eed42b0, Size=4
+[2018.07.30-15.59.20:515][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002132f168b00, Size=4
+[2018.07.30-15.59.20:515][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002131d4f43f8, Size=4
+[2018.07.30-15.59.21:097][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionsMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset" SILENT=true
+[2018.07.30-15.59.21:143][173]LogSavePackage: Save=36.58ms
+[2018.07.30-15.59.21:143][173]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/OptionsMenuCE20396249BEEA865362BFA524953B28.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset'
+[2018.07.30-15.59.21:145][173]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset
+[2018.07.30-15.59.50:477][628]LogUObjectGlobals: Created PersistentFrame Addr=0x000002132eda8c20, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.30-15.59.59:115][650]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002132eda8c20, Size=4
+[2018.07.30-15.59.59:116][650]LogUObjectGlobals: Created PersistentFrame Addr=0x000002131ddb4f70, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_11:ExecuteUbergraph_OptionsMenu
+[2018.07.30-15.59.59:118][650]LogUObjectGlobals: Created PersistentFrame Addr=0x000002131ddb5050, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.30-16.00.21:969][181]BlueprintLog: New page: Compile OptionsMenu
+[2018.07.30-16.00.21:993][181]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002131ddb5050, Size=4
+[2018.07.30-16.00.21:993][181]LogUObjectGlobals: Created PersistentFrame Addr=0x000002131d4f55b8, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_12:ExecuteUbergraph_OptionsMenu
+[2018.07.30-16.00.22:008][181]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002131d1d64e0, Size=56
+[2018.07.30-16.00.22:008][181]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021332343ee8, Size=56, OptionsMenu_C_10 Function /Engine/Transient.REINST_OptionsMenu_C_13:ExecuteUbergraph_OptionsMenu
+[2018.07.30-16.00.22:013][181]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021332343fc8, Size=56, Default__OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.30-16.00.22:033][181]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002131d4f55b8, Size=4
+[2018.07.30-16.00.22:033][181]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002131ddb4f70, Size=4
+[2018.07.30-16.00.58:248][933]LogUObjectGlobals: Created PersistentFrame Addr=0x000002132edaa9e8, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.30-16.01.01:326][293]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002132edaa9e8, Size=4
+[2018.07.30-16.01.01:326][293]LogUObjectGlobals: Created PersistentFrame Addr=0x000002131e666968, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_15:ExecuteUbergraph_OptionsMenu
+[2018.07.30-16.01.01:329][293]LogUObjectGlobals: Created PersistentFrame Addr=0x000002131e6668a0, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.30-16.01.02:313][409]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002131e6668a0, Size=4
+[2018.07.30-16.01.02:313][409]LogUObjectGlobals: Created PersistentFrame Addr=0x000002131d4f6ad0, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_16:ExecuteUbergraph_OptionsMenu
+[2018.07.30-16.01.02:316][409]LogUObjectGlobals: Created PersistentFrame Addr=0x000002131d4f6580, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.30-16.01.04:040][612]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002131d4f6580, Size=4
+[2018.07.30-16.01.04:040][612]LogUObjectGlobals: Created PersistentFrame Addr=0x000002131d4f6580, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_17:ExecuteUbergraph_OptionsMenu
+[2018.07.30-16.01.04:044][612]LogUObjectGlobals: Created PersistentFrame Addr=0x000002131d4f4110, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.30-16.01.33:268][ 49]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002131d4f4110, Size=4
+[2018.07.30-16.01.33:268][ 49]LogUObjectGlobals: Created PersistentFrame Addr=0x000002132edabf18, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_18:ExecuteUbergraph_OptionsMenu
+[2018.07.30-16.01.33:270][ 49]LogUObjectGlobals: Created PersistentFrame Addr=0x000002132edab7b0, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.30-16.01.37:479][548]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002132edab7b0, Size=4
+[2018.07.30-16.01.37:479][548]LogUObjectGlobals: Created PersistentFrame Addr=0x000002131ddb7720, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_19:ExecuteUbergraph_OptionsMenu
+[2018.07.30-16.01.37:482][548]LogUObjectGlobals: Created PersistentFrame Addr=0x000002131ddb71d0, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.30-16.01.39:121][734]LogSlate: Took 0.016933 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.07.30-16.02.05:608][869]BlueprintLog: New page: Compile OptionsMenu
+[2018.07.30-16.02.05:619][869]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002131ddb71d0, Size=4
+[2018.07.30-16.02.05:619][869]LogUObjectGlobals: Created PersistentFrame Addr=0x000002131d4f4780, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_20:ExecuteUbergraph_OptionsMenu
+[2018.07.30-16.02.05:632][869]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021332343fc8, Size=56
+[2018.07.30-16.02.05:632][869]LogUObjectGlobals: Created PersistentFrame Addr=0x000002131d4c9c90, Size=56, OptionsMenu_C_20 Function /Engine/Transient.REINST_OptionsMenu_C_21:ExecuteUbergraph_OptionsMenu
+[2018.07.30-16.02.05:636][869]LogUObjectGlobals: Created PersistentFrame Addr=0x000002131d4ca390, Size=56, Default__OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.30-16.02.05:654][869]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002131d4f6580, Size=4
+[2018.07.30-16.02.05:654][869]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002131d4f6ad0, Size=4
+[2018.07.30-16.02.05:654][869]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002131e666968, Size=4
+[2018.07.30-16.02.05:654][869]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002132edabf18, Size=4
+[2018.07.30-16.02.05:654][869]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002131ddb7720, Size=4
+[2018.07.30-16.02.05:654][869]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002131d4f4780, Size=4
+[2018.07.30-16.02.06:253][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionsMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset" SILENT=true
+[2018.07.30-16.02.06:302][934]LogSavePackage: Save=41.33ms
+[2018.07.30-16.02.06:302][934]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/OptionsMenu532A24CE46A0EEBBD47A8C8BE12638BA.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset'
+[2018.07.30-16.02.06:305][934]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset
+[2018.07.30-16.03.03:676][973]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.30-16.03.16:613][510]LogUObjectGlobals: Created PersistentFrame Addr=0x000002131d4f63d8, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.30-16.03.25:950][604]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002131d4f63d8, Size=4
+[2018.07.30-16.03.25:950][604]LogUObjectGlobals: Created PersistentFrame Addr=0x000002131ddb7118, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_23:ExecuteUbergraph_OptionsMenu
+[2018.07.30-16.03.25:953][604]LogUObjectGlobals: Created PersistentFrame Addr=0x000002131ddb76f0, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.30-16.03.44:816][838]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002131ddb76f0, Size=4
+[2018.07.30-16.03.44:816][838]LogUObjectGlobals: Created PersistentFrame Addr=0x000002132eed7858, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_24:ExecuteUbergraph_OptionsMenu
+[2018.07.30-16.03.44:819][838]LogUObjectGlobals: Created PersistentFrame Addr=0x000002132eed49f8, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.30-16.04.57:957][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionsMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset" SILENT=true
+[2018.07.30-16.04.58:018][462]LogSavePackage: Save=47.21ms
+[2018.07.30-16.04.58:019][462]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/OptionsMenuFF81F5154B3ED0382ACD81ACAE7D2A8C.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset'
+[2018.07.30-16.04.58:021][462]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset
+[2018.07.30-16.08.13:699][279]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002132eed49f8, Size=4
+[2018.07.30-16.08.13:699][279]LogUObjectGlobals: Created PersistentFrame Addr=0x000002132d0a91d0, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_25:ExecuteUbergraph_OptionsMenu
+[2018.07.30-16.08.13:703][279]LogUObjectGlobals: Created PersistentFrame Addr=0x000002132d0aa288, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.30-16.08.50:426][985]BlueprintLog: New page: Compile OptionsMenu
+[2018.07.30-16.08.50:442][985]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002132d0aa288, Size=4
+[2018.07.30-16.08.50:442][985]LogUObjectGlobals: Created PersistentFrame Addr=0x000002132eed40a8, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_26:ExecuteUbergraph_OptionsMenu
+[2018.07.30-16.08.50:463][985]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002131d4ca390, Size=56
+[2018.07.30-16.08.50:463][985]LogUObjectGlobals: Created PersistentFrame Addr=0x000002133796a160, Size=56, OptionsMenu_C_28 Function /Engine/Transient.REINST_OptionsMenu_C_27:ExecuteUbergraph_OptionsMenu
+[2018.07.30-16.08.50:484][985]LogUObjectGlobals: Created PersistentFrame Addr=0x000002133796bf90, Size=56, Default__OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.30-16.08.50:504][985]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002132eed40a8, Size=4
+[2018.07.30-16.08.50:504][985]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002132d0a91d0, Size=4
+[2018.07.30-16.08.50:504][985]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002132eed7858, Size=4
+[2018.07.30-16.08.50:504][985]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002131ddb7118, Size=4
+[2018.07.30-16.08.50:931][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionsMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset" SILENT=true
+[2018.07.30-16.08.50:995][ 22]LogSavePackage: Save=54.60ms
+[2018.07.30-16.08.50:995][ 22]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/OptionsMenu0D88BCA94BC0352CCE9A89AAF8A5A203.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset'
+[2018.07.30-16.08.50:998][ 22]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset
