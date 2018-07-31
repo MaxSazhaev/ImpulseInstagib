@@ -516,3 +516,219 @@ LogInit: Object subsystem initialized
 [2018.07.31-13.16.25:600][893]LogSavePackage: Save=66.14ms
 [2018.07.31-13.16.25:600][893]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/OptionsMenu0BDC4C0B47C1D4E096CE4EA869A9DE47.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset'
 [2018.07.31-13.16.25:601][893]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset
+[2018.07.31-13.18.49:393][853]LogSlate: Took 0.105042 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.07.31-13.18.55:745][366]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b53c614120, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.19.10:988][337]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b53c614120, Size=4
+[2018.07.31-13.19.10:989][337]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b53c614120, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_28:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.19.10:993][337]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b55fc446a0, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.19.39:549][306]BlueprintLog: New page: Compile OptionsMenu
+[2018.07.31-13.19.39:577][306]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b55fc446a0, Size=4
+[2018.07.31-13.19.39:577][306]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b53c615de8, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_29:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.19.39:603][306]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b534033d60, Size=104
+[2018.07.31-13.19.39:603][306]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b56afba470, Size=104, OptionsMenu_C_33 Function /Engine/Transient.REINST_OptionsMenu_C_30:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.19.39:611][306]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b56fc65b40, Size=104, Default__OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.19.39:630][306]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b53c614120, Size=4
+[2018.07.31-13.19.39:630][306]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b53c615de8, Size=4
+[2018.07.31-13.19.40:236][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionsMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset" SILENT=true
+[2018.07.31-13.19.40:316][355]LogSavePackage: Save=68.39ms
+[2018.07.31-13.19.40:316][355]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/OptionsMenuAC4C3B934E0AE386507F2DAAC98B273C.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset'
+[2018.07.31-13.19.40:319][355]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset
+[2018.07.31-13.20.34:891][ 11]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b53c617200, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.20.39:765][590]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b53c617200, Size=4
+[2018.07.31-13.20.39:765][590]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b56c5439d8, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_32:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.20.39:770][590]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b56c543ac8, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.20.42:919][957]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b56c543ac8, Size=4
+[2018.07.31-13.20.42:919][957]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b56c543ac8, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_33:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.20.42:924][957]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b56c542be8, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.21.11:679][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionsMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset" SILENT=true
+[2018.07.31-13.21.11:759][827]LogSavePackage: Save=72.20ms
+[2018.07.31-13.21.11:759][827]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/OptionsMenuB529AC4A4761ACB37D6E708F4A1FF4E0.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset'
+[2018.07.31-13.21.11:762][827]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset
+[2018.07.31-13.21.22:180][725]BlueprintLog: New page: Compile OptionsMenu
+[2018.07.31-13.21.22:225][725]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b56c542be8, Size=4
+[2018.07.31-13.21.22:225][725]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b56c542be8, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_34:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.21.22:253][725]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b56fc65b40, Size=104
+[2018.07.31-13.21.22:253][725]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b564dbdb40, Size=104, OptionsMenu_C_40 Function /Engine/Transient.REINST_OptionsMenu_C_35:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.21.22:261][725]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b56f339c20, Size=104, Default__OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.21.22:281][725]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b56c543ac8, Size=4
+[2018.07.31-13.21.22:281][725]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b56c542be8, Size=4
+[2018.07.31-13.21.22:281][725]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b56c5439d8, Size=4
+[2018.07.31-13.21.22:816][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionsMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset" SILENT=true
+[2018.07.31-13.21.22:899][783]LogSavePackage: Save=71.01ms
+[2018.07.31-13.21.22:899][783]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/OptionsMenuC8A0CF7D469CC76E77A4348B464C73BB.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset'
+[2018.07.31-13.21.22:902][783]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset
+[2018.07.31-13.21.25:749][121]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b53c615fb0, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.21.36:544][410]BlueprintLog: New page: Compile OptionsMenu
+[2018.07.31-13.21.36:568][410]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b53c615fb0, Size=4
+[2018.07.31-13.21.36:568][410]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b56c541f58, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_37:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.21.36:594][410]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b56f339c20, Size=104
+[2018.07.31-13.21.36:594][410]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b5657ef900, Size=104, OptionsMenu_C_45 Function /Engine/Transient.REINST_OptionsMenu_C_38:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.21.36:602][410]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b56afbb7b0, Size=104, Default__OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.21.36:621][410]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b56c541f58, Size=4
+[2018.07.31-13.21.37:018][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionsMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset" SILENT=true
+[2018.07.31-13.21.37:097][450]LogSavePackage: Save=71.38ms
+[2018.07.31-13.21.37:097][450]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/OptionsMenuD1A504D1456EA008B485DF86B8F14333.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset'
+[2018.07.31-13.21.37:099][450]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset
+[2018.07.31-13.22.15:648][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionsMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset" SILENT=true
+[2018.07.31-13.22.15:727][ 29]LogSavePackage: Save=70.57ms
+[2018.07.31-13.22.15:727][ 29]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/OptionsMenu8052ED7D4AD7A5AD3761F38A18F03F47.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset'
+[2018.07.31-13.22.15:728][ 29]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset
+[2018.07.31-13.22.51:976][ 35]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b56d387f90, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.23.16:343][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionsMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset" SILENT=true
+[2018.07.31-13.23.16:422][494]LogSavePackage: Save=71.55ms
+[2018.07.31-13.23.16:422][494]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/OptionsMenuA425FCCF4610D2B7F17FAE87BC17750A.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset'
+[2018.07.31-13.23.16:425][494]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset
+[2018.07.31-13.23.46:392][350]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b56d387f90, Size=4
+[2018.07.31-13.23.46:392][350]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b56d387f90, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_40:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.23.46:397][350]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b56d3868d0, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.24.06:276][256]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b56d3868d0, Size=4
+[2018.07.31-13.24.06:276][256]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b56d3868d0, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_41:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.24.06:280][256]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b56d385238, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.24.10:296][340]BlueprintLog: New page: Compile OptionsMenu
+[2018.07.31-13.24.10:345][340]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b56d385238, Size=4
+[2018.07.31-13.24.10:345][340]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b53c615230, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_42:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.24.10:372][340]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b56afbb7b0, Size=104
+[2018.07.31-13.24.10:372][340]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b572c89e50, Size=104, OptionsMenu_C_54 Function /Engine/Transient.REINST_OptionsMenu_C_43:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.24.10:380][340]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b55fdb75f0, Size=104, Default__OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.24.10:402][340]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b53c615230, Size=4
+[2018.07.31-13.24.10:402][340]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b56d3868d0, Size=4
+[2018.07.31-13.24.10:402][340]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b56d387f90, Size=4
+[2018.07.31-13.24.11:019][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionsMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset" SILENT=true
+[2018.07.31-13.24.11:100][399]LogSavePackage: Save=72.67ms
+[2018.07.31-13.24.11:100][399]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/OptionsMenu42F002F045A2D687D0FD368268575902.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset'
+[2018.07.31-13.24.11:102][399]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset
+[2018.07.31-13.24.36:078][103]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b56c540600, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.24.36:106][103]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b56c540600, Size=4
+[2018.07.31-13.24.36:106][103]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b56d387788, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_45:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.24.36:111][103]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b56d386dd8, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.25.45:927][783]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b56d386dd8, Size=4
+[2018.07.31-13.25.45:927][783]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b52e7290e0, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_46:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.25.45:932][783]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b52e72b270, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.25.50:408][309]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b52e72b270, Size=4
+[2018.07.31-13.25.50:408][309]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b52e72b270, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_47:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.25.50:413][309]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b52e72b760, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.25.50:442][309]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b52e72b760, Size=4
+[2018.07.31-13.25.50:442][309]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b56d385908, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_48:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.25.50:446][309]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b56d384690, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.26.19:172][139]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b56d384690, Size=4
+[2018.07.31-13.26.19:172][139]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b53c617ea8, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_49:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.26.19:177][139]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b53c6142d8, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.26.30:697][511]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b53c6142d8, Size=4
+[2018.07.31-13.26.30:697][511]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b53c6142d8, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_50:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.26.30:702][511]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b53c617298, Size=4, Default__SKEL_OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.27.37:129][895]BlueprintLog: New page: Compile OptionsMenu
+[2018.07.31-13.27.37:155][895]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b53c617298, Size=4
+[2018.07.31-13.27.37:156][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b56d384c48, Size=4, Default__SKEL_OptionsMenu_C Function /Engine/Transient.REINST_SKEL_OptionsMenu_C_51:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.27.37:184][895]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b55fdb75f0, Size=104
+[2018.07.31-13.27.37:184][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b570d36710, Size=104, OptionsMenu_C_67 Function /Engine/Transient.REINST_OptionsMenu_C_52:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.27.37:193][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b56fce4b80, Size=104, Default__OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.27.37:214][895]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b56d385908, Size=4
+[2018.07.31-13.27.37:214][895]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b52e72b270, Size=4
+[2018.07.31-13.27.37:214][895]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b52e7290e0, Size=4
+[2018.07.31-13.27.37:214][895]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b56d387788, Size=4
+[2018.07.31-13.27.37:214][895]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b53c617ea8, Size=4
+[2018.07.31-13.27.37:215][895]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b53c6142d8, Size=4
+[2018.07.31-13.27.37:215][895]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b56d384c48, Size=4
+[2018.07.31-13.27.38:007][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionsMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset" SILENT=true
+[2018.07.31-13.27.38:098][983]LogSavePackage: Save=78.17ms
+[2018.07.31-13.27.38:099][983]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/OptionsMenuA085BEF7405BCD251445A8ADD7AE25A0.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset'
+[2018.07.31-13.27.38:101][983]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset
+[2018.07.31-13.27.47:773][582]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.31-13.27.47:809][582]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.31-13.27.47:809][582]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.31-13.27.47:810][582]PIE: New page: PIE session: MainMenu (Jul 31, 2018, 5:27:47 AM)
+[2018.07.31-13.27.47:824][582]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.07.31-13.27.47:854][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029604s)
+[2018.07.31-13.27.47:854][582]LogAIModule: Creating AISystem for world MainMenu
+[2018.07.31-13.27.47:854][582]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2018.07.31-13.27.47:855][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.030481s)
+[2018.07.31-13.27.47:883][582]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.31-13.27.47:896][582]LogInit: FAudioDevice initialized.
+[2018.07.31-13.27.48:112][582]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b5746b9cc0, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.31-13.27.48:133][582]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b5746b9cc0, Size=64
+[2018.07.31-13.27.48:133][582]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b5746b97c0, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.31-13.27.48:152][582]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b57068df30, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.31-13.27.48:328][582]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b570dd8b80, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.31-13.27.48:335][582]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b570dd8b80, Size=296
+[2018.07.31-13.27.48:335][582]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b570dd8b80, Size=296, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_91:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.31-13.27.48:342][582]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b570ddb4c0, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.31-13.27.48:567][582]LogSkeletalMesh: Skeletal Mesh found in DDC [32.593369ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.07.31-13.27.48:687][582]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.31-13.27.48:688][582]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.07.31-09.27.48
+[2018.07.31-13.27.48:698][582]LogWorld: Bringing up level for play took: 0.010640
+[2018.07.31-13.27.48:804][582]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2018.07.31-13.27.48:968][582]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 1.068
+[2018.07.31-13.27.48:969][582]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.31-13.27.49:064][582]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.07.31-13.28.00:896][840]LogSlate: Window 'SteamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.31-13.28.00:899][840]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.31-13.28.00:943][840]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.31-13.28.00:975][840]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b570dd8b80, Size=296
+[2018.07.31-13.28.00:977][840]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b5746b97c0, Size=64
+[2018.07.31-13.28.44:103][149]LogClass: Warning: In asset 'None', there is an enum property of type 'ESlateVisibility' with an invalid value of ''
+[2018.07.31-13.28.46:190][399]BlueprintLog: New page: Compile OptionsMenu
+[2018.07.31-13.28.46:246][399]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b56fce4b80, Size=104
+[2018.07.31-13.28.46:246][399]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b55a95ada0, Size=104, OptionsMenu_C_74 Function /Engine/Transient.REINST_OptionsMenu_C_54:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.28.46:255][399]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b5619453d0, Size=104, Default__OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.31-13.28.46:791][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionsMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset" SILENT=true
+[2018.07.31-13.28.46:880][454]LogSavePackage: Save=81.15ms
+[2018.07.31-13.28.46:880][454]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/OptionsMenu85A1E1894A219089ECCCEF89653125C8.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset'
+[2018.07.31-13.28.46:883][454]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/OptionsMenu.uasset
+[2018.07.31-13.29.44:323][585]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.31-13.29.44:355][585]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.31-13.29.44:356][585]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.31-13.29.44:356][585]PIE: New page: PIE session: MainMenu (Jul 31, 2018, 5:29:44 AM)
+[2018.07.31-13.29.44:370][585]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.07.31-13.29.44:371][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000831s)
+[2018.07.31-13.29.44:371][585]LogAIModule: Creating AISystem for world MainMenu
+[2018.07.31-13.29.44:371][585]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2018.07.31-13.29.44:372][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001592s)
+[2018.07.31-13.29.44:410][585]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.31-13.29.44:422][585]LogInit: FAudioDevice initialized.
+[2018.07.31-13.29.44:482][585]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.31-13.29.44:482][585]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.07.31-09.29.44
+[2018.07.31-13.29.44:483][585]LogWorld: Bringing up level for play took: 0.000436
+[2018.07.31-13.29.44:492][585]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0.593
+[2018.07.31-13.29.44:492][585]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.31-13.30.14:564][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-13.30.14:674][629]LogSlate: Window 'SteamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.31-13.30.14:677][629]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.31-13.30.14:710][629]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.31-13.30.15:611][731]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.31-13.30.15:632][731]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.31-13.30.15:632][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.31-13.30.15:632][731]PIE: New page: PIE session: MainMenu (Jul 31, 2018, 5:30:15 AM)
+[2018.07.31-13.30.15:633][731]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.07.31-13.30.15:634][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000761s)
+[2018.07.31-13.30.15:634][731]LogAIModule: Creating AISystem for world MainMenu
+[2018.07.31-13.30.15:634][731]LogPlayLevel: PIE: World Init took: (0.000567s)
+[2018.07.31-13.30.15:634][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001433s)
+[2018.07.31-13.30.15:663][731]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.31-13.30.15:674][731]LogInit: FAudioDevice initialized.
+[2018.07.31-13.30.15:730][731]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.31-13.30.15:731][731]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.07.31-09.30.15
+[2018.07.31-13.30.15:731][731]LogWorld: Bringing up level for play took: 0.000389
+[2018.07.31-13.30.15:754][731]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu -0.146
+[2018.07.31-13.30.15:754][731]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.31-13.30.58:448][708]LogSlate: Window 'SteamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.31-13.30.58:461][708]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.31-13.30.58:496][708]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.31-13.30.59:772][712]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.31-13.30.59:813][712]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.31-13.30.59:813][712]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.31-13.30.59:813][712]PIE: New page: PIE session: MainMenu (Jul 31, 2018, 5:30:59 AM)
+[2018.07.31-13.30.59:814][712]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.07.31-13.30.59:815][712]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000759s)
+[2018.07.31-13.30.59:815][712]LogAIModule: Creating AISystem for world MainMenu
+[2018.07.31-13.30.59:815][712]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2018.07.31-13.30.59:815][712]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001458s)
+[2018.07.31-13.30.59:843][712]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.31-13.30.59:854][712]LogInit: FAudioDevice initialized.
+[2018.07.31-13.30.59:915][712]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.31-13.30.59:916][712]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.07.31-09.30.59
+[2018.07.31-13.30.59:916][712]LogWorld: Bringing up level for play took: 0.000453
+[2018.07.31-13.30.59:924][712]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0.025
+[2018.07.31-13.30.59:924][712]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.31-13.31.03:998][131]LogSlate: Window 'SteamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.31-13.31.04:002][131]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.31-13.31.04:036][131]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
