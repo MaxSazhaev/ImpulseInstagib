@@ -552,3 +552,84 @@ LogInit: Object subsystem initialized
 [2018.08.03-22.16.07:704][767]LogSavePackage: Save=61.03ms
 [2018.08.03-22.16.07:704][767]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ServerMenuF640DFD04169A7D669040B84BCA8F5BC.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/ServerMenu.uasset'
 [2018.08.03-22.16.07:706][767]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/ServerMenu.uasset
+[2018.08.03-22.18.48:838][406]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290e1043ce8, Size=4, Default__SKEL_ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.SKEL_ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.08.03-22.18.51:495][719]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000290e1043ce8, Size=4
+[2018.08.03-22.18.51:495][719]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290ae4c1c70, Size=4, Default__SKEL_ServerMenu_C Function /Engine/Transient.REINST_SKEL_ServerMenu_C_41:ExecuteUbergraph_ServerMenu
+[2018.08.03-22.18.51:498][719]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290ae4c1fa0, Size=4, Default__SKEL_ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.SKEL_ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.08.03-22.18.55:303][155]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000290ae4c1fa0, Size=4
+[2018.08.03-22.18.55:303][155]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290e1042d20, Size=4, Default__SKEL_ServerMenu_C Function /Engine/Transient.REINST_SKEL_ServerMenu_C_42:ExecuteUbergraph_ServerMenu
+[2018.08.03-22.18.55:306][155]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290e1042818, Size=4, Default__SKEL_ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.SKEL_ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.08.03-22.19.04:331][880]BlueprintLog: New page: Compile ServerMenu
+[2018.08.03-22.19.04:351][880]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000290e1042818, Size=4
+[2018.08.03-22.19.04:351][880]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290e1042818, Size=4, Default__SKEL_ServerMenu_C Function /Engine/Transient.REINST_SKEL_ServerMenu_C_43:ExecuteUbergraph_ServerMenu
+[2018.08.03-22.19.04:373][880]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000290ab75a500, Size=256
+[2018.08.03-22.19.04:373][880]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290afd33900, Size=256, ServerMenu_C_50 Function /Engine/Transient.REINST_ServerMenu_C_44:ExecuteUbergraph_ServerMenu
+[2018.08.03-22.19.04:380][880]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290af2807c0, Size=264, Default__ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.08.03-22.19.04:400][880]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000290e1042d20, Size=4
+[2018.08.03-22.19.04:400][880]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000290e1042818, Size=4
+[2018.08.03-22.19.04:400][880]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000290ae4c1c70, Size=4
+[2018.08.03-22.19.12:359][822]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290e1040740, Size=4, Default__SKEL_ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.SKEL_ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.08.03-22.19.12:359][822]LogClass: Warning: Type mismatch in FoundSessions of SKEL_ServerMenu_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2018.08.03-22.19.16:981][ 18]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000290e1040740, Size=4
+[2018.08.03-22.19.16:981][ 18]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290e1040740, Size=4, Default__SKEL_ServerMenu_C Function /Engine/Transient.REINST_SKEL_ServerMenu_C_46:ExecuteUbergraph_ServerMenu
+[2018.08.03-22.19.16:985][ 18]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290e1042098, Size=4, Default__SKEL_ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.SKEL_ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.08.03-22.20.12:765][610]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000290e1042098, Size=4
+[2018.08.03-22.20.12:765][610]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290a7a27ea0, Size=4, Default__SKEL_ServerMenu_C Function /Engine/Transient.REINST_SKEL_ServerMenu_C_47:ExecuteUbergraph_ServerMenu
+[2018.08.03-22.20.12:769][610]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290a7a24448, Size=4, Default__SKEL_ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.SKEL_ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.08.03-22.20.18:829][327]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000290a7a24448, Size=4
+[2018.08.03-22.20.18:829][327]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290adee26d8, Size=4, Default__SKEL_ServerMenu_C Function /Engine/Transient.REINST_SKEL_ServerMenu_C_48:ExecuteUbergraph_ServerMenu
+[2018.08.03-22.20.18:833][327]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290adee02a8, Size=4, Default__SKEL_ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.SKEL_ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.08.03-22.20.42:976][196]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000290adee02a8, Size=4
+[2018.08.03-22.20.42:976][196]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290adee02a8, Size=4, Default__SKEL_ServerMenu_C Function /Engine/Transient.REINST_SKEL_ServerMenu_C_49:ExecuteUbergraph_ServerMenu
+[2018.08.03-22.20.42:979][196]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290adee0fa8, Size=4, Default__SKEL_ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.SKEL_ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.08.03-22.20.47:085][679]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000290adee0fa8, Size=4
+[2018.08.03-22.20.47:085][679]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290adee0fa8, Size=4, Default__SKEL_ServerMenu_C Function /Engine/Transient.REINST_SKEL_ServerMenu_C_50:ExecuteUbergraph_ServerMenu
+[2018.08.03-22.20.47:088][679]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290adee2028, Size=4, Default__SKEL_ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.SKEL_ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.08.03-22.23.05:694][311]BlueprintLog: New page: Compile ServerMenu
+[2018.08.03-22.23.05:714][311]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000290adee2028, Size=4
+[2018.08.03-22.23.05:714][311]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290adee2028, Size=4, Default__SKEL_ServerMenu_C Function /Engine/Transient.REINST_SKEL_ServerMenu_C_51:ExecuteUbergraph_ServerMenu
+[2018.08.03-22.23.05:735][311]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000290af2807c0, Size=264
+[2018.08.03-22.23.05:735][311]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290ab704cc0, Size=264, ServerMenu_C_60 Function /Engine/Transient.REINST_ServerMenu_C_52:ExecuteUbergraph_ServerMenu
+[2018.08.03-22.23.05:744][311]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290b1930100, Size=376, Default__ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.08.03-22.23.05:746][311]LogClass: Warning: Type mismatch in FoundSessions of ServerMenu_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2018.08.03-22.23.05:765][311]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000290adee2028, Size=4
+[2018.08.03-22.23.05:765][311]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000290adee0fa8, Size=4
+[2018.08.03-22.23.05:765][311]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000290adee02a8, Size=4
+[2018.08.03-22.23.05:765][311]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000290adee26d8, Size=4
+[2018.08.03-22.23.05:765][311]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000290a7a27ea0, Size=4
+[2018.08.03-22.23.05:765][311]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000290e1040740, Size=4
+[2018.08.03-22.23.35:111][776]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.018
+[2018.08.03-22.23.35:133][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu/ServerMenu] ([1] browsable assets)...
+[2018.08.03-22.23.35:133][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/ServerMenu]
+[2018.08.03-22.23.35:133][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/ServerMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/Autosaves/Game/UI/MainMenu/ServerMenu_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.08.03-22.23.35:211][776]LogSavePackage: Save=61.14ms
+[2018.08.03-22.23.35:211][776]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ServerMenu_Auto17F88CD01489CF03457B98197A12213CD.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/Autosaves/Game/UI/MainMenu/ServerMenu_Auto1.uasset'
+[2018.08.03-22.23.35:213][776]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/Autosaves/Game/UI/MainMenu/ServerMenu_Auto1.uasset
+[2018.08.03-22.23.35:213][776]LogFileHelpers: Auto-saving content packages took 0.101
+[2018.08.03-22.23.52:883][827]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290b69708c0, Size=4, Default__SKEL_ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.SKEL_ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.08.03-22.29.50:128][755]BlueprintLog: New page: Compile ServerMenu
+[2018.08.03-22.29.50:150][755]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000290b69708c0, Size=4
+[2018.08.03-22.29.50:150][755]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290e1043248, Size=4, Default__SKEL_ServerMenu_C Function /Engine/Transient.REINST_SKEL_ServerMenu_C_54:ExecuteUbergraph_ServerMenu
+[2018.08.03-22.29.50:216][755]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000290e98d4e00, Size=504
+[2018.08.03-22.29.50:216][755]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290f23ab800, Size=504, Default__GameInfoInstance_C Function /Engine/Transient.REINST_GameInfoInstance_C_90:ExecuteUbergraph_GameInfoInstance
+[2018.08.03-22.29.50:218][755]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000290b1930100, Size=376
+[2018.08.03-22.29.50:218][755]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290833b9480, Size=376, ServerMenu_C_66 Function /Engine/Transient.REINST_ServerMenu_C_55:ExecuteUbergraph_ServerMenu
+[2018.08.03-22.29.50:237][755]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290e4402400, Size=504, Default__GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
+[2018.08.03-22.29.50:241][755]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290f0cbb380, Size=608, Default__ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.08.03-22.29.50:291][755]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000290e1043248, Size=4
+[2018.08.03-22.29.51:207][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/ServerMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/ServerMenu.uasset" SILENT=true
+[2018.08.03-22.29.51:302][852]LogSavePackage: Save=76.71ms
+[2018.08.03-22.29.51:302][852]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ServerMenu8AA9BE1F493D0F1F533BD2A27ABCBD53.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/ServerMenu.uasset'
+[2018.08.03-22.29.51:305][852]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/ServerMenu.uasset
+[2018.08.03-22.31.28:061][808]BlueprintLog: New page: Compile ServerMenu
+[2018.08.03-22.31.28:139][808]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000290e4402400, Size=504
+[2018.08.03-22.31.28:139][808]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290b6caba00, Size=504, GameInfoInstance_C_0 Function /Engine/Transient.REINST_GameInfoInstance_C_96:ExecuteUbergraph_GameInfoInstance
+[2018.08.03-22.31.28:140][808]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000290f0cbb380, Size=608
+[2018.08.03-22.31.28:140][808]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290a87d1300, Size=608, ServerMenu_C_70 Function /Engine/Transient.REINST_ServerMenu_C_57:ExecuteUbergraph_ServerMenu
+[2018.08.03-22.31.28:159][808]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290b71db000, Size=504, Default__GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
+[2018.08.03-22.31.28:163][808]LogUObjectGlobals: Created PersistentFrame Addr=0x00000290b1915300, Size=608, Default__ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.08.03-22.31.28:186][808]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000290f23ab800, Size=504
+[2018.08.03-22.31.29:542][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/ServerMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/ServerMenu.uasset" SILENT=true
+[2018.08.03-22.31.29:622][947]LogSavePackage: Save=70.60ms
+[2018.08.03-22.31.29:622][947]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ServerMenuA8428AFB4AD394FA0F3DE4A629647602.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/ServerMenu.uasset'
+[2018.08.03-22.31.29:625][947]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/ServerMenu.uasset
