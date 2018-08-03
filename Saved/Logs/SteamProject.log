@@ -508,3 +508,53 @@ LogInit: Object subsystem initialized
 [2018.08.03-00.27.18:258][819]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/MainMenuAE89DF81489F6AEE25478FB1CE93D0A0.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap'
 [2018.08.03-00.27.18:262][819]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Maps/MainMenu.umap
 [2018.08.03-00.27.18:939][890]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001defaa952e0, Size=32
+[2018.08.03-00.28.15:441][882]LogSlate: Took 0.106753 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.08.03-00.28.25:276][ 52]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dee8d34950, Size=4, Default__SKEL_ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.SKEL_ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.08.03-00.28.28:442][425]BlueprintLog: New page: Compile ServerMenu
+[2018.08.03-00.28.28:444][425]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dee8d34950, Size=4
+[2018.08.03-00.28.28:444][425]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dee8d34950, Size=4, Default__SKEL_ServerMenu_C Function /Engine/Transient.REINST_SKEL_ServerMenu_C_21:ExecuteUbergraph_ServerMenu
+[2018.08.03-00.28.28:450][425]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ded3e299c0, Size=32
+[2018.08.03-00.28.28:450][425]LogUObjectGlobals: Created PersistentFrame Addr=0x000001defcf9d960, Size=32, Default__ServerMenu_C Function /Engine/Transient.REINST_ServerMenu_C_22:ExecuteUbergraph_ServerMenu
+[2018.08.03-00.28.28:452][425]LogUObjectGlobals: Created PersistentFrame Addr=0x000001defcf9df60, Size=32, Default__ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.08.03-00.28.28:471][425]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dee8d34950, Size=4
+[2018.08.03-00.28.28:994][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/ServerMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/ServerMenu.uasset" SILENT=true
+[2018.08.03-00.28.29:026][477]LogSavePackage: Save=20.66ms
+[2018.08.03-00.28.29:026][477]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ServerMenu34F2BAEA4136BB09B8F6FF83BA346BDB.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/ServerMenu.uasset'
+[2018.08.03-00.28.29:028][477]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/ServerMenu.uasset
+[2018.08.03-00.28.36:330][344]LogUObjectGlobals: Created PersistentFrame Addr=0x000001debc292e68, Size=4, Default__SKEL_ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.SKEL_ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.08.03-00.28.41:881][  6]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001debc292e68, Size=4
+[2018.08.03-00.28.41:881][  6]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dee8d351f8, Size=4, Default__SKEL_ServerMenu_C Function /Engine/Transient.REINST_SKEL_ServerMenu_C_24:ExecuteUbergraph_ServerMenu
+[2018.08.03-00.28.41:883][  6]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dee8d35a20, Size=4, Default__SKEL_ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.SKEL_ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.08.03-00.29.27:530][402]LogEditorTransaction: Undo Paste clipboard contents
+[2018.08.03-00.29.27:531][402]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dee8d35a20, Size=4
+[2018.08.03-00.29.27:531][402]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dec1557ec0, Size=4, Default__SKEL_ServerMenu_C Function /Engine/Transient.REINST_SKEL_ServerMenu_C_25:ExecuteUbergraph_ServerMenu
+[2018.08.03-00.29.27:532][402]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dec1557160, Size=4, Default__SKEL_ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.SKEL_ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.08.03-00.29.28:432][505]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/UI/MainMenu/ServerMenu.ServerMenu:EventGraph.K2Node_IfThenElse_0 or K2Node_IfThenElse /Game/UI/MainMenu/ServerMenu.ServerMenu:EventGraph.K2Node_IfThenElse_0
+[2018.08.03-00.29.28:432][505]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/UI/MainMenu/ServerMenu.ServerMenu:EventGraph.K2Node_VariableGet_30 or K2Node_VariableGet /Game/UI/MainMenu/ServerMenu.ServerMenu:EventGraph.K2Node_VariableGet_30
+[2018.08.03-00.29.28:432][505]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/UI/MainMenu/ServerMenu.ServerMenu:EventGraph.K2Node_VariableSet_29 or K2Node_VariableSet /Game/UI/MainMenu/ServerMenu.ServerMenu:EventGraph.K2Node_VariableSet_29
+[2018.08.03-00.29.28:432][505]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/UI/MainMenu/ServerMenu.ServerMenu:EventGraph.K2Node_VariableSet_9 or K2Node_VariableSet /Game/UI/MainMenu/ServerMenu.ServerMenu:EventGraph.K2Node_VariableSet_9
+[2018.08.03-00.30.37:298][478]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dec1557160, Size=4
+[2018.08.03-00.30.37:298][478]LogUObjectGlobals: Created PersistentFrame Addr=0x000001deee4a50d0, Size=4, Default__SKEL_ServerMenu_C Function /Engine/Transient.REINST_SKEL_ServerMenu_C_26:ExecuteUbergraph_ServerMenu
+[2018.08.03-00.30.37:300][478]LogUObjectGlobals: Created PersistentFrame Addr=0x000001deee4a7020, Size=4, Default__SKEL_ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.SKEL_ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.08.03-00.30.44:614][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/ServerMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/ServerMenu.uasset" SILENT=true
+[2018.08.03-00.30.44:648][348]LogSavePackage: Save=25.48ms
+[2018.08.03-00.30.44:648][348]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ServerMenu4BE0646C4E09921CC357D496F2622F92.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/ServerMenu.uasset'
+[2018.08.03-00.30.44:651][348]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/ServerMenu.uasset
+[2018.08.03-00.30.46:404][558]BlueprintLog: New page: Compile ServerMenu
+[2018.08.03-00.30.46:409][558]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001deee4a7020, Size=4
+[2018.08.03-00.30.46:409][558]LogUObjectGlobals: Created PersistentFrame Addr=0x000001defaf9eba8, Size=4, Default__SKEL_ServerMenu_C Function /Engine/Transient.REINST_SKEL_ServerMenu_C_27:ExecuteUbergraph_ServerMenu
+[2018.08.03-00.30.46:418][558]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001defcf9df60, Size=32
+[2018.08.03-00.30.46:418][558]LogUObjectGlobals: Created PersistentFrame Addr=0x000001defc5c9480, Size=32, ServerMenu_C_29 Function /Engine/Transient.REINST_ServerMenu_C_28:ExecuteUbergraph_ServerMenu
+[2018.08.03-00.30.46:420][558]LogUObjectGlobals: Created PersistentFrame Addr=0x000001defc5c9a20, Size=32, Default__ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.08.03-00.30.46:440][558]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dec1557ec0, Size=4
+[2018.08.03-00.30.46:440][558]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dee8d351f8, Size=4
+[2018.08.03-00.30.46:440][558]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001defaf9eba8, Size=4
+[2018.08.03-00.30.46:440][558]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001deee4a50d0, Size=4
+[2018.08.03-00.30.46:820][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/ServerMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/ServerMenu.uasset" SILENT=true
+[2018.08.03-00.30.46:855][597]LogSavePackage: Save=26.80ms
+[2018.08.03-00.30.46:856][597]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ServerMenuC2EB02464B141ACC9E32A4903930344A.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/ServerMenu.uasset'
+[2018.08.03-00.30.46:857][597]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/ServerMenu.uasset
+[2018.08.03-00.30.47:333][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/ServerMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/ServerMenu.uasset" SILENT=true
+[2018.08.03-00.30.47:367][650]LogSavePackage: Save=25.40ms
+[2018.08.03-00.30.47:367][650]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/ServerMenu3F41661145012307F21DBABE48D5CB5A.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/ServerMenu.uasset'
+[2018.08.03-00.30.47:368][650]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/MainMenu/ServerMenu.uasset
