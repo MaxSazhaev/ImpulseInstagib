@@ -2003,3 +2003,466 @@ LogInit: Object subsystem initialized
 [2018.08.12-02.02.34:003][258]LogSavePackage: Save=25.71ms
 [2018.08.12-02.02.34:003][258]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/LobbyMenu58B293884AA27299F971F5B3566A411B.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/LobbyMenu.uasset'
 [2018.08.12-02.02.34:006][258]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/LobbyMenu.uasset
+[2018.08.12-02.04.43:430][929]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b8442d5b30, Size=4, Default__SKEL_LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.SKEL_LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.04.58:656][267]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b8442d5b30, Size=4
+[2018.08.12-02.04.58:656][267]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b844371c38, Size=4, Default__SKEL_LobbyMenu_C Function /Engine/Transient.REINST_SKEL_LobbyMenu_C_25:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.04.58:657][267]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b844371cb8, Size=4, Default__SKEL_LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.SKEL_LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.05.09:478][545]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b844371cb8, Size=4
+[2018.08.12-02.05.09:479][545]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b8497dc648, Size=4, Default__SKEL_LobbyMenu_C Function /Engine/Transient.REINST_SKEL_LobbyMenu_C_26:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.05.09:480][545]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b8497dd268, Size=4, Default__SKEL_LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.SKEL_LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.05.14:328][112]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.HorizontalBox_1 or HorizontalBox /Game/UI/MainMenu/OptionsMenu.OptionsMenu:WidgetTree.HorizontalBox_1
+[2018.08.12-02.05.14:328][112]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.HorizontalBox_1 or HorizontalBox /Game/UI/MainMenu/HostMenu.SKEL_HostMenu_C:WidgetTree.HorizontalBox_1
+[2018.08.12-02.05.14:328][112]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.HorizontalBox_1 or HorizontalBox /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:WidgetTree.HorizontalBox_1
+[2018.08.12-02.05.14:329][112]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.HorizontalBox_1 or HorizontalBox /Game/UI/MainMenu/HostMenu.HostMenu_C:WidgetTree.HorizontalBox_1
+[2018.08.12-02.05.14:329][112]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.HorizontalBox_1 or HorizontalBox /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:WidgetTree.HorizontalBox_1
+[2018.08.12-02.05.14:329][112]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.HorizontalBox_1 or HorizontalBox /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.HorizontalBox_1
+[2018.08.12-02.05.14:329][112]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.HorizontalBox_1 or HorizontalBox /Engine/Transient.World_2:LobbyMenu_C_23.WidgetTree_25.HorizontalBox_1
+[2018.08.12-02.05.14:329][112]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.HorizontalBox_1 or HorizontalBox /Engine/Transient.World_2:LobbyMenu_C_24.WidgetTree_26.HorizontalBox_1
+[2018.08.12-02.05.14:329][112]LogProperty: Warning: Illegal TEXT reference to a private object in external package (HorizontalBoxSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.HorizontalBox_1.HorizontalBoxSlot_2) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_0).  Import failed...
+[2018.08.12-02.05.14:329][112]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'HorizontalBoxSlot'"HorizontalBox_1.HorizontalBoxSlot_2"''
+[2018.08.12-02.05.14:330][112]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b8497dd268, Size=4
+[2018.08.12-02.05.14:330][112]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b8442d6460, Size=4, Default__SKEL_LobbyMenu_C Function /Engine/Transient.REINST_SKEL_LobbyMenu_C_27:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.05.14:332][112]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b8442d7d88, Size=4, Default__SKEL_LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.SKEL_LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.05.41:369][316]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.VerticalBox_0 or VerticalBox /Game/UI/MainMenu/OptionsMenu.OptionsMenu:WidgetTree.VerticalBox_0
+[2018.08.12-02.05.41:369][316]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.VerticalBox_0 or VerticalBox /Game/UI/MainMenu/ServerMenu.ServerMenu:WidgetTree.VerticalBox_0
+[2018.08.12-02.05.41:369][316]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.VerticalBox_0 or VerticalBox /Game/UI/MainMenu/HostMenu.SKEL_HostMenu_C:WidgetTree.VerticalBox_0
+[2018.08.12-02.05.41:369][316]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.VerticalBox_0 or VerticalBox /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:WidgetTree.VerticalBox_0
+[2018.08.12-02.05.41:369][316]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.VerticalBox_0 or VerticalBox /Game/UI/MainMenu/ServerMenu.SKEL_ServerMenu_C:WidgetTree.VerticalBox_0
+[2018.08.12-02.05.41:369][316]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.VerticalBox_0 or VerticalBox /Game/UI/MainMenu/HostMenu.HostMenu_C:WidgetTree.VerticalBox_0
+[2018.08.12-02.05.41:369][316]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.VerticalBox_0 or VerticalBox /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:WidgetTree.VerticalBox_0
+[2018.08.12-02.05.41:369][316]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.VerticalBox_0 or VerticalBox /Game/UI/MainMenu/ServerMenu.ServerMenu_C:WidgetTree.VerticalBox_0
+[2018.08.12-02.05.41:369][316]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_2:LobbyMenu_C_22.WidgetTree_24.VerticalBox_0
+[2018.08.12-02.05.41:369][316]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.VerticalBox_0 or VerticalBox /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.VerticalBox_0
+[2018.08.12-02.05.41:369][316]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_2:LobbyMenu_C_23.WidgetTree_25.VerticalBox_0
+[2018.08.12-02.05.41:369][316]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_2:LobbyMenu_C_24.WidgetTree_26.VerticalBox_0
+[2018.08.12-02.05.41:369][316]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_2:LobbyMenu_C_25.WidgetTree_27.VerticalBox_0
+[2018.08.12-02.05.41:369][316]LogUObjectHash: Warning: Ambiguous search, could be VerticalBoxSlot /Engine/Transient.World_2:LobbyMenu_C_23.WidgetTree_25.VerticalBox_0.VerticalBoxSlot_2 or VerticalBoxSlot /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.VerticalBox_0.VerticalBoxSlot_2
+[2018.08.12-02.05.41:369][316]LogUObjectHash: Warning: Ambiguous search, could be VerticalBoxSlot /Engine/Transient.World_2:LobbyMenu_C_23.WidgetTree_25.VerticalBox_0.VerticalBoxSlot_2 or VerticalBoxSlot /Engine/Transient.World_2:LobbyMenu_C_24.WidgetTree_26.VerticalBox_0.VerticalBoxSlot_2
+[2018.08.12-02.05.41:369][316]LogUObjectHash: Warning: Ambiguous search, could be VerticalBoxSlot /Engine/Transient.World_2:LobbyMenu_C_23.WidgetTree_25.VerticalBox_0.VerticalBoxSlot_2 or VerticalBoxSlot /Engine/Transient.World_2:LobbyMenu_C_25.WidgetTree_27.VerticalBox_0.VerticalBoxSlot_2
+[2018.08.12-02.05.41:369][316]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Engine/Transient.World_2:LobbyMenu_C_23.WidgetTree_25.VerticalBox_0.VerticalBoxSlot_2) from referencer (HorizontalBox /Engine/UMG/Editor/Transient.HorizontalBox_1).  Import failed...
+[2018.08.12-02.05.41:369][316]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_0.VerticalBoxSlot_2"''
+[2018.08.12-02.05.41:370][316]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b8442d7d88, Size=4
+[2018.08.12-02.05.41:370][316]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b82ec4c1e0, Size=4, Default__SKEL_LobbyMenu_C Function /Engine/Transient.REINST_SKEL_LobbyMenu_C_28:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.05.41:372][316]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b82ec4d208, Size=4, Default__SKEL_LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.SKEL_LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.06.50:857][573]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b82ec4d208, Size=4
+[2018.08.12-02.06.50:857][573]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b8497de890, Size=4, Default__SKEL_LobbyMenu_C Function /Engine/Transient.REINST_SKEL_LobbyMenu_C_29:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.06.50:858][573]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b8497df360, Size=4, Default__SKEL_LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.SKEL_LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.07.52:792][738]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b8497de890, Size=4
+[2018.08.12-02.07.52:793][738]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b82ec4c1e0, Size=4
+[2018.08.12-02.07.52:793][738]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b8442d6460, Size=4
+[2018.08.12-02.07.52:793][738]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b8497dc648, Size=4
+[2018.08.12-02.07.52:793][738]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b844371c38, Size=4
+[2018.08.12-02.07.52:794][738]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.031
+[2018.08.12-02.07.52:805][738]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Lobby/LobbyMenu] ([1] browsable assets)...
+[2018.08.12-02.07.52:805][738]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Lobby/LobbyMenu]
+[2018.08.12-02.07.52:805][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.08.12-02.07.52:859][738]LogSavePackage: Save=25.51ms
+[2018.08.12-02.07.52:859][738]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/LobbyMenu_Auto137A1AEFA466AB74595E28E97B000F787.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto1.uasset'
+[2018.08.12-02.07.52:860][738]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto1.uasset
+[2018.08.12-02.07.52:861][738]LogFileHelpers: Auto-saving content packages took 0.065
+[2018.08.12-02.08.00:510][ 43]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_2:LobbyMenu_C_12.WidgetTree_14.GridPanel_0
+[2018.08.12-02.08.00:510][ 43]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_2:LobbyMenu_C_13.WidgetTree_15.GridPanel_0
+[2018.08.12-02.08.00:510][ 43]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_2:LobbyMenu_C_14.WidgetTree_16.GridPanel_0
+[2018.08.12-02.08.00:510][ 43]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_2:LobbyMenu_C_15.WidgetTree_17.GridPanel_0
+[2018.08.12-02.08.00:510][ 43]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_2:LobbyMenu_C_16.WidgetTree_18.GridPanel_0
+[2018.08.12-02.08.00:510][ 43]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_2:LobbyMenu_C_17.WidgetTree_19.GridPanel_0
+[2018.08.12-02.08.00:511][ 43]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu_C:WidgetTree.GridPanel_0
+[2018.08.12-02.08.00:511][ 43]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_2:LobbyMenu_C_22.WidgetTree_24.GridPanel_0
+[2018.08.12-02.08.00:511][ 43]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_2:LobbyMenu_C_23.WidgetTree_25.GridPanel_0
+[2018.08.12-02.08.00:511][ 43]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_2:LobbyMenu_C_24.WidgetTree_26.GridPanel_0
+[2018.08.12-02.08.00:511][ 43]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_2:LobbyMenu_C_25.WidgetTree_27.GridPanel_0
+[2018.08.12-02.08.00:511][ 43]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_2:LobbyMenu_C_26.WidgetTree_28.GridPanel_0
+[2018.08.12-02.08.00:511][ 43]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_2:LobbyMenu_C_27.WidgetTree_29.GridPanel_0
+[2018.08.12-02.08.00:511][ 43]LogProperty: Warning: Illegal TEXT reference to a private object in external package (GridSlot /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0.GridSlot_0) from referencer (Border /Engine/UMG/Editor/Transient.LobbySettings).  Import failed...
+[2018.08.12-02.08.00:511][ 43]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'GridSlot'"GridPanel_0.GridSlot_0"''
+[2018.08.12-02.08.00:515][ 43]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b8497df360, Size=4
+[2018.08.12-02.08.00:515][ 43]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b8443704c8, Size=4, Default__SKEL_LobbyMenu_C Function /Engine/Transient.REINST_SKEL_LobbyMenu_C_30:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.08.00:516][ 43]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b8443720a0, Size=4, Default__SKEL_LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.SKEL_LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.08.14:934][208]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b8443720a0, Size=4
+[2018.08.12-02.08.14:934][208]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b8497dcbc0, Size=4, Default__SKEL_LobbyMenu_C Function /Engine/Transient.REINST_SKEL_LobbyMenu_C_31:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.08.14:936][208]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b8497dcf58, Size=4, Default__SKEL_LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.SKEL_LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.09.11:208][896]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b8497dcf58, Size=4
+[2018.08.12-02.09.11:208][896]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b811695c98, Size=4, Default__SKEL_LobbyMenu_C Function /Engine/Transient.REINST_SKEL_LobbyMenu_C_32:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.09.11:209][896]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b8116956f8, Size=4, Default__SKEL_LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.SKEL_LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.09.17:855][689]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b8116956f8, Size=4
+[2018.08.12-02.09.17:855][689]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b84ece2e60, Size=4, Default__SKEL_LobbyMenu_C Function /Engine/Transient.REINST_SKEL_LobbyMenu_C_33:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.09.17:856][689]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b84ece2210, Size=4, Default__SKEL_LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.SKEL_LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.09.45:636][  3]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b84ece2210, Size=4
+[2018.08.12-02.09.45:636][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b84ece2210, Size=4, Default__SKEL_LobbyMenu_C Function /Engine/Transient.REINST_SKEL_LobbyMenu_C_34:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.09.45:638][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b84ece0d48, Size=4, Default__SKEL_LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.SKEL_LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.09.57:515][412]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.HorizontalBox_6 or HorizontalBox /Engine/Transient.World_2:LobbyMenu_C_32.WidgetTree_34.HorizontalBox_6
+[2018.08.12-02.09.57:515][412]LogProperty: Warning: Illegal TEXT reference to a private object in external package (HorizontalBoxSlot /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.HorizontalBox_6.HorizontalBoxSlot_4) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_5).  Import failed...
+[2018.08.12-02.09.57:515][412]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'HorizontalBoxSlot'"HorizontalBox_6.HorizontalBoxSlot_4"''
+[2018.08.12-02.09.57:517][412]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b84ece0d48, Size=4
+[2018.08.12-02.09.57:517][412]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b84ece0d48, Size=4, Default__SKEL_LobbyMenu_C Function /Engine/Transient.REINST_SKEL_LobbyMenu_C_35:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.09.57:518][412]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b84ece2498, Size=4, Default__SKEL_LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.SKEL_LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.10.53:303][542]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b84ece2498, Size=4
+[2018.08.12-02.10.53:303][542]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b84ece2498, Size=4, Default__SKEL_LobbyMenu_C Function /Engine/Transient.REINST_SKEL_LobbyMenu_C_36:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.10.53:304][542]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b84ece21c0, Size=4, Default__SKEL_LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.SKEL_LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.11.58:188][847]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b84ece21c0, Size=4
+[2018.08.12-02.11.58:188][847]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b8442d76d8, Size=4, Default__SKEL_LobbyMenu_C Function /Engine/Transient.REINST_SKEL_LobbyMenu_C_37:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.11.58:189][847]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b8442d7428, Size=4, Default__SKEL_LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.SKEL_LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.12.07:719][704]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b8442d7428, Size=4
+[2018.08.12-02.12.07:719][704]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b84ece2d90, Size=4, Default__SKEL_LobbyMenu_C Function /Engine/Transient.REINST_SKEL_LobbyMenu_C_38:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.12.07:720][704]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b84ece0eb0, Size=4, Default__SKEL_LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.SKEL_LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.12.15:135][587]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b84ece0eb0, Size=4
+[2018.08.12-02.12.15:135][587]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b844370fe0, Size=4, Default__SKEL_LobbyMenu_C Function /Engine/Transient.REINST_SKEL_LobbyMenu_C_39:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.12.15:136][587]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b844370950, Size=4, Default__SKEL_LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.SKEL_LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.12.51:334][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.08.12-02.12.51:365][458]LogSavePackage: Save=21.07ms
+[2018.08.12-02.12.51:365][458]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/LobbyMenu67F1D09B4C572F4DBF20E892286DA54A.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.08.12-02.12.51:367][458]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/LobbyMenu.uasset
+[2018.08.12-02.12.55:630][969]BlueprintLog: New page: Compile LobbyMenu
+[2018.08.12-02.12.55:631][969]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b844370950, Size=4
+[2018.08.12-02.12.55:631][969]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b84ece0d58, Size=4, Default__SKEL_LobbyMenu_C Function /Engine/Transient.REINST_SKEL_LobbyMenu_C_40:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.12.55:636][969]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b84fc5cbd0, Size=80
+[2018.08.12-02.12.55:636][969]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b8447fdd50, Size=80, Default__LobbyMenu_C Function /Engine/Transient.REINST_LobbyMenu_C_41:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.12.55:638][969]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b84ecc5a80, Size=80, Default__LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.08.12-02.12.55:657][969]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b84ece2210, Size=4
+[2018.08.12-02.12.55:657][969]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b84ece0d58, Size=4
+[2018.08.12-02.12.55:657][969]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b844370fe0, Size=4
+[2018.08.12-02.12.55:657][969]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b84ece2d90, Size=4
+[2018.08.12-02.12.55:657][969]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b8442d76d8, Size=4
+[2018.08.12-02.12.55:657][969]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b84ece2498, Size=4
+[2018.08.12-02.12.55:657][969]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b84ece0d48, Size=4
+[2018.08.12-02.12.55:657][969]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b8443704c8, Size=4
+[2018.08.12-02.12.55:657][969]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b84ece2e60, Size=4
+[2018.08.12-02.12.55:657][969]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b811695c98, Size=4
+[2018.08.12-02.12.55:657][969]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b8497dcbc0, Size=4
+[2018.08.12-02.12.56:305][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.08.12-02.12.56:342][ 42]LogSavePackage: Save=21.54ms
+[2018.08.12-02.12.56:342][ 42]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/LobbyMenuA2A649D6454D14FF051DFBBF9EDA95EC.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.08.12-02.12.56:343][ 42]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/LobbyMenu.uasset
+[2018.08.12-02.13.11:337][820]LogSlate: Window 'SteamProject - Unreal Editor' being destroyed
+[2018.08.12-02.13.11:556][821]Cmd: QUIT_EDITOR
+[2018.08.12-02.13.11:663][821]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.12-02.13.11:673][821]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.08.12-02.13.11:683][821]LogExit: Preparing to exit.
+[2018.08.12-02.13.13:009][821]LogExit: Editor shut down
+[2018.08.12-02.13.13:016][821]LogExit: Transaction tracking system shut down
+[2018.08.12-02.13.13:017][821]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b83e3d1a80, Size=296
+[2018.08.12-02.13.13:017][821]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b83e3c8d60, Size=72
+[2018.08.12-02.13.13:017][821]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b82625f200, Size=504
+[2018.08.12-02.13.13:017][821]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b826215bc0, Size=80
+[2018.08.12-02.13.13:017][821]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b825b7e548, Size=40
+[2018.08.12-02.13.13:018][821]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b8261b13d0, Size=104
+[2018.08.12-02.13.13:018][821]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b8261ea700, Size=608
+[2018.08.12-02.13.13:019][821]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b8261f58a0, Size=32
+[2018.08.12-02.13.13:019][821]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b83c923c00, Size=32
+[2018.08.12-02.13.13:019][821]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b80e7ec950, Size=80
+[2018.08.12-02.13.13:019][821]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b83c914680, Size=616
+[2018.08.12-02.13.13:021][821]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b8461b61d8, Size=4
+[2018.08.12-02.13.13:021][821]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b8461b61d0, Size=4
+[2018.08.12-02.13.13:025][821]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b84ecc5a80, Size=80
+[2018.08.12-02.13.13:025][821]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b8447fdd50, Size=80
+[2018.08.12-02.13.13:132][821]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.08.12-02.13.13:132][821]LogDirectoryWatcher: A directory notification for 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/' was aborted.
+[2018.08.12-02.13.13:132][821]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.08.12-02.13.13:132][821]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.08.12-02.13.13:132][821]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.08.12-02.13.13:133][821]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.08.12-02.13.13:133][821]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.08.12-02.13.13:133][821]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.08.12-02.13.13:547][821]LogExit: Object subsystem successfully closed.
+[2018.08.12-02.13.13:616][821]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.08.12-02.13.13:619][821]LogD3D11RHI: Shutdown
+[2018.08.12-02.13.13:619][821]LogD3D11RHI: CleanupD3DDevice
+[2018.08.12-02.13.13:620][821]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.08.12-02.13.13:823][821]LogModuleManager: Shutting down and abandoning module SequencerWidgets (580)
+[2018.08.12-02.13.13:823][821]LogModuleManager: Shutting down and abandoning module BlueprintGraph (578)
+[2018.08.12-02.13.13:823][821]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (576)
+[2018.08.12-02.13.13:823][821]LogModuleManager: Shutting down and abandoning module SceneOutliner (574)
+[2018.08.12-02.13.13:823][821]LogModuleManager: Shutting down and abandoning module AddContentDialog (572)
+[2018.08.12-02.13.13:841][821]LogDirectoryWatcher: A directory notification for 'E:/UE_4.19/FeaturePacks/' was aborted.
+[2018.08.12-02.13.13:843][821]LogModuleManager: Shutting down and abandoning module WidgetCarousel (571)
+[2018.08.12-02.13.13:843][821]LogModuleManager: Shutting down and abandoning module EditorWidgets (568)
+[2018.08.12-02.13.13:843][821]LogModuleManager: Shutting down and abandoning module CollectionManager (566)
+[2018.08.12-02.13.13:843][821]LogDirectoryWatcher: A directory notification for 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Collections/' was aborted.
+[2018.08.12-02.13.13:843][821]LogDirectoryWatcher: A directory notification for 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/Developers/maxsa/Collections/' was aborted.
+[2018.08.12-02.13.13:843][821]LogDirectoryWatcher: A directory notification for 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/Collections/' was aborted.
+[2018.08.12-02.13.13:843][821]LogModuleManager: Shutting down and abandoning module StatsViewer (564)
+[2018.08.12-02.13.13:843][821]LogModuleManager: Shutting down and abandoning module FoliageEdit (562)
+[2018.08.12-02.13.13:843][821]LogModuleManager: Shutting down and abandoning module LandscapeEditor (560)
+[2018.08.12-02.13.13:846][821]LogModuleManager: Shutting down and abandoning module MeshPaintMode (558)
+[2018.08.12-02.13.13:846][821]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (556)
+[2018.08.12-02.13.13:846][821]LogModuleManager: Shutting down and abandoning module ActorPickerMode (554)
+[2018.08.12-02.13.13:846][821]LogModuleManager: Shutting down and abandoning module GeometryMode (552)
+[2018.08.12-02.13.13:846][821]LogModuleManager: Shutting down and abandoning module TextureAlignMode (550)
+[2018.08.12-02.13.13:847][821]LogModuleManager: Shutting down and abandoning module BspMode (548)
+[2018.08.12-02.13.13:847][821]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (546)
+[2018.08.12-02.13.13:847][821]LogModuleManager: Shutting down and abandoning module HardwareSurvey (544)
+[2018.08.12-02.13.13:847][821]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (542)
+[2018.08.12-02.13.13:847][821]LogModuleManager: Shutting down and abandoning module AutomationWorker (540)
+[2018.08.12-02.13.13:847][821]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (538)
+[2018.08.12-02.13.13:847][821]LogModuleManager: Shutting down and abandoning module SequenceRecorder (537)
+[2018.08.12-02.13.13:847][821]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (534)
+[2018.08.12-02.13.13:847][821]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (532)
+[2018.08.12-02.13.13:847][821]LogModuleManager: Shutting down and abandoning module PlacementMode (531)
+[2018.08.12-02.13.13:847][821]LogModuleManager: Shutting down and abandoning module MaterialEditor (530)
+[2018.08.12-02.13.13:876][821]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (526)
+[2018.08.12-02.13.13:876][821]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (524)
+[2018.08.12-02.13.13:876][821]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (522)
+[2018.08.12-02.13.13:876][821]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (520)
+[2018.08.12-02.13.13:876][821]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (518)
+[2018.08.12-02.13.13:876][821]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (516)
+[2018.08.12-02.13.13:876][821]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (514)
+[2018.08.12-02.13.13:876][821]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (512)
+[2018.08.12-02.13.13:876][821]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (510)
+[2018.08.12-02.13.13:876][821]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (508)
+[2018.08.12-02.13.13:877][821]LogModuleManager: Shutting down and abandoning module CharacterAI (506)
+[2018.08.12-02.13.13:877][821]LogModuleManager: Shutting down and abandoning module SmartSnapping (504)
+[2018.08.12-02.13.13:877][821]LogModuleManager: Shutting down and abandoning module SessionServices (502)
+[2018.08.12-02.13.13:877][821]LogModuleManager: Shutting down and abandoning module ViewportSnapping (500)
+[2018.08.12-02.13.13:877][821]LogModuleManager: Shutting down and abandoning module ViewportInteraction (498)
+[2018.08.12-02.13.13:877][821]LogModuleManager: Shutting down and abandoning module ClothPainter (496)
+[2018.08.12-02.13.13:877][821]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (495)
+[2018.08.12-02.13.13:890][821]LogModuleManager: Shutting down and abandoning module LogVisualizer (492)
+[2018.08.12-02.13.13:890][821]LogModuleManager: Shutting down and abandoning module IntroTutorials (490)
+[2018.08.12-02.13.13:891][821]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (489)
+[2018.08.12-02.13.13:906][821]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (486)
+[2018.08.12-02.13.13:906][821]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (484)
+[2018.08.12-02.13.13:906][821]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (482)
+[2018.08.12-02.13.13:907][821]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (481)
+[2018.08.12-02.13.14:161][821]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (478)
+[2018.08.12-02.13.14:162][821]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (476)
+[2018.08.12-02.13.14:162][821]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (474)
+[2018.08.12-02.13.14:162][821]LogModuleManager: Shutting down and abandoning module InputBindingEditor (472)
+[2018.08.12-02.13.14:162][821]LogModuleManager: Shutting down and abandoning module MergeActors (470)
+[2018.08.12-02.13.14:166][821]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (468)
+[2018.08.12-02.13.14:171][821]LogModuleManager: Shutting down and abandoning module LocalizationService (467)
+[2018.08.12-02.13.14:171][821]LogModuleManager: Shutting down and abandoning module HardwareTargeting (464)
+[2018.08.12-02.13.14:171][821]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (462)
+[2018.08.12-02.13.14:171][821]LogModuleManager: Shutting down and abandoning module UndoHistory (460)
+[2018.08.12-02.13.14:171][821]LogModuleManager: Shutting down and abandoning module XmlParser (458)
+[2018.08.12-02.13.14:171][821]LogModuleManager: Shutting down and abandoning module Blutility (456)
+[2018.08.12-02.13.14:171][821]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (454)
+[2018.08.12-02.13.14:171][821]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (453)
+[2018.08.12-02.13.14:171][821]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (450)
+[2018.08.12-02.13.14:171][821]LogModuleManager: Shutting down and abandoning module SettingsEditor (448)
+[2018.08.12-02.13.14:182][821]LogModuleManager: Shutting down and abandoning module ProjectLauncher (446)
+[2018.08.12-02.13.14:192][821]LogModuleManager: Shutting down and abandoning module SessionFrontend (444)
+[2018.08.12-02.13.14:192][821]LogModuleManager: Shutting down and abandoning module ProfilerClient (442)
+[2018.08.12-02.13.14:200][821]LogModuleManager: Shutting down and abandoning module DeviceManager (440)
+[2018.08.12-02.13.14:200][821]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (439)
+[2018.08.12-02.13.14:256][821]LogModuleManager: Shutting down and abandoning module AutomationController (436)
+[2018.08.12-02.13.14:256][821]LogModuleManager: Shutting down and abandoning module AutomationWindow (434)
+[2018.08.12-02.13.14:277][821]LogModuleManager: Shutting down and abandoning module Layers (432)
+[2018.08.12-02.13.14:289][821]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (430)
+[2018.08.12-02.13.14:289][821]LogModuleManager: Shutting down and abandoning module DetailCustomizations (428)
+[2018.08.12-02.13.14:289][821]LogModuleManager: Shutting down and abandoning module PackagesDialog (426)
+[2018.08.12-02.13.14:289][821]LogModuleManager: Shutting down and abandoning module Persona (424)
+[2018.08.12-02.13.14:298][821]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (423)
+[2018.08.12-02.13.14:298][821]LogModuleManager: Shutting down and abandoning module AnimGraph (421)
+[2018.08.12-02.13.14:298][821]LogModuleManager: Shutting down and abandoning module Kismet (418)
+[2018.08.12-02.13.14:302][821]LogModuleManager: Shutting down and abandoning module GraphEditor (416)
+[2018.08.12-02.13.14:302][821]LogModuleManager: Shutting down and abandoning module ClassViewer (414)
+[2018.08.12-02.13.14:302][821]LogModuleManager: Shutting down and abandoning module Toolbox (412)
+[2018.08.12-02.13.14:302][821]LogModuleManager: Shutting down and abandoning module ModuleUI (410)
+[2018.08.12-02.13.14:312][821]LogModuleManager: Shutting down and abandoning module MovieSceneTools (408)
+[2018.08.12-02.13.14:312][821]LogModuleManager: Shutting down and abandoning module OutputLog (406)
+[2018.08.12-02.13.14:325][821]LogModuleManager: Shutting down and abandoning module GammaUI (404)
+[2018.08.12-02.13.14:325][821]LogModuleManager: Shutting down and abandoning module Documentation (402)
+[2018.08.12-02.13.14:325][821]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (400)
+[2018.08.12-02.13.14:330][821]LogModuleManager: Shutting down and abandoning module MovieScene (398)
+[2018.08.12-02.13.14:330][821]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (396)
+[2018.08.12-02.13.14:330][821]LogModuleManager: Shutting down and abandoning module LauncherPlatform (394)
+[2018.08.12-02.13.14:330][821]LogModuleManager: Shutting down and abandoning module AnalyticsET (392)
+[2018.08.12-02.13.14:330][821]LogModuleManager: Shutting down and abandoning module PortalServices (390)
+[2018.08.12-02.13.14:330][821]LogModuleManager: Shutting down and abandoning module PortalRpc (388)
+[2018.08.12-02.13.14:330][821]LogModuleManager: Shutting down and abandoning module MessagingRpc (386)
+[2018.08.12-02.13.14:330][821]LogModuleManager: Shutting down and abandoning module AIModule (384)
+[2018.08.12-02.13.14:330][821]LogModuleManager: Shutting down and abandoning module GameplayDebugger (383)
+[2018.08.12-02.13.14:330][821]LogModuleManager: Shutting down and abandoning module AITestSuite (381)
+[2018.08.12-02.13.14:330][821]LogModuleManager: Shutting down and abandoning module DesktopPlatform (378)
+[2018.08.12-02.13.14:330][821]LogModuleManager: Shutting down and abandoning module ProfilerService (376)
+[2018.08.12-02.13.14:550][821]LogModuleManager: Shutting down and abandoning module TaskGraph (374)
+[2018.08.12-02.13.14:550][821]LogModuleManager: Shutting down and abandoning module SteamVRController (372)
+[2018.08.12-02.13.14:550][821]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (370)
+[2018.08.12-02.13.14:550][821]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (368)
+[2018.08.12-02.13.14:550][821]LogModuleManager: Shutting down and abandoning module OculusInput (366)
+[2018.08.12-02.13.14:550][821]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (364)
+[2018.08.12-02.13.14:550][821]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (362)
+[2018.08.12-02.13.14:550][821]LogModuleManager: Shutting down and abandoning module CableComponent (360)
+[2018.08.12-02.13.14:550][821]LogModuleManager: Shutting down and abandoning module AudioCapture (358)
+[2018.08.12-02.13.14:550][821]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (356)
+[2018.08.12-02.13.14:550][821]LogModuleManager: Shutting down and abandoning module AndroidPermission (354)
+[2018.08.12-02.13.14:550][821]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (352)
+[2018.08.12-02.13.14:550][821]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (350)
+[2018.08.12-02.13.14:551][821]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (348)
+[2018.08.12-02.13.14:551][821]LogModuleManager: Shutting down and abandoning module MediaCompositing (346)
+[2018.08.12-02.13.14:551][821]LogModuleManager: Shutting down and abandoning module LinearTimecode (344)
+[2018.08.12-02.13.14:551][821]LogModuleManager: Shutting down and abandoning module ImgMedia (342)
+[2018.08.12-02.13.14:556][821]LogModuleManager: Shutting down and abandoning module HTML5Networking (340)
+[2018.08.12-02.13.14:557][821]LogModuleManager: Shutting down and abandoning module AlembicImporter (338)
+[2018.08.12-02.13.14:557][821]LogModuleManager: Shutting down and abandoning module AlembicLibrary (337)
+[2018.08.12-02.13.14:557][821]LogModuleManager: Shutting down and abandoning module GeometryCache (336)
+[2018.08.12-02.13.14:557][821]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (335)
+[2018.08.12-02.13.14:557][821]LogModuleManager: Shutting down and abandoning module DatasmithContent (330)
+[2018.08.12-02.13.14:557][821]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (328)
+[2018.08.12-02.13.14:557][821]LogModuleManager: Shutting down and abandoning module PluginBrowser (326)
+[2018.08.12-02.13.14:557][821]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (324)
+[2018.08.12-02.13.14:557][821]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (322)
+[2018.08.12-02.13.14:558][821]LogModuleManager: Shutting down and abandoning module CryptoKeys (320)
+[2018.08.12-02.13.14:558][821]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (318)
+[2018.08.12-02.13.14:558][821]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (316)
+[2018.08.12-02.13.14:558][821]LogModuleManager: Shutting down and abandoning module UObjectPlugin (314)
+[2018.08.12-02.13.14:559][821]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (312)
+[2018.08.12-02.13.14:559][821]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (310)
+[2018.08.12-02.13.14:559][821]LogModuleManager: Shutting down and abandoning module GitSourceControl (308)
+[2018.08.12-02.13.14:559][821]LogModuleManager: Shutting down and abandoning module SourceControl (307)
+[2018.08.12-02.13.14:559][821]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (304)
+[2018.08.12-02.13.14:560][821]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2018.08.12-02.13.14:560][821]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2018.08.12-02.13.14:560][821]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2018.08.12-02.13.14:560][821]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2018.08.12-02.13.14:560][821]LogModuleManager: Shutting down and abandoning module MeshPaint (295)
+[2018.08.12-02.13.14:560][821]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2018.08.12-02.13.14:560][821]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2018.08.12-02.13.14:560][821]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2018.08.12-02.13.14:560][821]LogModuleManager: Shutting down and abandoning module OculusEditor (286)
+[2018.08.12-02.13.14:560][821]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (284)
+[2018.08.12-02.13.14:560][821]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (282)
+[2018.08.12-02.13.14:560][821]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (280)
+[2018.08.12-02.13.14:560][821]LogModuleManager: Shutting down and abandoning module ActorSequence (278)
+[2018.08.12-02.13.14:560][821]LogModuleManager: Shutting down and abandoning module UdpMessaging (276)
+[2018.08.12-02.13.14:661][821]LogModuleManager: Shutting down and abandoning module TcpMessaging (274)
+[2018.08.12-02.13.14:762][821]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (272)
+[2018.08.12-02.13.14:762][821]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (270)
+[2018.08.12-02.13.14:762][821]LogModuleManager: Shutting down and abandoning module FacialAnimation (268)
+[2018.08.12-02.13.14:762][821]LogModuleManager: Shutting down and abandoning module DataValidation (266)
+[2018.08.12-02.13.14:762][821]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (264)
+[2018.08.12-02.13.14:762][821]LogModuleManager: Shutting down and abandoning module LevelEditor (263)
+[2018.08.12-02.13.14:764][821]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (262)
+[2018.08.12-02.13.14:764][821]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (260)
+[2018.08.12-02.13.14:764][821]LogModuleManager: Shutting down and abandoning module MainFrame (258)
+[2018.08.12-02.13.14:764][821]LogModuleManager: Shutting down and abandoning module HotReload (257)
+[2018.08.12-02.13.14:765][821]LogModuleManager: Shutting down and abandoning module ContentBrowser (253)
+[2018.08.12-02.13.14:767][821]LogModuleManager: Shutting down and abandoning module TreeMap (251)
+[2018.08.12-02.13.14:767][821]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (248)
+[2018.08.12-02.13.14:767][821]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (246)
+[2018.08.12-02.13.14:767][821]LogModuleManager: Shutting down and abandoning module LiveLink (244)
+[2018.08.12-02.13.15:299][821]LogModuleManager: Shutting down and abandoning module Paper2D (242)
+[2018.08.12-02.13.15:299][821]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (240)
+[2018.08.12-02.13.15:299][821]LogModuleManager: Shutting down and abandoning module WmfMedia (238)
+[2018.08.12-02.13.15:301][821]LogModuleManager: Shutting down and abandoning module Media (237)
+[2018.08.12-02.13.15:307][821]LogModuleManager: Shutting down and abandoning module PacketHandler (234)
+[2018.08.12-02.13.15:307][821]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (232)
+[2018.08.12-02.13.15:307][821]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (230)
+[2018.08.12-02.13.15:315][821]LogModuleManager: Shutting down and abandoning module MediaAssets (228)
+[2018.08.12-02.13.15:315][821]LogModuleManager: Shutting down and abandoning module Overlay (226)
+[2018.08.12-02.13.15:315][821]LogModuleManager: Shutting down and abandoning module OverlayEditor (225)
+[2018.08.12-02.13.15:315][821]LogModuleManager: Shutting down and abandoning module VREditor (222)
+[2018.08.12-02.13.15:330][821]LogModuleManager: Shutting down and abandoning module StringTableEditor (220)
+[2018.08.12-02.13.15:331][821]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (218)
+[2018.08.12-02.13.15:331][821]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (216)
+[2018.08.12-02.13.15:340][821]LogModuleManager: Shutting down and abandoning module FunctionalTesting (214)
+[2018.08.12-02.13.15:340][821]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (212)
+[2018.08.12-02.13.15:340][821]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (211)
+[2018.08.12-02.13.15:340][821]LogModuleManager: Shutting down and abandoning module UMG (208)
+[2018.08.12-02.13.15:340][821]LogModuleManager: Shutting down and abandoning module UMGEditor (207)
+[2018.08.12-02.13.15:340][821]LogModuleManager: Shutting down and abandoning module Sequencer (206)
+[2018.08.12-02.13.15:341][821]LogModuleManager: Shutting down and abandoning module MessageLog (203)
+[2018.08.12-02.13.15:341][821]LogModuleManager: Shutting down and abandoning module SlateReflector (198)
+[2018.08.12-02.13.15:367][821]LogModuleManager: Shutting down and abandoning module Slate (196)
+[2018.08.12-02.13.15:367][821]LogModuleManager: Shutting down and abandoning module EditorStyle (194)
+[2018.08.12-02.13.15:370][821]LogModuleManager: Shutting down and abandoning module MRMesh (192)
+[2018.08.12-02.13.15:370][821]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (190)
+[2018.08.12-02.13.15:371][821]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (188)
+[2018.08.12-02.13.15:371][821]LogModuleManager: Shutting down and abandoning module XAudio2 (186)
+[2018.08.12-02.13.15:371][821]LogModuleManager: Shutting down and abandoning module Networking (184)
+[2018.08.12-02.13.15:371][821]LogModuleManager: Shutting down and abandoning module Core (182)
+[2018.08.12-02.13.15:371][821]LogModuleManager: Shutting down and abandoning module LevelSequence (180)
+[2018.08.12-02.13.15:371][821]LogModuleManager: Shutting down and abandoning module KismetCompiler (178)
+[2018.08.12-02.13.15:371][821]LogModuleManager: Shutting down and abandoning module MeshUtilities (176)
+[2018.08.12-02.13.15:378][821]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (175)
+[2018.08.12-02.13.15:388][821]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (174)
+[2018.08.12-02.13.15:388][821]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (173)
+[2018.08.12-02.13.15:388][821]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (171)
+[2018.08.12-02.13.15:388][821]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (169)
+[2018.08.12-02.13.15:388][821]LogModuleManager: Shutting down and abandoning module MaterialBaking (165)
+[2018.08.12-02.13.15:389][821]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (161)
+[2018.08.12-02.13.15:390][821]LogModuleManager: Shutting down and abandoning module DerivedDataCache (158)
+[2018.08.12-02.13.15:461][821]LogDerivedDataCache: Shutdown
+[2018.08.12-02.13.15:461][821]LogModuleManager: Shutting down and abandoning module XGEController (156)
+[2018.08.12-02.13.15:461][821]LogXGEController: Cleaning working directory: C:/Users/maxsa/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.08.12-02.13.15:461][821]LogModuleManager: Shutting down and abandoning module TargetPlatform (154)
+[2018.08.12-02.13.15:461][821]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (153)
+[2018.08.12-02.13.15:461][821]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (151)
+[2018.08.12-02.13.15:465][821]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (149)
+[2018.08.12-02.13.15:469][821]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (147)
+[2018.08.12-02.13.15:469][821]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (145)
+[2018.08.12-02.13.15:469][821]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (143)
+[2018.08.12-02.13.15:469][821]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (141)
+[2018.08.12-02.13.15:469][821]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (139)
+[2018.08.12-02.13.15:469][821]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (137)
+[2018.08.12-02.13.15:469][821]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (135)
+[2018.08.12-02.13.15:469][821]LogModuleManager: Shutting down and abandoning module ImageWrapper (134)
+[2018.08.12-02.13.15:469][821]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (131)
+[2018.08.12-02.13.15:469][821]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (129)
+[2018.08.12-02.13.15:469][821]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (127)
+[2018.08.12-02.13.15:469][821]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (125)
+[2018.08.12-02.13.15:469][821]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2018.08.12-02.13.15:470][821]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2018.08.12-02.13.15:470][821]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2018.08.12-02.13.15:470][821]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2018.08.12-02.13.15:470][821]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2018.08.12-02.13.15:470][821]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2018.08.12-02.13.15:470][821]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2018.08.12-02.13.15:470][821]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2018.08.12-02.13.15:470][821]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2018.08.12-02.13.15:470][821]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (105)
+[2018.08.12-02.13.15:470][821]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (103)
+[2018.08.12-02.13.15:470][821]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (101)
+[2018.08.12-02.13.15:470][821]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (99)
+[2018.08.12-02.13.15:470][821]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (97)
+[2018.08.12-02.13.15:470][821]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (95)
+[2018.08.12-02.13.15:470][821]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (93)
+[2018.08.12-02.13.15:470][821]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (91)
+[2018.08.12-02.13.15:470][821]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (89)
+[2018.08.12-02.13.15:470][821]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (87)
+[2018.08.12-02.13.15:470][821]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (85)
+[2018.08.12-02.13.15:470][821]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (83)
+[2018.08.12-02.13.15:470][821]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (81)
+[2018.08.12-02.13.15:470][821]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (79)
+[2018.08.12-02.13.15:471][821]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (77)
+[2018.08.12-02.13.15:471][821]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (75)
+[2018.08.12-02.13.15:471][821]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (73)
+[2018.08.12-02.13.15:471][821]LogModuleManager: Shutting down and abandoning module InputCore (70)
+[2018.08.12-02.13.15:471][821]LogModuleManager: Shutting down and abandoning module Settings (68)
+[2018.08.12-02.13.15:471][821]LogModuleManager: Shutting down and abandoning module PhysXCooking (66)
+[2018.08.12-02.13.15:471][821]LogModuleManager: Shutting down and abandoning module SteamVR (64)
+[2018.08.12-02.13.15:471][821]LogModuleManager: Shutting down and abandoning module OculusHMD (62)
+[2018.08.12-02.13.15:471][821]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (60)
+[2018.08.12-02.13.15:471][821]LogModuleManager: Shutting down and abandoning module AppleARKit (58)
+[2018.08.12-02.13.15:471][821]LogModuleManager: Shutting down and abandoning module AugmentedReality (57)
+[2018.08.12-02.13.15:471][821]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (54)
+[2018.08.12-02.13.15:471][821]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (50)
+[2018.08.12-02.13.15:471][821]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.12-02.13.15:471][821]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.08.12-02.13.15:473][821]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.08.12-02.13.15:473][821]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.08.12-02.13.15:473][821]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.08.12-02.13.15:476][821]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.08.12-02.13.15:476][821]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.08.12-02.13.15:476][821]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF7EBA1BB-4DE3-3C76-9E01-728402F42A81%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=9b2d74f540de947067f12f85f0e10fc3%7C121cf0c067fc45bf8a47a34e1f08bd7e%7C6529c761-14eb-4014-bd30-d410aae9a07c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.08.12-02.13.15:478][821]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.08.12-02.13.15:480][821]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.08.12-02.13.15:480][821]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.08.12-02.13.15:494][821]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.08.12-02.13.15:503][821]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.08.12-02.13.15:503][821]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.08.12-02.13.15:503][821]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.08.12-02.13.15:503][821]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.08.12-02.13.15:512][821]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.08.12-02.13.15:521][821]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.08.12-02.13.15:521][821]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.08.12-02.13.15:521][821]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.08.12-02.13.15:521][821]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.08.12-02.13.15:521][821]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.08.12-02.13.15:521][821]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.08.12-02.13.15:522][821]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.08.12-02.13.15:522][821]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.08.12-02.13.15:522][821]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.08.12-02.13.15:522][821]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.08.12-02.13.15:560][821]LogExit: Exiting.
+[2018.08.12-02.13.15:582][821]Log file closed, 08/11/18 22:13:15
