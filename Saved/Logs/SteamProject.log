@@ -595,3 +595,66 @@ LogInit: Object subsystem initialized
 [2018.08.15-16.22.39:586][346]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/LobbyMenu9699A2074E095B5EF54F3A8855D3D24D.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/LobbyMenu.uasset'
 [2018.08.15-16.22.39:589][346]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/LobbyMenu.uasset
 [2018.08.15-16.22.41:756][578]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ed8d05a200, Size=616
+[2018.08.15-16.24.36:185][129]LogSlate: Took 0.101669 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.08.15-16.24.45:309][743]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ed85115810, Size=4, Default__SKEL_LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.SKEL_LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.08.15-16.24.52:989][366]BlueprintLog: New page: Compile LobbyMenu
+[2018.08.15-16.24.53:000][366]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ed85115810, Size=4
+[2018.08.15-16.24.53:000][366]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ed596cc938, Size=4, Default__SKEL_LobbyMenu_C Function /Engine/Transient.REINST_SKEL_LobbyMenu_C_33:ExecuteUbergraph_LobbyMenu
+[2018.08.15-16.24.53:031][366]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ed8a931e40, Size=272
+[2018.08.15-16.24.53:031][366]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ed92aa5f80, Size=272, LobbyMenu_C_37 Function /Engine/Transient.REINST_LobbyMenu_C_34:ExecuteUbergraph_LobbyMenu
+[2018.08.15-16.24.53:031][366]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ed89bfa480, Size=616
+[2018.08.15-16.24.53:031][366]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ed87f2ee80, Size=616, Default__LobbyPC_C Function /Engine/Transient.REINST_LobbyPC_C_96:ExecuteUbergraph_LobbyPC
+[2018.08.15-16.24.53:045][366]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ed2fa71d00, Size=272, Default__LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.08.15-16.24.53:048][366]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ed43871580, Size=616, Default__LobbyPC_C Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC
+[2018.08.15-16.24.53:071][366]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ed596cc938, Size=4
+[2018.08.15-16.26.24:715][607]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ed8a2d6578, Size=4, Default__SKEL_LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.SKEL_LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.08.15-16.26.53:748][635]BlueprintLog: New page: Compile LobbyMenu
+[2018.08.15-16.26.53:780][635]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ed8a2d6578, Size=4
+[2018.08.15-16.26.53:780][635]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ed85116ca8, Size=4, Default__SKEL_LobbyMenu_C Function /Engine/Transient.REINST_SKEL_LobbyMenu_C_36:ExecuteUbergraph_LobbyMenu
+[2018.08.15-16.26.53:828][635]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ed2fa71d00, Size=272
+[2018.08.15-16.26.53:828][635]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ed92ba4680, Size=272, LobbyMenu_C_42 Function /Engine/Transient.REINST_LobbyMenu_C_37:ExecuteUbergraph_LobbyMenu
+[2018.08.15-16.26.53:828][635]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ed43871580, Size=616
+[2018.08.15-16.26.53:828][635]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ed8afacb80, Size=616, LobbyPC_C_0 Function /Engine/Transient.REINST_LobbyPC_C_103:ExecuteUbergraph_LobbyPC
+[2018.08.15-16.26.53:843][635]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ed8cd965c0, Size=296, Default__LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.08.15-16.26.53:847][635]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ed34ef2c00, Size=616, Default__LobbyPC_C Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC
+[2018.08.15-16.26.53:869][635]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ed87f2ee80, Size=616
+[2018.08.15-16.26.53:870][635]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ed85116ca8, Size=4
+[2018.08.15-16.26.54:381][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.08.15-16.26.54:447][684]LogSavePackage: Save=53.23ms
+[2018.08.15-16.26.54:447][684]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/LobbyMenuD261BA64457D5D89D0B4F7AEFD454DE7.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.08.15-16.26.54:450][684]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/LobbyMenu.uasset
+[2018.08.15-16.27.20:385][663]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ed8afacb80, Size=616
+[2018.08.15-16.27.20:385][663]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ed92ba4680, Size=272
+[2018.08.15-16.27.20:773][663]LogSlate: Window 'SteamProject - Unreal Editor' being destroyed
+[2018.08.15-16.27.21:185][664]Cmd: QUIT_EDITOR
+[2018.08.15-16.27.21:488][664]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.15-16.27.21:524][664]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.08.15-16.27.21:540][664]LogExit: Preparing to exit.
+[2018.08.15-16.27.22:845][664]LogExit: Editor shut down
+[2018.08.15-16.27.22:852][664]LogExit: Transaction tracking system shut down
+[2018.08.15-16.27.22:854][664]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ed40d39d00, Size=296
+[2018.08.15-16.27.22:854][664]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ed92aa5f80, Size=272
+[2018.08.15-16.27.22:854][664]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ed1b108700, Size=176
+[2018.08.15-16.27.22:854][664]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ed40d3c9a0, Size=72
+[2018.08.15-16.27.22:854][664]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ed0962f200, Size=504
+[2018.08.15-16.27.22:854][664]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ed095e9d50, Size=80
+[2018.08.15-16.27.22:854][664]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ed08eaa548, Size=40
+[2018.08.15-16.27.22:854][664]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ed094a13d0, Size=104
+[2018.08.15-16.27.22:854][664]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ed09621800, Size=608
+[2018.08.15-16.27.22:855][664]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ed095c98a0, Size=32
+[2018.08.15-16.27.22:855][664]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ed1d866390, Size=112
+[2018.08.15-16.27.22:858][664]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ed4cd01cc8, Size=4
+[2018.08.15-16.27.22:858][664]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ed4cd01cc0, Size=4
+[2018.08.15-16.27.22:866][664]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ed89362300, Size=240
+[2018.08.15-16.27.22:867][664]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ed1718dd80, Size=176
+[2018.08.15-16.27.22:869][664]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ed83173100, Size=32
+[2018.08.15-16.27.22:869][664]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ed8cd965c0, Size=296
+[2018.08.15-16.27.22:869][664]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ed34ef2c00, Size=616
+[2018.08.15-16.27.23:108][664]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.08.15-16.27.23:109][664]LogDirectoryWatcher: A directory notification for 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/' was aborted.
+[2018.08.15-16.27.23:109][664]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.08.15-16.27.23:109][664]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.08.15-16.27.23:109][664]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.08.15-16.27.23:109][664]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.08.15-16.27.23:109][664]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.08.15-16.27.23:109][664]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
