@@ -488,3 +488,40 @@ LogInit: Object subsystem initialized
 [2018.08.29-05.34.18:150][706]LogSavePackage: Save=48.77ms
 [2018.08.29-05.34.18:150][706]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/GameSettingsA77FD9C24F682159F321C68EDE81930F.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/GameSettings.uasset'
 [2018.08.29-05.34.18:153][706]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/GameSettings.uasset
+[2018.08.29-05.35.09:331][419]LogSlate: Took 0.111590 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.08.29-05.35.15:179][112]LogUObjectGlobals: Created PersistentFrame Addr=0x00000203948e55d0, Size=4, Default__SKEL_GameSettings_C Function /Game/UI/Lobby/GameSettings.SKEL_GameSettings_C:ExecuteUbergraph_GameSettings
+[2018.08.29-05.35.19:180][579]BlueprintLog: New page: Compile GameSettings
+[2018.08.29-05.35.19:192][579]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000203948e55d0, Size=4
+[2018.08.29-05.35.19:192][579]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020398e23500, Size=4, Default__SKEL_GameSettings_C Function /Engine/Transient.REINST_SKEL_GameSettings_C_19:ExecuteUbergraph_GameSettings
+[2018.08.29-05.35.19:208][579]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020387afd050, Size=56
+[2018.08.29-05.35.19:208][579]LogUObjectGlobals: Created PersistentFrame Addr=0x00000203f86930e8, Size=56, GameSettings_C_15 Function /Engine/Transient.REINST_GameSettings_C_21:ExecuteUbergraph_GameSettings
+[2018.08.29-05.35.19:213][579]LogUObjectGlobals: Created PersistentFrame Addr=0x00000203f8692cf8, Size=56, Default__GameSettings_C Function /Game/UI/Lobby/GameSettings.GameSettings_C:ExecuteUbergraph_GameSettings
+[2018.08.29-05.35.19:237][579]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020398e23500, Size=4
+[2018.08.29-05.35.19:763][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/GameSettings" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/GameSettings.uasset" SILENT=true
+[2018.08.29-05.35.19:828][630]LogSavePackage: Save=49.83ms
+[2018.08.29-05.35.19:828][630]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/GameSettingsCCD5E1EF47748F625ADC739F8B05584F.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/GameSettings.uasset'
+[2018.08.29-05.35.19:831][630]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/GameSettings.uasset
+[2018.08.29-05.35.28:201][566]LogUObjectGlobals: Created PersistentFrame Addr=0x00000203948e68d0, Size=4, Default__SKEL_GameSettings_C Function /Game/UI/Lobby/GameSettings.SKEL_GameSettings_C:ExecuteUbergraph_GameSettings
+[2018.08.29-05.35.34:629][326]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000203948e68d0, Size=4
+[2018.08.29-05.35.34:629][326]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020398e21f90, Size=4, Default__SKEL_GameSettings_C Function /Engine/Transient.REINST_SKEL_GameSettings_C_23:ExecuteUbergraph_GameSettings
+[2018.08.29-05.35.34:632][326]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020398e22498, Size=4, Default__SKEL_GameSettings_C Function /Game/UI/Lobby/GameSettings.SKEL_GameSettings_C:ExecuteUbergraph_GameSettings
+[2018.08.29-05.36.32:016][730]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020398e22498, Size=4
+[2018.08.29-05.36.32:016][730]LogUObjectGlobals: Created PersistentFrame Addr=0x000002039db7a9c8, Size=4, Default__SKEL_GameSettings_C Function /Engine/Transient.REINST_SKEL_GameSettings_C_24:ExecuteUbergraph_GameSettings
+[2018.08.29-05.36.32:020][730]LogUObjectGlobals: Created PersistentFrame Addr=0x000002039db7b798, Size=4, Default__SKEL_GameSettings_C Function /Game/UI/Lobby/GameSettings.SKEL_GameSettings_C:ExecuteUbergraph_GameSettings
+[2018.08.29-05.36.45:104][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/GameSettings" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/GameSettings.uasset" SILENT=true
+[2018.08.29-05.36.45:183][935]LogSavePackage: Save=52.89ms
+[2018.08.29-05.36.45:183][935]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/GameSettings653F110A43E86D05B397749080A0426B.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/GameSettings.uasset'
+[2018.08.29-05.36.45:186][935]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/GameSettings.uasset
+[2018.08.29-05.36.45:628][986]BlueprintLog: New page: Compile GameSettings
+[2018.08.29-05.36.45:640][986]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002039db7b798, Size=4
+[2018.08.29-05.36.45:640][986]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020401742548, Size=4, Default__SKEL_GameSettings_C Function /Engine/Transient.REINST_SKEL_GameSettings_C_25:ExecuteUbergraph_GameSettings
+[2018.08.29-05.36.45:657][986]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000203f8692cf8, Size=56
+[2018.08.29-05.36.45:657][986]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020405e2fa88, Size=56, GameSettings_C_22 Function /Engine/Transient.REINST_GameSettings_C_27:ExecuteUbergraph_GameSettings
+[2018.08.29-05.36.45:663][986]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020405e2c218, Size=56, Default__GameSettings_C Function /Game/UI/Lobby/GameSettings.GameSettings_C:ExecuteUbergraph_GameSettings
+[2018.08.29-05.36.45:687][986]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020401742548, Size=4
+[2018.08.29-05.36.45:687][986]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002039db7a9c8, Size=4
+[2018.08.29-05.36.45:687][986]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020398e21f90, Size=4
+[2018.08.29-05.36.46:087][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/GameSettings" FILE="C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/GameSettings.uasset" SILENT=true
+[2018.08.29-05.36.46:151][ 22]LogSavePackage: Save=53.24ms
+[2018.08.29-05.36.46:151][ 22]LogSavePackage: Moving 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Saved/GameSettingsA10C03674EF29777CFD0B0BB2B370E3E.tmp' to 'C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/GameSettings.uasset'
+[2018.08.29-05.36.46:153][ 22]LogSavePackage: Display: Finished SavePackage C:/Users/maxsa/Desktop/Unreal Projects/SteamProject/Content/UI/Lobby/GameSettings.uasset
