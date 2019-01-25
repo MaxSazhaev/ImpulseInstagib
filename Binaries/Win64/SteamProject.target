@@ -5,15 +5,17 @@
 	"Version": 
 	{
 		"MajorVersion": 4,
-		"MinorVersion": 20,
-		"PatchVersion": 3,
-		"Changelist": 4369336,
-		"CompatibleChangelist": 4212847,
+		"MinorVersion": 21,
+		"PatchVersion": 2,
+		"Changelist": 4753647,
+		"CompatibleChangelist": 4541578,
 		"IsLicenseeVersion": 0,
 		"IsPromotedBuild": 1,
-		"BranchName": "++UE4+Release-4.20",
-		"BuildId": "4212847"
+		"BranchName": "++UE4+Release-4.21",
+		"BuildId": "4541578",
+		"BuildVersion": ""
 	},
+	"Launch": "$(ProjectDir)/Binaries/Win64/SteamProject.exe",
 	"BuildProducts": [
 		{
 			"Path": "$(ProjectDir)/Binaries/Win64/SteamProject.exe",
@@ -75,6 +77,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Enterprise/DatasmithContent/DatasmithContent.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Enterprise/VariantManagerContent/VariantManagerContent.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -174,10 +180,6 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Runtime/ImmediatePhysics/ImmediatePhysics.uplugin",
-			"Type": "UFS"
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/Runtime/LocationServicesBPLibrary/LocationServicesBPLibrary.uplugin",
 			"Type": "UFS"
 		},
@@ -206,8 +208,20 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Runtime/WebMMoviePlayer/WebMMoviePlayer.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Media/WebMMedia/WebMMedia.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin",
 			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll",
+			"Type": "NonUFS"
 		},
 		{
 			"Path": "$(EngineDir)/Content/Slate/Checkerboard.png",
@@ -1018,6 +1032,30 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Content/Slate/Icons/PIEWindow/SmallRoundedButton.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Icons/PIEWindow/SmallRoundedButtonBottom.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Icons/PIEWindow/SmallRoundedButtonCentre.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Icons/PIEWindow/SmallRoundedButtonLeft.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Icons/PIEWindow/SmallRoundedButtonRight.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Icons/PIEWindow/SmallRoundedButtonTop.png",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Content/Slate/Icons/PIEWindow/WindowButton_025x_Hovered.png",
 			"Type": "UFS"
 		},
@@ -1186,19 +1224,19 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll",
-			"Type": "NonUFS"
-		},
-		{
 			"Path": "$(EngineDir)/Binaries/ThirdParty/Steamworks/Steamv139/Win64/steam_api64.dll",
 			"Type": "NonUFS"
 		},
 		{
 			"Path": "$(EngineDir)/Config/controller.vdf",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/ThirdParty/Windows/DirectX/x64/WinPixEventRuntime.dll",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll",
 			"Type": "NonUFS"
 		},
 		{
@@ -1242,14 +1280,6 @@
 			"Type": "DebugNonUFS"
 		},
 		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundationPROFILE_x64.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDKPROFILE_x64.dll",
-			"Type": "NonUFS"
-		},
-		{
 			"Path": "$(EngineDir)/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_ClothingPROFILE_x64.dll",
 			"Type": "NonUFS"
 		},
@@ -1274,14 +1304,6 @@
 			"Type": "DebugNonUFS"
 		},
 		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/Windows/DirectX/x64/WinPixEventRuntime.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll",
-			"Type": "NonUFS"
-		},
-		{
 			"Path": "$(EngineDir)/Binaries/ThirdParty/PhysX3/Win64/VS2015/NvClothPROFILE_x64.dll",
 			"Type": "NonUFS"
 		},
@@ -1290,7 +1312,7 @@
 			"Type": "DebugNonUFS"
 		},
 		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/OpenVR/OpenVRv1_0_11/Win64/openvr_api.dll",
+			"Path": "$(EngineDir)/Binaries/ThirdParty/OpenVR/OpenVRv1_0_16/Win64/openvr_api.dll",
 			"Type": "NonUFS"
 		},
 		{
@@ -1304,14 +1326,6 @@
 		{
 			"Path": "$(EngineDir)/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll",
 			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3CookingPROFILE_x64.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3CookingPROFILE_x64.pdb",
-			"Type": "DebugNonUFS"
 		}
 	],
 	"AdditionalProperties": [
